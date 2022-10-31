@@ -63,9 +63,9 @@ namespace PIDtickets
         {
             HttpContent content = new StringContent(s, Encoding.UTF8, "application/json");
             HttpClient htc = new HttpClient();
-            string address = "https://nominatim.openstreetmap.org/search?q=" + s + "&format=geojson";
+            string address = "https://nominatim.openstreetmap.org/?addressdetails=" + s + "&format=json&limit=1";
             HttpResponseMessage response = await htc.PostAsync(address, content);
-            Out.Text = response.ToString() + Environment.NewLine + response.IsSuccessStatusCode.ToString();
+            Out.Text = response.ToString() + Environment.NewLine + response.IsSuccessStatusCode.ToString() + Environment.NewLine + response.StatusCode + Environment.NewLine + response.Content.ToString();
         }
     }
 }
