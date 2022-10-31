@@ -63,7 +63,7 @@ namespace PIDtickets
         {
             HttpContent content = new StringContent(s, Encoding.UTF8, "application/json");
             HttpClient htc = new HttpClient();
-            string address = "https://nominatim.openstreetmap.org/search?q=" + s + "&format=geojson"; //Proč yhazuje chybu? Chyba: Server neslyší:System.Net.Http.HttpRequestException: Nemohlo být vytvořeno žádné připojení, protože cílový počítač je aktivně odmítl.
+            string address = "https://nominatim.openstreetmap.org/search?q=" + s + "&format=geojson"; //Proč vyhazuje chybu? Chyba: Server neslyší:System.Net.Http.HttpRequestException: Nemohlo být vytvořeno žádné připojení, protože cílový počítač je aktivně odmítl.
                                                                                                       //--->System.Net.Sockets.SocketException(10061): Nemohlo být vytvořeno žádné připojení, protože cílový počítač je aktivně odmítl.
                                                                                                       //at System.Net.Http.ConnectHelper.ConnectAsync(String host, Int32 port, CancellationToken cancellationToken)
                                                                                                       //-- - End of inner exception stack trace-- -
