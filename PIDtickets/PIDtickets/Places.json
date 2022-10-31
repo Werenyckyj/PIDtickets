@@ -1,0 +1,8352 @@
+[
+  {
+    "id": "dp3",
+    "type": "ticketMachine",
+    "name": "Pasáž Sofie",
+    "address": "Sofijské námìstí 3400, Modøany, Praha 4",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "8:00-20:00"
+      }
+    ],
+    "lat": 50.00562,
+    "lon": 14.4182835,
+    "services": 196608,
+    "payMethods": 1
+  },
+  {
+    "id": "dp673",
+    "type": "ticketMachine",
+    "name": "A&O Prag Rhea",
+    "address": "V Úžlabinì 3068/19, Strašnice, Praha 10",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "5:00-24:00"
+      }
+    ],
+    "lat": 50.07977,
+    "lon": 14.4995461,
+    "services": 196608,
+    "payMethods": 5
+  },
+  {
+    "id": "dp6",
+    "type": "ticketMachine",
+    "name": "Hotel Uno",
+    "address": "Štìchovická, Strašnice, Praha 10",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "8:00-22:00"
+      }
+    ],
+    "lat": 50.0717659,
+    "lon": 14.4999485,
+    "services": 196608,
+    "payMethods": 1
+  },
+  {
+    "id": "dp7",
+    "type": "ticketMachine",
+    "name": "Psychiatrická nemocnice Bohnice",
+    "address": "Ústavní, Bohnice, Praha 8",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "0:00-24:00"
+      }
+    ],
+    "lat": 50.1336327,
+    "lon": 14.4240017,
+    "services": 196608,
+    "payMethods": 1
+  },
+  {
+    "id": "dp9",
+    "type": "ticketMachine",
+    "name": "Okoøská",
+    "address": "K Ládví 344/4, Èimice, Praha 8",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "0:00-24:00"
+      }
+    ],
+    "lat": 50.13585,
+    "lon": 14.4311657,
+    "services": 196608,
+    "payMethods": 1
+  },
+  {
+    "id": "dp11",
+    "type": "ticketMachine",
+    "name": "Mníšek pod Brdy",
+    "address": "Námìstí F.X.Svobody, Mníšek pod Brdy",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "0:00-24:00"
+      }
+    ],
+    "lat": 49.86647,
+    "lon": 14.2612429,
+    "services": 196608,
+    "payMethods": 1
+  },
+  {
+    "id": "dp15",
+    "type": "ticketMachine",
+    "name": "Tehovièky",
+    "address": "Mírová, Kolovraty, Praha 10",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "0:00-24:00"
+      }
+    ],
+    "lat": 50.0123749,
+    "lon": 14.6241436,
+    "services": 196608,
+    "payMethods": 1
+  },
+  {
+    "id": "dp662",
+    "type": "ticketMachine",
+    "name": "Nemocnice Na Homolce",
+    "address": "Roentgenova, Motol (recepce nemocnice), Praha 5",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "0:00-24:00"
+      }
+    ],
+    "lat": 50.0755043,
+    "lon": 14.3541489,
+    "services": 196608,
+    "payMethods": 5
+  },
+  {
+    "id": "dp22",
+    "type": "ticketMachine",
+    "name": "Satalice",
+    "address": "K Radonicùm, Satalice, Praha 9",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "0:00-24:00"
+      }
+    ],
+    "lat": 50.12568,
+    "lon": 14.5720673,
+    "services": 196608,
+    "payMethods": 1
+  },
+  {
+    "id": "dp23",
+    "type": "ticketMachine",
+    "name": "Hotel Kvìtnice",
+    "address": "Na Kvìtnici, Nusle (recepce hotelu), Praha 4",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "0:00-24:00"
+      }
+    ],
+    "lat": 50.0601921,
+    "lon": 14.4392977,
+    "services": 196608,
+    "payMethods": 1
+  },
+  {
+    "id": "dp25",
+    "type": "ticketMachine",
+    "name": "Zentiva",
+    "address": "U Kabelovny, Dolní Mìcholupy (objekt Zentivy), Praha 10",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "0:00-24:00"
+      }
+    ],
+    "lat": 50.0609779,
+    "lon": 14.5453682,
+    "services": 196608,
+    "payMethods": 1
+  },
+  {
+    "id": "dp651",
+    "type": "ticketMachine",
+    "name": "Andìl Knížecí",
+    "address": "Ostrovského, Smíchov, Praha 5",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "0:00-24:00"
+      }
+    ],
+    "lat": 50.0689659,
+    "lon": 14.4043036,
+    "services": 196608,
+    "payMethods": 5
+  },
+  {
+    "id": "dp27",
+    "type": "ticketMachine",
+    "name": "U Støediska",
+    "address": "Dolnomìcholupská 168/37, Dolní Mìcholupy, Praha 10",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "0:00-24:00"
+      }
+    ],
+    "lat": 50.0585938,
+    "lon": 14.5573187,
+    "services": 196608,
+    "payMethods": 1
+  },
+  {
+    "id": "dp28",
+    "type": "ticketMachine",
+    "name": "Dolní Bøežany, námìstí",
+    "address": "Pražská, Dolní Bøežany, Dolní Bøežany - Praha západ",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "0:00-24:00"
+      }
+    ],
+    "lat": 49.96364,
+    "lon": 14.4588223,
+    "services": 196608,
+    "payMethods": 1
+  },
+  {
+    "id": "dp29",
+    "type": "ticketMachine",
+    "name": "Koh-i-noor",
+    "address": "Vršovická 51, Vršovice, Praha 10",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "0:00-24:00"
+      }
+    ],
+    "lat": 50.06754,
+    "lon": 14.4606218,
+    "services": 196608,
+    "payMethods": 1
+  },
+  {
+    "id": "dp30",
+    "type": "ticketMachine",
+    "name": "U Památníku",
+    "address": "Husitská, Žižkov, Praha 3",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "0:00-24:00"
+      }
+    ],
+    "lat": 50.0868149,
+    "lon": 14.4455976,
+    "services": 196608,
+    "payMethods": 1
+  },
+  {
+    "id": "dp449",
+    "type": "ticketMachine",
+    "name": "Kunratice",
+    "address": "Nám. Prezidenta Masaryka 109, Kunratice, Praha 4",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "0:00-24:00"
+      }
+    ],
+    "lat": 50.0133247,
+    "lon": 14.4850292,
+    "services": 196608,
+    "payMethods": 5
+  },
+  {
+    "id": "dp38",
+    "type": "ticketMachine",
+    "name": "Knovízská",
+    "address": "Blažimská, Chodov, Praha 4",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "0:00-24:00"
+      }
+    ],
+    "lat": 50.04166,
+    "lon": 14.4996243,
+    "services": 196608,
+    "payMethods": 1
+  },
+  {
+    "id": "dp40",
+    "type": "ticketMachine",
+    "name": "Èestlice, Albert hypermarket",
+    "address": "Obchodní, Èestlice - Praha východ",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "0:00-24:00"
+      }
+    ],
+    "lat": 50.00455,
+    "lon": 14.57492,
+    "services": 196608,
+    "payMethods": 1
+  },
+  {
+    "id": "dp42",
+    "type": "ticketMachine",
+    "name": "Lipence",
+    "address": "K Obci 47, Lipence (mìstský úøad), Praha 5",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "0:00-24:00"
+      }
+    ],
+    "lat": 49.959877,
+    "lon": 14.35429,
+    "services": 196608,
+    "payMethods": 1
+  },
+  {
+    "id": "dp472",
+    "type": "ticketMachine",
+    "name": "Mostecká",
+    "address": "Mostecká 53/4, Malá Strana, Praha 1",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "8:00-19:00"
+      }
+    ],
+    "lat": 50.0873642,
+    "lon": 14.4066811,
+    "services": 196608,
+    "payMethods": 5
+  },
+  {
+    "id": "dp50",
+    "type": "ticketMachine",
+    "name": "Obchodní centrum Zlièín",
+    "address": "Skandinávská 141, Zlièín, Praha 5",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "0:00-24:00"
+      }
+    ],
+    "lat": 50.05032,
+    "lon": 14.2977839,
+    "services": 196608,
+    "payMethods": 1
+  },
+  {
+    "id": "dp51",
+    "type": "ticketMachine",
+    "name": "Sídlištì Øepy",
+    "address": "Makovského, Øepy, Praha 6",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "0:00-24:00"
+      }
+    ],
+    "lat": 50.06507,
+    "lon": 14.2985029,
+    "services": 196608,
+    "payMethods": 1
+  },
+  {
+    "id": "dp448",
+    "type": "ticketMachine",
+    "name": "Tupolevova",
+    "address": "Tupolevova, Letòany (parkovištì), Praha 9",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "0:00-24:00"
+      }
+    ],
+    "lat": 50.13451,
+    "lon": 14.50621,
+    "services": 196608,
+    "payMethods": 5
+  },
+  {
+    "id": "dp53",
+    "type": "ticketMachine",
+    "name": "Ruzynì Modrá ubytovna",
+    "address": "K Letišti 916, Ruzynì, Praha 6",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "8:00-19:00"
+      }
+    ],
+    "lat": 50.097683,
+    "lon": 14.2913046,
+    "services": 196608,
+    "payMethods": 1
+  },
+  {
+    "id": "dp54",
+    "type": "ticketMachine",
+    "name": "Ruzynì vojenská ubytovna",
+    "address": "U Prioru 938/6, Ruzynì, Praha 6",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "8:00-19:00"
+      }
+    ],
+    "lat": 50.08784,
+    "lon": 14.3156271,
+    "services": 196608,
+    "payMethods": 1
+  },
+  {
+    "id": "dp55",
+    "type": "ticketMachine",
+    "name": "Ïáblice",
+    "address": "Ïáblická 339/14, Ïáblice, Praha 8",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "0:00-24:00"
+      }
+    ],
+    "lat": 50.14489,
+    "lon": 14.4852457,
+    "services": 196608,
+    "payMethods": 1
+  },
+  {
+    "id": "dp58",
+    "type": "ticketMachine",
+    "name": "Lysá nad Labem ÈD",
+    "address": "nádraží, Lysá nad Labem - Praha východ",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "0:00-24:00"
+      }
+    ],
+    "lat": 50.19586,
+    "lon": 14.8429337,
+    "services": 196608,
+    "payMethods": 1
+  },
+  {
+    "id": "dp59",
+    "type": "ticketMachine",
+    "name": "Újezd nad Lesy",
+    "address": "Starokolínská, Újezd nad Lesy, Praha 9",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "0:00-24:00"
+      }
+    ],
+    "lat": 50.07639,
+    "lon": 14.6589718,
+    "services": 196608,
+    "payMethods": 1
+  },
+  {
+    "id": "dp66",
+    "type": "ticketMachine",
+    "name": "Nádraží Radotín",
+    "address": "Vrážská, Radotín, Praha 5",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "0:00-24:00"
+      }
+    ],
+    "lat": 49.9842339,
+    "lon": 14.3625975,
+    "services": 196608,
+    "payMethods": 1
+  },
+  {
+    "id": "dp67",
+    "type": "ticketMachine",
+    "name": "Vršovice ÈD",
+    "address": "Vršovice (nádraží), Praha 10",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "0:00-24:00"
+      }
+    ],
+    "lat": 50.0648537,
+    "lon": 14.4477749,
+    "services": 196608,
+    "payMethods": 1
+  },
+  {
+    "id": "dp71",
+    "type": "ticketMachine",
+    "name": "Centrum Zahradní Mìsto",
+    "address": "Topolová, Zahradní Mìsto, Praha 10",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "0:00-24:00"
+      }
+    ],
+    "lat": 50.0568237,
+    "lon": 14.50714,
+    "services": 196608,
+    "payMethods": 1
+  },
+  {
+    "id": "dp72",
+    "type": "ticketMachine",
+    "name": "Mìstský úøad Neratovice",
+    "address": "Kojetická 1028, Neratovice, Neratovice",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "0:00-24:00"
+      }
+    ],
+    "lat": 50.2555923,
+    "lon": 14.5204191,
+    "services": 196608,
+    "payMethods": 1
+  },
+  {
+    "id": "dp76",
+    "type": "ticketMachine",
+    "name": "Rudná, U kina",
+    "address": "Masarykova, Rudná, Rudná - Praha západ",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "0:00-24:00"
+      }
+    ],
+    "lat": 50.0340157,
+    "lon": 14.2321043,
+    "services": 196608,
+    "payMethods": 1
+  },
+  {
+    "id": "dp150",
+    "type": "ticketMachine",
+    "name": "Orionka",
+    "address": "Korunní 110, Vinohrady, Praha 10",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "0:00-24:00"
+      }
+    ],
+    "lat": 50.0754662,
+    "lon": 14.4599743,
+    "services": 196608,
+    "payMethods": 5
+  },
+  {
+    "id": "dp1",
+    "type": "ticketMachine",
+    "name": "Petøín",
+    "address": "Lanovka na Petøín, Praha 1",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "8:00-23:00"
+      }
+    ],
+    "lat": 50.0820274,
+    "lon": 14.3965349,
+    "services": 196608,
+    "payMethods": 5
+  },
+  {
+    "id": "dp1107",
+    "type": "ticketMachine",
+    "name": "Nebozízek",
+    "address": "Lanovka na Petøín, Praha 1",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "8:00-23:00"
+      }
+    ],
+    "lat": 50.0822525,
+    "lon": 14.3991661,
+    "services": 196608,
+    "payMethods": 5
+  },
+  {
+    "id": "dp1335",
+    "type": "ticketMachine",
+    "name": "Újezd",
+    "address": "Lanovka na Petøín, Praha 1",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "8:00-23:00"
+      }
+    ],
+    "lat": 50.0827141,
+    "lon": 14.403904,
+    "services": 196608,
+    "payMethods": 5
+  },
+  {
+    "id": "dp84",
+    "type": "ticketMachine",
+    "name": "Cílkova",
+    "address": "Zdislavická 583, Modøany (Jasná), Praha 4",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "0:00-24:00"
+      }
+    ],
+    "lat": 50.01695,
+    "lon": 14.4432287,
+    "services": 196608,
+    "payMethods": 1
+  },
+  {
+    "id": "dp86",
+    "type": "ticketMachine",
+    "name": "Milovice",
+    "address": "Nádražní, nádraží, Milovice - Praha východ",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "0:00-24:00"
+      }
+    ],
+    "lat": 50.2291527,
+    "lon": 14.8819389,
+    "services": 196608,
+    "payMethods": 1
+  },
+  {
+    "id": "dp652",
+    "type": "ticketMachine",
+    "name": "Milovice ÈD",
+    "address": "Nádražní, nádraží, Milovice - Praha východ",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "0:00-24:00"
+      }
+    ],
+    "lat": 50.2291527,
+    "lon": 14.8819389,
+    "services": 196608,
+    "payMethods": 5
+  },
+  {
+    "id": "dp88",
+    "type": "ticketMachine",
+    "name": "Smržovská",
+    "address": "Slavìtínská, Klánovice, Praha 9",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "0:00-24:00"
+      }
+    ],
+    "lat": 50.0949135,
+    "lon": 14.6687794,
+    "services": 196608,
+    "payMethods": 1
+  },
+  {
+    "id": "dp90",
+    "type": "ticketMachine",
+    "name": "Sídlištì Novodvorská",
+    "address": "Novodvorská 126, Lhotka, Praha 4",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "0:00-24:00"
+      }
+    ],
+    "lat": 50.02529,
+    "lon": 14.43446,
+    "services": 196608,
+    "payMethods": 1
+  },
+  {
+    "id": "dp91",
+    "type": "ticketMachine",
+    "name": "Štìpnièná",
+    "address": "Støelnièná 1347/47, Ïáblice (prodejna), Praha 8",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "0:00-24:00"
+      }
+    ],
+    "lat": 50.12866,
+    "lon": 14.476222,
+    "services": 196608,
+    "payMethods": 1
+  },
+  {
+    "id": "dp93",
+    "type": "ticketMachine",
+    "name": "Vinoøský høbitov",
+    "address": "Mladoboleslavská 162, Vinoø, Praha 9",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "0:00-24:00"
+      }
+    ],
+    "lat": 50.1441345,
+    "lon": 14.5794411,
+    "services": 196608,
+    "payMethods": 1
+  },
+  {
+    "id": "dp94",
+    "type": "ticketMachine",
+    "name": "Èernínova",
+    "address": "Konìvova 738/55, Žižkov, Praha 3",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "0:00-24:00"
+      }
+    ],
+    "lat": 50.08884,
+    "lon": 14.4605341,
+    "services": 196608,
+    "payMethods": 1
+  },
+  {
+    "id": "dp95",
+    "type": "ticketMachine",
+    "name": "Øíèany, námìstí",
+    "address": "Masarykovo námìstí, Øíèany - Praha východ",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "0:00-24:00"
+      }
+    ],
+    "lat": 49.99158,
+    "lon": 14.6557274,
+    "services": 196608,
+    "payMethods": 1
+  },
+  {
+    "id": "dp661",
+    "type": "ticketMachine",
+    "name": "Mama Shelter Prague (Parkhotel)",
+    "address": "Veletržní 20, Holešovice (recepce hotelu), Praha 7",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "0:00-24:00"
+      }
+    ],
+    "lat": 50.102272,
+    "lon": 14.4316921,
+    "services": 196608,
+    "payMethods": 5
+  },
+  {
+    "id": "dp642",
+    "type": "ticketMachine",
+    "name": "Èernokostelecká",
+    "address": "Èernokostelecká, Strašnice, Praha 10",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "0:00-24:00"
+      }
+    ],
+    "lat": 50.0779457,
+    "lon": 14.5092306,
+    "services": 196608,
+    "payMethods": 5
+  },
+  {
+    "id": "dp99",
+    "type": "ticketMachine",
+    "name": "Kubánské námìstí",
+    "address": "Kubánské námìstí 92, Vršovice, Praha 10",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "0:00-24:00"
+      }
+    ],
+    "lat": 50.0705757,
+    "lon": 14.4769821,
+    "services": 196608,
+    "payMethods": 1
+  },
+  {
+    "id": "dp100",
+    "type": "ticketMachine",
+    "name": "Bakovská",
+    "address": "Bakovská, Kbely, Praha 9",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "0:00-24:00"
+      }
+    ],
+    "lat": 50.1348076,
+    "lon": 14.5491018,
+    "services": 196608,
+    "payMethods": 1
+  },
+  {
+    "id": "dp101",
+    "type": "ticketMachine",
+    "name": "Uhøínìves",
+    "address": "Nové námìstí 1257/8, Uhøínìves, Praha 22",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "0:00-24:00"
+      }
+    ],
+    "lat": 50.0314522,
+    "lon": 14.5998812,
+    "services": 196608,
+    "payMethods": 1
+  },
+  {
+    "id": "dp102",
+    "type": "ticketMachine",
+    "name": "Kbely",
+    "address": "Mladoboleslavská 565, Kbely, Praha 9",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "0:00-24:00"
+      }
+    ],
+    "lat": 50.1310158,
+    "lon": 14.5518045,
+    "services": 196608,
+    "payMethods": 1
+  },
+  {
+    "id": "dp104",
+    "type": "ticketMachine",
+    "name": "Kostelec nad Èernými lesy, nám.",
+    "address": "Námìstí Smiøických, Kostelec nad Èernými lesy",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "0:00-24:00"
+      }
+    ],
+    "lat": 49.994194,
+    "lon": 14.8602648,
+    "services": 196608,
+    "payMethods": 1
+  },
+  {
+    "id": "dp110",
+    "type": "ticketMachine",
+    "name": "Mìlník, autobusové stanovištì",
+    "address": "Autobusové nádraží, Mìlník",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "0:00-24:00"
+      }
+    ],
+    "lat": 50.0756454,
+    "lon": 14.5154972,
+    "services": 196608,
+    "payMethods": 1
+  },
+  {
+    "id": "dp116",
+    "type": "ticketMachine",
+    "name": "Roztoky ÈD",
+    "address": "nádraží, Roztoky u Prahy",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "0:00-24:00"
+      }
+    ],
+    "lat": 50.1596565,
+    "lon": 14.3980474,
+    "services": 196608,
+    "payMethods": 1
+  },
+  {
+    "id": "dp118",
+    "type": "ticketMachine",
+    "name": "Hostivice ÈD",
+    "address": "nádraží, Hostivice - Praha západ",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "0:00-24:00"
+      }
+    ],
+    "lat": 50.08382,
+    "lon": 14.2583094,
+    "services": 196608,
+    "payMethods": 1
+  },
+  {
+    "id": "dp119",
+    "type": "ticketMachine",
+    "name": "Hotel Don Giovanni",
+    "address": "Želivského, Praha 3",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "0:00-24:00"
+      }
+    ],
+    "lat": 50.0785,
+    "lon": 14.4760485,
+    "services": 196608,
+    "payMethods": 1
+  },
+  {
+    "id": "dp125",
+    "type": "ticketMachine",
+    "name": "Chodovská",
+    "address": "U Plynárny, Michle, Praha 10",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "0:00-24:00"
+      }
+    ],
+    "lat": 50.056942,
+    "lon": 14.4686031,
+    "services": 196608,
+    "payMethods": 1
+  },
+  {
+    "id": "dp127",
+    "type": "ticketMachine",
+    "name": "Èernošice ÈD",
+    "address": "Radotínská, Èernošice - Praha západ",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "0:00-24:00"
+      }
+    ],
+    "lat": 49.959034,
+    "lon": 14.3232441,
+    "services": 196608,
+    "payMethods": 1
+  },
+  {
+    "id": "dp128",
+    "type": "ticketMachine",
+    "name": "Úvaly ÈD",
+    "address": "nádraží, Úvaly - Praha východ",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "0:00-24:00"
+      }
+    ],
+    "lat": 50.07471,
+    "lon": 14.7227507,
+    "services": 196608,
+    "payMethods": 1
+  },
+  {
+    "id": "dp129",
+    "type": "ticketMachine",
+    "name": "Gercenova",
+    "address": "Plukovníka Mráze, Hostivaø, Praha 10",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "0:00-24:00"
+      }
+    ],
+    "lat": 50.0503464,
+    "lon": 14.5436935,
+    "services": 196608,
+    "payMethods": 5
+  },
+  {
+    "id": "dp138",
+    "type": "ticketMachine",
+    "name": "Èeský Brod ÈD",
+    "address": "nádraží, Èeský Brod",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "0:00-24:00"
+      }
+    ],
+    "lat": 50.0764275,
+    "lon": 14.865757,
+    "services": 196608,
+    "payMethods": 1
+  },
+  {
+    "id": "dp139",
+    "type": "ticketMachine",
+    "name": "Hostivice",
+    "address": "Èeskoslov.armády 17, Hostivice - Praha západ",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "0:00-24:00"
+      }
+    ],
+    "lat": 50.0812454,
+    "lon": 14.2556868,
+    "services": 196608,
+    "payMethods": 1
+  },
+  {
+    "id": "dp159",
+    "type": "ticketMachine",
+    "name": "Èelákovice ÈD",
+    "address": "nádraží, Èelákovice",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "0:00-24:00"
+      }
+    ],
+    "lat": 50.15798,
+    "lon": 14.753953,
+    "services": 196608,
+    "payMethods": 1
+  },
+  {
+    "id": "dp166",
+    "type": "ticketMachine",
+    "name": "Stránèice ÈD II",
+    "address": "nádraží, Stránèice",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "0:00-24:00"
+      }
+    ],
+    "lat": 49.9495468,
+    "lon": 14.6776781,
+    "services": 196608,
+    "payMethods": 1
+  },
+  {
+    "id": "dp1434",
+    "type": "ticketMachine",
+    "name": "Stránèice ÈD",
+    "address": "nádraží, Stránèice",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "0:00-24:00"
+      }
+    ],
+    "lat": 49.9495468,
+    "lon": 14.6776781,
+    "services": 196608,
+    "payMethods": 5
+  },
+  {
+    "id": "dp189",
+    "type": "ticketMachine",
+    "name": "Hotel Fortuna West",
+    "address": "Mrkvièkova 2, Øepy, Praha 6",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "0:00-24:00"
+      }
+    ],
+    "lat": 50.06563,
+    "lon": 14.3188286,
+    "services": 196608,
+    "payMethods": 1
+  },
+  {
+    "id": "dp196",
+    "type": "ticketMachine",
+    "name": "Na Vartì",
+    "address": "Milánská 311, Horní Mìcholupy, Praha 10",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "0:00-24:00"
+      }
+    ],
+    "lat": 50.04557,
+    "lon": 14.5578432,
+    "services": 196608,
+    "payMethods": 1
+  },
+  {
+    "id": "dp198",
+    "type": "ticketMachine",
+    "name": "Kladno autobusové nádraží",
+    "address": "Dukelských hrdinù, Kladno",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "0:00-24:00"
+      }
+    ],
+    "lat": 50.1464462,
+    "lon": 14.1056509,
+    "services": 196608,
+    "payMethods": 1
+  },
+  {
+    "id": "dp199",
+    "type": "ticketMachine",
+    "name": "Kladno ÈD",
+    "address": "nádraží, Kladno",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "0:00-24:00"
+      }
+    ],
+    "lat": 50.1281128,
+    "lon": 14.1135263,
+    "services": 196608,
+    "payMethods": 1
+  },
+  {
+    "id": "dp261",
+    "type": "ticketMachine",
+    "name": "Peèky ÈD",
+    "address": "nádraží, Peèky",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "0:00-24:00"
+      }
+    ],
+    "lat": 50.0898933,
+    "lon": 15.0275917,
+    "services": 196608,
+    "payMethods": 1
+  },
+  {
+    "id": "dp262",
+    "type": "ticketMachine",
+    "name": "Libèice ÈD",
+    "address": "nádraží, Libèice",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "0:00-24:00"
+      }
+    ],
+    "lat": 50.19991,
+    "lon": 14.3638449,
+    "services": 196608,
+    "payMethods": 1
+  },
+  {
+    "id": "dp263",
+    "type": "ticketMachine",
+    "name": "Kralupy nad Vltavou ÈD",
+    "address": "nádraží, Kralupy nad Vltavou",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "0:00-24:00"
+      }
+    ],
+    "lat": 50.23892,
+    "lon": 14.3135624,
+    "services": 196608,
+    "payMethods": 1
+  },
+  {
+    "id": "dp264",
+    "type": "ticketMachine",
+    "name": "Dobøichovice ÈD",
+    "address": "nádraží, Dobøichovice",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "0:00-24:00"
+      }
+    ],
+    "lat": 49.9272957,
+    "lon": 14.2879019,
+    "services": 196608,
+    "payMethods": 1
+  },
+  {
+    "id": "dp265",
+    "type": "ticketMachine",
+    "name": "Øevnice ÈD",
+    "address": "nádraží, Øevnice",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "0:00-24:00"
+      }
+    ],
+    "lat": 49.91627,
+    "lon": 14.2388554,
+    "services": 196608,
+    "payMethods": 5
+  },
+  {
+    "id": "dp266",
+    "type": "ticketMachine",
+    "name": "Zadní Tøebáò ÈD",
+    "address": "nádraží, Zadní Tøebáò",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "0:00-24:00"
+      }
+    ],
+    "lat": 49.9185677,
+    "lon": 14.2031631,
+    "services": 196608,
+    "payMethods": 1
+  },
+  {
+    "id": "dp267",
+    "type": "ticketMachine",
+    "name": "Karlštejn ÈD",
+    "address": "nádraží, Karlštejn",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "0:00-24:00"
+      }
+    ],
+    "lat": 49.93217,
+    "lon": 14.1758766,
+    "services": 196608,
+    "payMethods": 1
+  },
+  {
+    "id": "dp268",
+    "type": "ticketMachine",
+    "name": "Beroun ÈD",
+    "address": "nádraží, Beroun",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "0:00-24:00"
+      }
+    ],
+    "lat": 49.9576836,
+    "lon": 14.076148,
+    "services": 196608,
+    "payMethods": 1
+  },
+  {
+    "id": "dp269",
+    "type": "ticketMachine",
+    "name": "Vrané nad Vltavou ÈD",
+    "address": "nádraží, Vrané nad Vltavou",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "0:00-24:00"
+      }
+    ],
+    "lat": 49.93872,
+    "lon": 14.3812208,
+    "services": 196608,
+    "payMethods": 1
+  },
+  {
+    "id": "dp270",
+    "type": "ticketMachine",
+    "name": "Øíèany ÈD",
+    "address": "nádraží, Øíèany",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "0:00-24:00"
+      }
+    ],
+    "lat": 49.99745,
+    "lon": 14.6638689,
+    "services": 196608,
+    "payMethods": 1
+  },
+  {
+    "id": "dp272",
+    "type": "ticketMachine",
+    "name": "Mnichovice ÈD",
+    "address": "nádraží, Mnichovice",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "0:00-24:00"
+      }
+    ],
+    "lat": 49.93257,
+    "lon": 14.7073822,
+    "services": 196608,
+    "payMethods": 1
+  },
+  {
+    "id": "dp273",
+    "type": "ticketMachine",
+    "name": "Senohraby ÈD",
+    "address": "nádraží, Senohraby",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "0:00-24:00"
+      }
+    ],
+    "lat": 49.8971062,
+    "lon": 14.7278147,
+    "services": 196608,
+    "payMethods": 1
+  },
+  {
+    "id": "dp275",
+    "type": "ticketMachine",
+    "name": "Mirošovice ÈD",
+    "address": "nádraží, Mirošovice",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "0:00-24:00"
+      }
+    ],
+    "lat": 49.9104729,
+    "lon": 14.7198868,
+    "services": 196608,
+    "payMethods": 1
+  },
+  {
+    "id": "dp643",
+    "type": "ticketMachine",
+    "name": "Èelákovice ÈD",
+    "address": "nádraží, Èelákovice",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "0:00-24:00"
+      }
+    ],
+    "lat": 49.99745,
+    "lon": 14.6638689,
+    "services": 196608,
+    "payMethods": 5
+  },
+  {
+    "id": "dp675",
+    "type": "ticketMachine",
+    "name": "Øíèany ÈD",
+    "address": "nádraží, Øíèany u Prahy",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "0:00-24:00"
+      }
+    ],
+    "lat": 49.99745,
+    "lon": 14.6638689,
+    "services": 196608,
+    "payMethods": 5
+  },
+  {
+    "id": "dp2299",
+    "type": "ticketMachine",
+    "name": "Letištì VH Praha, Terminál 1",
+    "address": "Zastávka austobusù do centra, Ruzynì, Praha 6",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "0:00-24:00"
+      }
+    ],
+    "lat": 50.1077423,
+    "lon": 14.2686033,
+    "services": 196608,
+    "payMethods": 13
+  },
+  {
+    "id": "dp2302",
+    "type": "ticketMachine",
+    "name": "Letištì VH Praha, Terminál 1",
+    "address": "Vchod D, Ruzynì, Praha 6",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "0:00-24:00"
+      }
+    ],
+    "lat": 50.1078262,
+    "lon": 14.2682219,
+    "services": 196608,
+    "payMethods": 13
+  },
+  {
+    "id": "dp2303",
+    "type": "ticketMachine",
+    "name": "Letištì VH Praha, Terminál 1",
+    "address": "Vchod E, Ruzynì, Praha 6",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "0:00-24:00"
+      }
+    ],
+    "lat": 50.1076469,
+    "lon": 14.268034,
+    "services": 196608,
+    "payMethods": 13
+  },
+  {
+    "id": "dp2305",
+    "type": "ticketMachine",
+    "name": "Letištì VH Praha, Terminál 1",
+    "address": "Zastávka austobusù do centra, Ruzynì, Praha 6",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "0:00-24:00"
+      }
+    ],
+    "lat": 50.1074,
+    "lon": 14.2682467,
+    "services": 196608,
+    "payMethods": 13
+  },
+  {
+    "id": "dp2304",
+    "type": "ticketMachine",
+    "name": "Letištì VH Praha, Terminál 2",
+    "address": "Hala, Ruzynì, Praha 6",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "0:00-24:00"
+      }
+    ],
+    "lat": 50.1052971,
+    "lon": 14.2673779,
+    "services": 196608,
+    "payMethods": 13
+  },
+  {
+    "id": "dp2300",
+    "type": "ticketMachine",
+    "name": "Letištì VH Praha, Terminál 2",
+    "address": "Zastávka austobusù do centra, Ruzynì, Praha 6",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "0:00-24:00"
+      }
+    ],
+    "lat": 50.10528,
+    "lon": 14.2674723,
+    "services": 196608,
+    "payMethods": 13
+  },
+  {
+    "id": "dp2020",
+    "type": "ticketMachine",
+    "name": "Quinn Hotels Praha (Hilton)",
+    "address": "Pobøežní 311/1, Karlín, Praha 8",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "0:00-24:00"
+      }
+    ],
+    "lat": 50.0930061,
+    "lon": 14.4395733,
+    "services": 196608,
+    "payMethods": 13
+  },
+  {
+    "id": "dp2900",
+    "type": "ticketMachine",
+    "name": "Benešov, autobusové nádraží",
+    "address": "Nádražní, Benešov, Benešov",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "0:00-24:00"
+      }
+    ],
+    "lat": 49.7795448,
+    "lon": 14.68394,
+    "services": 196608,
+    "payMethods": 13
+  },
+  {
+    "id": "dp334",
+    "type": "ticketMachine",
+    "name": "Mìlník, U Høištì",
+    "address": "Pražská, Mìlník",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "0:00-24:00"
+      }
+    ],
+    "lat": 50.34437,
+    "lon": 14.4864416,
+    "services": 196608,
+    "payMethods": 1
+  },
+  {
+    "id": "dp368",
+    "type": "ticketMachine",
+    "name": "Poøíèany ÈD",
+    "address": "nádraží, Poøíèany",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "0:00-24:00"
+      }
+    ],
+    "lat": 50.1107979,
+    "lon": 14.9221945,
+    "services": 196608,
+    "payMethods": 1
+  },
+  {
+    "id": "dp379",
+    "type": "ticketMachine",
+    "name": "Èernošice - Mokropsy ÈD",
+    "address": "Nádražní, nádraží, Èernošice",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "0:00-24:00"
+      }
+    ],
+    "lat": 49.94601,
+    "lon": 14.3308706,
+    "services": 196608,
+    "payMethods": 1
+  },
+  {
+    "id": "dp399",
+    "type": "ticketMachine",
+    "name": "Škola Radlice",
+    "address": "Radlická 140, Radlice, Praha 5",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "0:00-24:00"
+      }
+    ],
+    "lat": 50.0594368,
+    "lon": 14.39317,
+    "services": 196608,
+    "payMethods": 1
+  },
+  {
+    "id": "dp400",
+    "type": "ticketMachine",
+    "name": "Laurová",
+    "address": "Radlická 65, Radlice, Praha 5",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "0:00-24:00"
+      }
+    ],
+    "lat": 50.0611038,
+    "lon": 14.3978405,
+    "services": 196608,
+    "payMethods": 1
+  },
+  {
+    "id": "dp403",
+    "type": "ticketMachine",
+    "name": "Radlická",
+    "address": "Radlice (koneèná tramvají), Praha 5",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "0:00-24:00"
+      }
+    ],
+    "lat": 50.05887,
+    "lon": 14.3893881,
+    "services": 196608,
+    "payMethods": 1
+  },
+  {
+    "id": "dp406",
+    "type": "ticketMachine",
+    "name": "Sídlištì Radotín",
+    "address": "Sídlištì 19, Sídlištì Radotín, Praha 5",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "0:00-24:00"
+      }
+    ],
+    "lat": 49.9803238,
+    "lon": 14.3534908,
+    "services": 196608,
+    "payMethods": 1
+  },
+  {
+    "id": "dp437",
+    "type": "ticketMachine",
+    "name": "Obchodní centrum Štìrboholy",
+    "address": "Nákupní, Štìrboholy, Praha 10",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "0:00-24:00"
+      }
+    ],
+    "lat": 50.0721474,
+    "lon": 14.5425119,
+    "services": 196608,
+    "payMethods": 1
+  },
+  {
+    "id": "dp885",
+    "type": "ticketMachine",
+    "name": "Komoøany",
+    "address": "Kyslíková, Komoøany, Praha 4",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "0:00-24:00"
+      }
+    ],
+    "lat": 49.99148,
+    "lon": 14.4109259,
+    "services": 196608,
+    "payMethods": 1
+  },
+  {
+    "id": "dp951",
+    "type": "ticketMachine",
+    "name": "Sídlištì Barrandov",
+    "address": "Werichova, Barrandov (koneèná), Praha 5",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "0:00-24:00"
+      }
+    ],
+    "lat": 50.0315,
+    "lon": 14.3682413,
+    "services": 196608,
+    "payMethods": 1
+  },
+  {
+    "id": "dp952",
+    "type": "ticketMachine",
+    "name": "Poliklinika Barrandov",
+    "address": "Tréglova, Barrandov (z centra), Praha 5",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "0:00-24:00"
+      }
+    ],
+    "lat": 50.03386,
+    "lon": 14.3741608,
+    "services": 196608,
+    "payMethods": 1
+  },
+  {
+    "id": "dp953",
+    "type": "ticketMachine",
+    "name": "Poliklinika Barrandov",
+    "address": "Tréglova, Barrandov (do centra), Praha 5",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "0:00-24:00"
+      }
+    ],
+    "lat": 50.03386,
+    "lon": 14.3741608,
+    "services": 196608,
+    "payMethods": 1
+  },
+  {
+    "id": "dp954",
+    "type": "ticketMachine",
+    "name": "Chaplinovo námìstí",
+    "address": "Chaplinovo námìstí, Barrandov (z centra), Praha 5",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "0:00-24:00"
+      }
+    ],
+    "lat": 50.0350838,
+    "lon": 14.3777485,
+    "services": 196608,
+    "payMethods": 1
+  },
+  {
+    "id": "dp955",
+    "type": "ticketMachine",
+    "name": "Chaplinovo námìstí",
+    "address": "Chaplinovo námìstí, Barrandov (do centra), Praha 5",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "0:00-24:00"
+      }
+    ],
+    "lat": 50.034935,
+    "lon": 14.37789,
+    "services": 196608,
+    "payMethods": 1
+  },
+  {
+    "id": "dp956",
+    "type": "ticketMachine",
+    "name": "K Barrandovu",
+    "address": "K Barrandovu, Barrandov (z centra), Praha 5",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "0:00-24:00"
+      }
+    ],
+    "lat": 50.03533,
+    "lon": 14.3832445,
+    "services": 196608,
+    "payMethods": 1
+  },
+  {
+    "id": "dp957",
+    "type": "ticketMachine",
+    "name": "K Barrandovu",
+    "address": "K Barrandovu, Barrandov (do centra), Praha 5",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "0:00-24:00"
+      }
+    ],
+    "lat": 50.03533,
+    "lon": 14.3832445,
+    "services": 196608,
+    "payMethods": 1
+  },
+  {
+    "id": "dp958",
+    "type": "ticketMachine",
+    "name": "Geologická",
+    "address": "K Barrandovu, Barrandov (z centra), Praha 5",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "0:00-24:00"
+      }
+    ],
+    "lat": 50.0364456,
+    "lon": 14.3886366,
+    "services": 196608,
+    "payMethods": 1
+  },
+  {
+    "id": "dp959",
+    "type": "ticketMachine",
+    "name": "Geologická",
+    "address": "K Barrandovu, Barrandov (do centra), Praha 5",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "0:00-24:00"
+      }
+    ],
+    "lat": 50.0364456,
+    "lon": 14.3886366,
+    "services": 196608,
+    "payMethods": 1
+  },
+  {
+    "id": "dp960",
+    "type": "ticketMachine",
+    "name": "Hluboèepy",
+    "address": "Hluboèepská, Barrandov (z centra), Praha 5",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "0:00-24:00"
+      }
+    ],
+    "lat": 50.0418472,
+    "lon": 14.4042873,
+    "services": 196608,
+    "payMethods": 1
+  },
+  {
+    "id": "dp961",
+    "type": "ticketMachine",
+    "name": "Hluboèepy",
+    "address": "Hluboèepská, Barrandov (do centra), Praha 5",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "0:00-24:00"
+      }
+    ],
+    "lat": 50.0421257,
+    "lon": 14.4046106,
+    "services": 196608,
+    "payMethods": 1
+  },
+  {
+    "id": "dp962",
+    "type": "ticketMachine",
+    "name": "Štìpaøská",
+    "address": "Štìpaøská, Barrandov, Praha 5",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "0:00-24:00"
+      }
+    ],
+    "lat": 50.0321,
+    "lon": 14.37346,
+    "services": 196608,
+    "payMethods": 1
+  },
+  {
+    "id": "dp1003",
+    "type": "ticketMachine",
+    "name": "Libeò ÈD",
+    "address": "Èeskomoravská 24, Libeò nádraží, Praha 9",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "0:00-24:00"
+      }
+    ],
+    "lat": 50.10131,
+    "lon": 14.5019093,
+    "services": 196608,
+    "payMethods": 5
+  },
+  {
+    "id": "dp1004",
+    "type": "ticketMachine",
+    "name": "I. P. Pavlova",
+    "address": "Bìlehradská 87, Vinohrady, Praha 2",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "0:00-24:00"
+      }
+    ],
+    "lat": 50.075737,
+    "lon": 14.4320078,
+    "services": 196608,
+    "payMethods": 5
+  },
+  {
+    "id": "dp1005",
+    "type": "ticketMachine",
+    "name": "Bílá Hora",
+    "address": "Karlovarská, Ruzynì, Praha 6",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "5:00-24:00"
+      }
+    ],
+    "lat": 50.075573,
+    "lon": 14.3227253,
+    "services": 196608,
+    "payMethods": 5
+  },
+  {
+    "id": "dp1006",
+    "type": "ticketMachine",
+    "name": "Nádraží Podbaba",
+    "address": "Jugoslávských partyzánù, Dejvice, Praha 6",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "0:00-24:00"
+      }
+    ],
+    "lat": 50.111187,
+    "lon": 14.3940125,
+    "services": 196608,
+    "payMethods": 5
+  },
+  {
+    "id": "dp1007",
+    "type": "ticketMachine",
+    "name": "Albertov",
+    "address": "Na Slupi, Nové Mìsto, Praha 2",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "0:00-24:00"
+      }
+    ],
+    "lat": 50.0671272,
+    "lon": 14.4216156,
+    "services": 196608,
+    "payMethods": 5
+  },
+  {
+    "id": "dp1021",
+    "type": "ticketMachine",
+    "name": "Nádraží Hostivaø",
+    "address": "Plukovníka Mráze, Hostivaø, Praha 10",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "0:00-24:00"
+      }
+    ],
+    "lat": 50.053894,
+    "lon": 14.5368986,
+    "services": 196608,
+    "payMethods": 5
+  },
+  {
+    "id": "dp1033",
+    "type": "ticketMachine",
+    "name": "Pohoøelec",
+    "address": "Keplerova, Hradèany, Praha 1",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "0:00-24:00"
+      }
+    ],
+    "lat": 50.0876274,
+    "lon": 14.3883123,
+    "services": 196608,
+    "payMethods": 5
+  },
+  {
+    "id": "dp1034",
+    "type": "ticketMachine",
+    "name": "Družná",
+    "address": "Èeskoslovenského exilu, Modøany, Praha 4",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "0:00-24:00"
+      }
+    ],
+    "lat": 50.01223,
+    "lon": 14.4172583,
+    "services": 196608,
+    "payMethods": 5
+  },
+  {
+    "id": "dp1046",
+    "type": "ticketMachine",
+    "name": "Sídlištì Petøiny",
+    "address": "Na Petøinách 91, Petøiny, Praha 6",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "0:00-24:00"
+      }
+    ],
+    "lat": 50.0869026,
+    "lon": 14.3404436,
+    "services": 196608,
+    "payMethods": 5
+  },
+  {
+    "id": "dp1048",
+    "type": "ticketMachine",
+    "name": "Øepy Slánská",
+    "address": "Makovského, Øepy, Praha 6",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "0:00-24:00"
+      }
+    ],
+    "lat": 50.06472,
+    "lon": 14.30823,
+    "services": 196608,
+    "payMethods": 5
+  },
+  {
+    "id": "dp2180",
+    "type": "ticketMachine",
+    "name": "Prùbìžná",
+    "address": "V Olšinách, Strašnice, Praha 10",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "0:00-24:00"
+      }
+    ],
+    "lat": 50.07147,
+    "lon": 14.4863148,
+    "services": 196608,
+    "payMethods": 13
+  },
+  {
+    "id": "dp1049",
+    "type": "ticketMachine",
+    "name": "Malostranské námìstí",
+    "address": "Malostranské námìstí, Malá Strana, Praha 1",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "0:00-24:00"
+      }
+    ],
+    "lat": 50.0880775,
+    "lon": 14.4042835,
+    "services": 196608,
+    "payMethods": 5
+  },
+  {
+    "id": "dp1056",
+    "type": "ticketMachine",
+    "name": "Divoká Šárka",
+    "address": "Evropská, Liboc, Praha 6",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "0:00-24:00"
+      }
+    ],
+    "lat": 50.0919456,
+    "lon": 14.4995279,
+    "services": 196608,
+    "payMethods": 5
+  },
+  {
+    "id": "dp1057",
+    "type": "ticketMachine",
+    "name": "Spojovací",
+    "address": "Spojovací, Žižkov, Praha 3",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "0:00-24:00"
+      }
+    ],
+    "lat": 50.091835,
+    "lon": 14.4986124,
+    "services": 196608,
+    "payMethods": 5
+  },
+  {
+    "id": "dp1064",
+    "type": "ticketMachine",
+    "name": "Nádraží Braník",
+    "address": "Pikovická, Braník, Praha 4",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "0:00-24:00"
+      }
+    ],
+    "lat": 50.0287781,
+    "lon": 14.406518,
+    "services": 196608,
+    "payMethods": 5
+  },
+  {
+    "id": "dp1065",
+    "type": "ticketMachine",
+    "name": "Dvorce",
+    "address": "Podolské nábøeží, Podolí, Praha 4",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "0:00-24:00"
+      }
+    ],
+    "lat": 50.04697,
+    "lon": 14.4141026,
+    "services": 196608,
+    "payMethods": 5
+  },
+  {
+    "id": "dp1078",
+    "type": "ticketMachine",
+    "name": "Letenské námìstí",
+    "address": "Letenské námìstí, Holešovice, Praha 7",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "0:00-24:00"
+      }
+    ],
+    "lat": 50.1000481,
+    "lon": 14.4232674,
+    "services": 196608,
+    "payMethods": 5
+  },
+  {
+    "id": "dp1087",
+    "type": "ticketMachine",
+    "name": "Blatiny",
+    "address": "Makovského, Øepy, Praha 6",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "0:00-24:00"
+      }
+    ],
+    "lat": 50.0656128,
+    "lon": 14.3035374,
+    "services": 196608,
+    "payMethods": 5
+  },
+  {
+    "id": "dp1089",
+    "type": "ticketMachine",
+    "name": "Strossmayerovo námìstí",
+    "address": "Milady Horákové 7, Holešovice, Praha 7",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "0:00-24:00"
+      }
+    ],
+    "lat": 50.0989532,
+    "lon": 14.4322634,
+    "services": 196608,
+    "payMethods": 5
+  },
+  {
+    "id": "dp1090",
+    "type": "ticketMachine",
+    "name": "Slivenec",
+    "address": "Ke Smíchovu 22, Slivenec, Praha 5",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "0:00-24:00"
+      }
+    ],
+    "lat": 50.0192,
+    "lon": 14.3543978,
+    "services": 196608,
+    "payMethods": 5
+  },
+  {
+    "id": "dp1092",
+    "type": "ticketMachine",
+    "name": "Zemìdìlská univerzita",
+    "address": "Brandejsovo námìstí 496/8, Suchdol, Praha 6",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "0:00-24:00"
+      }
+    ],
+    "lat": 50.1335564,
+    "lon": 14.3765287,
+    "services": 196608,
+    "payMethods": 5
+  },
+  {
+    "id": "dp1105",
+    "type": "ticketMachine",
+    "name": "Zoologická zahrada",
+    "address": "U Trojského zámku, Troja, Praha 7",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "0:00-24:00"
+      }
+    ],
+    "lat": 50.1164169,
+    "lon": 14.4114408,
+    "services": 196608,
+    "payMethods": 5
+  },
+  {
+    "id": "dp1108",
+    "type": "ticketMachine",
+    "name": "Obchodní centrum Sárská (Globus Zlièín)",
+    "address": "Sárská, Tøebonice, Praha 5",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "0:00-24:00"
+      }
+    ],
+    "lat": 50.0527763,
+    "lon": 14.2958527,
+    "services": 196608,
+    "payMethods": 5
+  },
+  {
+    "id": "dp1109",
+    "type": "ticketMachine",
+    "name": "Pražský hrad",
+    "address": "Jelení, Hradèany, Praha 1",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "0:00-24:00"
+      }
+    ],
+    "lat": 50.0933075,
+    "lon": 14.39793,
+    "services": 196608,
+    "payMethods": 5
+  },
+  {
+    "id": "dp1115",
+    "type": "ticketMachine",
+    "name": "Vozovna Kobylisy",
+    "address": "Klapkova, Kobylisy, Praha 8",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "0:00-24:00"
+      }
+    ],
+    "lat": 50.13279,
+    "lon": 14.4536276,
+    "services": 196608,
+    "payMethods": 5
+  },
+  {
+    "id": "dp1117",
+    "type": "ticketMachine",
+    "name": "Sídlištì Prosek",
+    "address": "Vysoèanská, Prosek, Praha 9",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "0:00-24:00"
+      }
+    ],
+    "lat": 50.1220932,
+    "lon": 14.4939938,
+    "services": 196608,
+    "payMethods": 5
+  },
+  {
+    "id": "dp1120",
+    "type": "ticketMachine",
+    "name": "Ortenovo námìstí",
+    "address": "Ortenovo námìstí, Holešovice, Praha 7",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "0:00-24:00"
+      }
+    ],
+    "lat": 50.1078873,
+    "lon": 14.4472132,
+    "services": 196608,
+    "payMethods": 5
+  },
+  {
+    "id": "dp1126",
+    "type": "ticketMachine",
+    "name": "Na Padesátém",
+    "address": "Prùbìžná, Strašnice, Praha 10",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "0:00-24:00"
+      }
+    ],
+    "lat": 50.0647545,
+    "lon": 14.5040712,
+    "services": 196608,
+    "payMethods": 5
+  },
+  {
+    "id": "dp1130",
+    "type": "ticketMachine",
+    "name": "Vozovna Støešovice",
+    "address": "Patoèkova, Støešovice, Praha 6",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "0:00-24:00"
+      }
+    ],
+    "lat": 50.0939941,
+    "lon": 14.39023,
+    "services": 196608,
+    "payMethods": 5
+  },
+  {
+    "id": "dp1137",
+    "type": "ticketMachine",
+    "name": "Zahradní Mìsto",
+    "address": "Švehlova, Zahradní Mìsto, Praha 10",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "0:00-24:00"
+      }
+    ],
+    "lat": 50.0608177,
+    "lon": 14.5057774,
+    "services": 196608,
+    "payMethods": 5
+  },
+  {
+    "id": "dp1145",
+    "type": "ticketMachine",
+    "name": "Obchodní centrum Hostivaø",
+    "address": "Švehlova, Zahradní Mìsto, Praha 10",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "0:00-24:00"
+      }
+    ],
+    "lat": 50.05346,
+    "lon": 14.5194616,
+    "services": 196608,
+    "payMethods": 5
+  },
+  {
+    "id": "dp1146",
+    "type": "ticketMachine",
+    "name": "Výtoò",
+    "address": "Rašínovo nábøeží, Nové Mìsto, Praha 2",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "0:00-24:00"
+      }
+    ],
+    "lat": 50.0680161,
+    "lon": 14.4150953,
+    "services": 196608,
+    "payMethods": 5
+  },
+  {
+    "id": "dp1147",
+    "type": "ticketMachine",
+    "name": "Zbraslavské námìstí",
+    "address": "Zbraslavské námìstí, Zbraslav, Praha 5",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "0:00-24:00"
+      }
+    ],
+    "lat": 49.9762878,
+    "lon": 14.3938694,
+    "services": 196608,
+    "payMethods": 5
+  },
+  {
+    "id": "dp1148",
+    "type": "ticketMachine",
+    "name": "Klánovice ÈD",
+    "address": "Klánovice nádraží, Praha 9",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "0:00-24:00"
+      }
+    ],
+    "lat": 50.0872726,
+    "lon": 14.66378,
+    "services": 196608,
+    "payMethods": 5
+  },
+  {
+    "id": "dp1149",
+    "type": "ticketMachine",
+    "name": "Horní Poèernice ÈD",
+    "address": "Horní Poèernice nádraží, Praha 9",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "0:00-24:00"
+      }
+    ],
+    "lat": 50.11657,
+    "lon": 14.6128578,
+    "services": 196608,
+    "payMethods": 5
+  },
+  {
+    "id": "dp1156",
+    "type": "ticketMachine",
+    "name": "Marjánka",
+    "address": "Bìlohorská 33, Bøevnov, Praha 6",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "0:00-24:00"
+      }
+    ],
+    "lat": 50.0843735,
+    "lon": 14.3754807,
+    "services": 196608,
+    "payMethods": 5
+  },
+  {
+    "id": "dp1157",
+    "type": "ticketMachine",
+    "name": "Kotláøka",
+    "address": "Plzeòská, Košíøe, Praha 5",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "0:00-24:00"
+      }
+    ],
+    "lat": 50.069706,
+    "lon": 14.362112,
+    "services": 196608,
+    "payMethods": 5
+  },
+  {
+    "id": "dp1167",
+    "type": "ticketMachine",
+    "name": "Michelská",
+    "address": "U Plynárny 11, Michle, Praha 4",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "0:00-24:00"
+      }
+    ],
+    "lat": 50.05514,
+    "lon": 14.4537916,
+    "services": 196608,
+    "payMethods": 5
+  },
+  {
+    "id": "dp1169",
+    "type": "ticketMachine",
+    "name": "Balabenka",
+    "address": "Námìstí Na Balabence, Libeò, Praha 9",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "0:00-24:00"
+      }
+    ],
+    "lat": 50.10502,
+    "lon": 14.48328,
+    "services": 196608,
+    "payMethods": 5
+  },
+  {
+    "id": "dp1170",
+    "type": "ticketMachine",
+    "name": "Myslíkova",
+    "address": "Myslíkova 27, Nové Mìsto, Praha 1",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "0:00-24:00"
+      }
+    ],
+    "lat": 50.0781059,
+    "lon": 14.4184341,
+    "services": 196608,
+    "payMethods": 5
+  },
+  {
+    "id": "dp1176",
+    "type": "ticketMachine",
+    "name": "Ohrada",
+    "address": "Konìvova 114, Žižkov, Praha 3",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "0:00-24:00"
+      }
+    ],
+    "lat": 50.0902176,
+    "lon": 14.4683189,
+    "services": 196608,
+    "payMethods": 5
+  },
+  {
+    "id": "dp1177",
+    "type": "ticketMachine",
+    "name": "Kavalírka",
+    "address": "Plzeòská 189, Košíøe, Praha 5",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "0:00-24:00"
+      }
+    ],
+    "lat": 50.0699,
+    "lon": 14.3702631,
+    "services": 196608,
+    "payMethods": 5
+  },
+  {
+    "id": "dp1179",
+    "type": "ticketMachine",
+    "name": "Èakovice",
+    "address": "Vojáèkova, Èakovice, Praha 9",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "0:00-24:00"
+      }
+    ],
+    "lat": 50.15131,
+    "lon": 14.5310221,
+    "services": 196608,
+    "payMethods": 5
+  },
+  {
+    "id": "dp1188",
+    "type": "ticketMachine",
+    "name": "Kajetánka",
+    "address": "Patoèkova 51, Bøevnov, Praha 6",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "0:00-24:00"
+      }
+    ],
+    "lat": 50.0864563,
+    "lon": 14.3721542,
+    "services": 196608,
+    "payMethods": 5
+  },
+  {
+    "id": "dp1195",
+    "type": "ticketMachine",
+    "name": "Olšanské námìstí",
+    "address": "Táboritská 24, Žižkov, Praha 3",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "0:00-24:00"
+      }
+    ],
+    "lat": 50.08227,
+    "lon": 14.4576893,
+    "services": 196608,
+    "payMethods": 5
+  },
+  {
+    "id": "dp1197",
+    "type": "ticketMachine",
+    "name": "Klamovka",
+    "address": "Plzeòská 129b, Košíøe, Praha 5",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "0:00-24:00"
+      }
+    ],
+    "lat": 50.0704651,
+    "lon": 14.3790445,
+    "services": 196608,
+    "payMethods": 5
+  },
+  {
+    "id": "dp1198",
+    "type": "ticketMachine",
+    "name": "U Matìje",
+    "address": "Šárecká, Dejvice, Praha 6",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "0:00-24:00"
+      }
+    ],
+    "lat": 50.1122131,
+    "lon": 14.3798113,
+    "services": 196608,
+    "payMethods": 5
+  },
+  {
+    "id": "dp1206",
+    "type": "ticketMachine",
+    "name": "Sídlištì Lhotka",
+    "address": "Lhotecká, Kamýk, Praha 4",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "0:00-24:00"
+      }
+    ],
+    "lat": 50.01698,
+    "lon": 14.43298,
+    "services": 196608,
+    "payMethods": 5
+  },
+  {
+    "id": "dp1208",
+    "type": "ticketMachine",
+    "name": "Jílovská",
+    "address": "Novodvorská, Lhotka, Praha 4",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "0:00-24:00"
+      }
+    ],
+    "lat": 50.0266342,
+    "lon": 14.4298468,
+    "services": 196608,
+    "payMethods": 5
+  },
+  {
+    "id": "dp1209",
+    "type": "ticketMachine",
+    "name": "Námìstí Bratøí Synkù",
+    "address": "Námìstí Bratøí Synkù, Nusle, Praha 4",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "0:00-24:00"
+      }
+    ],
+    "lat": 50.0645,
+    "lon": 14.440793,
+    "services": 196608,
+    "payMethods": 5
+  },
+  {
+    "id": "dp1210",
+    "type": "ticketMachine",
+    "name": "Pavelkova",
+    "address": "Èeskoslovenského exilu, Modøany, Praha 4",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "0:00-24:00"
+      }
+    ],
+    "lat": 50.0000458,
+    "lon": 14.4268541,
+    "services": 196608,
+    "payMethods": 5
+  },
+  {
+    "id": "dp1216",
+    "type": "ticketMachine",
+    "name": "Bulovka",
+    "address": "Budínova 2, Libeò, Praha 8",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "0:00-24:00"
+      }
+    ],
+    "lat": 50.1156578,
+    "lon": 14.4647055,
+    "services": 196608,
+    "payMethods": 5
+  },
+  {
+    "id": "dp1217",
+    "type": "ticketMachine",
+    "name": "Švandovo divadlo",
+    "address": "Štefánikova, Smíchov, Praha 5",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "0:00-24:00"
+      }
+    ],
+    "lat": 50.0784454,
+    "lon": 14.4043684,
+    "services": 196608,
+    "payMethods": 5
+  },
+  {
+    "id": "dp1218",
+    "type": "ticketMachine",
+    "name": "U Zvonu",
+    "address": "Plzeòská, Košíøe, Praha 5",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "0:00-24:00"
+      }
+    ],
+    "lat": 50.07152,
+    "lon": 14.3868093,
+    "services": 196608,
+    "payMethods": 5
+  },
+  {
+    "id": "dp1219",
+    "type": "ticketMachine",
+    "name": "Nemocnice Krè",
+    "address": "Vídeòská, Krè, Praha 4",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "0:00-24:00"
+      }
+    ],
+    "lat": 50.0308037,
+    "lon": 14.4551878,
+    "services": 196608,
+    "payMethods": 5
+  },
+  {
+    "id": "dp1229",
+    "type": "ticketMachine",
+    "name": "Divadlo Gong",
+    "address": "Sokolovská, Libeò, Praha 9",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "0:00-24:00"
+      }
+    ],
+    "lat": 50.1068535,
+    "lon": 14.4887142,
+    "services": 196608,
+    "payMethods": 5
+  },
+  {
+    "id": "dp1230",
+    "type": "ticketMachine",
+    "name": "Poliklinika Vysoèany",
+    "address": "Sokolovská, Vysoèany, Praha 9",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "0:00-24:00"
+      }
+    ],
+    "lat": 50.10907,
+    "lon": 14.4950819,
+    "services": 196608,
+    "payMethods": 5
+  },
+  {
+    "id": "dp1291",
+    "type": "ticketMachine",
+    "name": "Habrová",
+    "address": "Habrová, Žižkov, Praha 3",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "0:00-24:00"
+      }
+    ],
+    "lat": 50.0878258,
+    "lon": 14.4906521,
+    "services": 196608,
+    "payMethods": 5
+  },
+  {
+    "id": "dp1292",
+    "type": "ticketMachine",
+    "name": "Lipanská",
+    "address": "Seifertova 46, Žižkov, Praha 3",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "0:00-24:00"
+      }
+    ],
+    "lat": 50.08408,
+    "lon": 14.4526653,
+    "services": 196608,
+    "payMethods": 5
+  },
+  {
+    "id": "dp1293",
+    "type": "ticketMachine",
+    "name": "Viktoria Žižkov",
+    "address": "Seifertova 47, Žižkov, Praha 3",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "0:00-24:00"
+      }
+    ],
+    "lat": 50.0850754,
+    "lon": 14.4451122,
+    "services": 196608,
+    "payMethods": 5
+  },
+  {
+    "id": "dp1295",
+    "type": "ticketMachine",
+    "name": "Malvazinky",
+    "address": "Peroutkova, Smíchov, Praha 5",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "0:00-24:00"
+      }
+    ],
+    "lat": 50.0649757,
+    "lon": 14.3886089,
+    "services": 196608,
+    "payMethods": 5
+  },
+  {
+    "id": "dp1296",
+    "type": "ticketMachine",
+    "name": "Plaòanská",
+    "address": "Poèernická, Malešice, Praha 10",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "0:00-24:00"
+      }
+    ],
+    "lat": 50.08176,
+    "lon": 14.498951,
+    "services": 196608,
+    "payMethods": 5
+  },
+  {
+    "id": "dp1297",
+    "type": "ticketMachine",
+    "name": "Bohemians",
+    "address": "Vršovická 44, Vršovice, Praha 10",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "0:00-24:00"
+      }
+    ],
+    "lat": 50.0663376,
+    "lon": 14.456233,
+    "services": 196608,
+    "payMethods": 5
+  },
+  {
+    "id": "dp1298",
+    "type": "ticketMachine",
+    "name": "Lehovec",
+    "address": "Podìbradská, Hloubìtín, Praha 9",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "0:00-24:00"
+      }
+    ],
+    "lat": 50.10685,
+    "lon": 14.5471535,
+    "services": 196608,
+    "payMethods": 5
+  },
+  {
+    "id": "dp1336",
+    "type": "ticketMachine",
+    "name": "Ratiboøická",
+    "address": "Jívanská, Horní Poèernice, Praha 9",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "0:00-24:00"
+      }
+    ],
+    "lat": 50.1115761,
+    "lon": 14.6144981,
+    "services": 196608,
+    "payMethods": 5
+  },
+  {
+    "id": "dp1343",
+    "type": "ticketMachine",
+    "name": "Sídlištì Bohnice",
+    "address": "Zhoøelecká, Bohnice, Praha 8",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "0:00-24:00"
+      }
+    ],
+    "lat": 50.1314659,
+    "lon": 14.4116478,
+    "services": 196608,
+    "payMethods": 5
+  },
+  {
+    "id": "dp1344",
+    "type": "ticketMachine",
+    "name": "Odra",
+    "address": "Lodžská, Bohnice, Praha 8",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "0:00-24:00"
+      }
+    ],
+    "lat": 50.1307259,
+    "lon": 14.4237432,
+    "services": 196608,
+    "payMethods": 5
+  },
+  {
+    "id": "dp1345",
+    "type": "ticketMachine",
+    "name": "Koleje Strahov",
+    "address": "Vaníèkova, Bøevnov, Praha 6",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "0:00-24:00"
+      }
+    ],
+    "lat": 50.08077,
+    "lon": 14.39016,
+    "services": 196608,
+    "payMethods": 5
+  },
+  {
+    "id": "dp1346",
+    "type": "ticketMachine",
+    "name": "Vojenská nemocnice",
+    "address": "Na Petøinách, Bøevnov, Praha 6",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "0:00-24:00"
+      }
+    ],
+    "lat": 50.0916557,
+    "lon": 14.3602142,
+    "services": 196608,
+    "payMethods": 5
+  },
+  {
+    "id": "dp1347",
+    "type": "ticketMachine",
+    "name": "Èervený Vrch",
+    "address": "Evropská 109, Vokovice, Praha 6",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "0:00-24:00"
+      }
+    ],
+    "lat": 50.09654,
+    "lon": 14.35173,
+    "services": 196608,
+    "payMethods": 5
+  },
+  {
+    "id": "dp1348",
+    "type": "ticketMachine",
+    "name": "Sídlištì Èervený Vrch",
+    "address": "Evropská, Vokovice, Praha 6",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "0:00-24:00"
+      }
+    ],
+    "lat": 50.09787,
+    "lon": 14.3594046,
+    "services": 196608,
+    "payMethods": 5
+  },
+  {
+    "id": "dp1354",
+    "type": "ticketMachine",
+    "name": "Krakov",
+    "address": "Lodžská, Bohnice, Praha 8",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "0:00-24:00"
+      }
+    ],
+    "lat": 50.1279564,
+    "lon": 14.4173241,
+    "services": 196608,
+    "payMethods": 5
+  },
+  {
+    "id": "dp1355",
+    "type": "ticketMachine",
+    "name": "Poliklinika Mazurská",
+    "address": "Mazurská, Bohnice, Praha 8",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "0:00-24:00"
+      }
+    ],
+    "lat": 50.1271477,
+    "lon": 14.4139833,
+    "services": 196608,
+    "payMethods": 5
+  },
+  {
+    "id": "dp1356",
+    "type": "ticketMachine",
+    "name": "Èimice",
+    "address": "Èimická, Èimice, Praha 8",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "0:00-24:00"
+      }
+    ],
+    "lat": 50.1409645,
+    "lon": 14.4304466,
+    "services": 196608,
+    "payMethods": 5
+  },
+  {
+    "id": "dp1357",
+    "type": "ticketMachine",
+    "name": "Sídlištì Èimice",
+    "address": "Èimická, Èimice, Praha 8",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "0:00-24:00"
+      }
+    ],
+    "lat": 50.14418,
+    "lon": 14.4320879,
+    "services": 196608,
+    "payMethods": 5
+  },
+  {
+    "id": "dp1358",
+    "type": "ticketMachine",
+    "name": "Øepínská",
+    "address": "Èimická, Èimice, Praha 8",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "0:00-24:00"
+      }
+    ],
+    "lat": 50.13355,
+    "lon": 14.4302511,
+    "services": 196608,
+    "payMethods": 5
+  },
+  {
+    "id": "dp1359",
+    "type": "ticketMachine",
+    "name": "Podhajská pole",
+    "address": "Èimická, Bohnice, Praha 8",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "0:00-24:00"
+      }
+    ],
+    "lat": 50.1295738,
+    "lon": 14.4307356,
+    "services": 196608,
+    "payMethods": 5
+  },
+  {
+    "id": "dp1366",
+    "type": "ticketMachine",
+    "name": "Mìstský archiv",
+    "address": "Blažimská, Chodov, Praha 4",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "0:00-24:00"
+      }
+    ],
+    "lat": 50.041153,
+    "lon": 14.4955854,
+    "services": 196608,
+    "payMethods": 5
+  },
+  {
+    "id": "dp1367",
+    "type": "ticketMachine",
+    "name": "Vozovna Žižkov",
+    "address": "Konìvova, Žižkov, Praha 3",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "0:00-24:00"
+      }
+    ],
+    "lat": 50.0917244,
+    "lon": 14.4757662,
+    "services": 196608,
+    "payMethods": 5
+  },
+  {
+    "id": "dp1369",
+    "type": "ticketMachine",
+    "name": "Sídlištì Ïáblice",
+    "address": "Ïáblická, Ïáblice, Praha 8",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "0:00-24:00"
+      }
+    ],
+    "lat": 50.1326523,
+    "lon": 14.47891,
+    "services": 196608,
+    "payMethods": 5
+  },
+  {
+    "id": "dp1404",
+    "type": "ticketMachine",
+    "name": "Hlušièkova",
+    "address": "Plzeòská 265, Øepy, Praha 5",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "0:00-24:00"
+      }
+    ],
+    "lat": 50.0637321,
+    "lon": 14.3161459,
+    "services": 196608,
+    "payMethods": 5
+  },
+  {
+    "id": "dp1407",
+    "type": "ticketMachine",
+    "name": "Sídlištì Malešice",
+    "address": "Poèernická, Malešice, Praha 10",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "0:00-24:00"
+      }
+    ],
+    "lat": 50.08318,
+    "lon": 14.5083208,
+    "services": 196608,
+    "payMethods": 5
+  },
+  {
+    "id": "dp1408",
+    "type": "ticketMachine",
+    "name": "Hlavní",
+    "address": "Hlavní, Spoøilov, Praha 4",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "0:00-24:00"
+      }
+    ],
+    "lat": 50.04713,
+    "lon": 14.4865627,
+    "services": 196608,
+    "payMethods": 5
+  },
+  {
+    "id": "dp1409",
+    "type": "ticketMachine",
+    "name": "Obchodní námìstí",
+    "address": "Obchodní námìstí, Modøany, Praha 4",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "0:00-24:00"
+      }
+    ],
+    "lat": 50.005024,
+    "lon": 14.4046421,
+    "services": 196608,
+    "payMethods": 5
+  },
+  {
+    "id": "dp1410",
+    "type": "ticketMachine",
+    "name": "Otakarova",
+    "address": "Otakarova, Nusle, Praha 4",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "0:00-24:00"
+      }
+    ],
+    "lat": 50.0655937,
+    "lon": 14.4399729,
+    "services": 196608,
+    "payMethods": 5
+  },
+  {
+    "id": "dp1445",
+    "type": "ticketMachine",
+    "name": "Halenkovská",
+    "address": "Hrozenkovská, Zlièín, Praha 5",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "0:00-24:00"
+      }
+    ],
+    "lat": 50.0632439,
+    "lon": 14.2867861,
+    "services": 196608,
+    "payMethods": 5
+  },
+  {
+    "id": "dp1453",
+    "type": "ticketMachine",
+    "name": "Palackého námìstí",
+    "address": "Palackého námìstí, Nové Mìsto, Praha 2",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "0:00-24:00"
+      }
+    ],
+    "lat": 50.0733528,
+    "lon": 14.414856,
+    "services": 196608,
+    "payMethods": 5
+  },
+  {
+    "id": "dp1464",
+    "type": "ticketMachine",
+    "name": "Moráò",
+    "address": "Karlovo námìstí, Nové Mìsto, Praha 2",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "0:00-24:00"
+      }
+    ],
+    "lat": 50.07416,
+    "lon": 14.4187222,
+    "services": 196608,
+    "payMethods": 5
+  },
+  {
+    "id": "dp1504",
+    "type": "ticketMachine",
+    "name": "Masarykovo nádraží",
+    "address": "Havlíèkova, Nové Mìsto, Praha 1",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "0:00-24:00"
+      }
+    ],
+    "lat": 50.0878143,
+    "lon": 14.432476,
+    "services": 196608,
+    "payMethods": 5
+  },
+  {
+    "id": "dp1839",
+    "type": "ticketMachine",
+    "name": "Hlavní nádraží",
+    "address": "Bolzanova, Nové Mìsto, Praha 1",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "0:00-24:00"
+      }
+    ],
+    "lat": 50.085865,
+    "lon": 14.4355927,
+    "services": 196608,
+    "payMethods": 5
+  },
+  {
+    "id": "dp671",
+    "type": "ticketMachine",
+    "name": "Malostranské nám.- Parlament ÈR",
+    "address": "Malostranské námìstí, Malá Strana, Praha 1",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 4,
+        "hours": "8:00-16:00"
+      }
+    ],
+    "lat": 50.08857,
+    "lon": 14.404397,
+    "services": 196608,
+    "payMethods": 5
+  },
+  {
+    "id": "dp672",
+    "type": "ticketMachine",
+    "name": "Hotel Krystal",
+    "address": "José Martího 2/407, Veleslavín, Praha 6",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "0:00-24:00"
+      }
+    ],
+    "lat": 50.0938339,
+    "lon": 14.3413591,
+    "services": 196608,
+    "payMethods": 5
+  },
+  {
+    "id": "dp674",
+    "type": "ticketMachine",
+    "name": "Hotel Golf",
+    "address": "Plzeòská 103/215A, Motol, Praha 5",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "0:00-24:00"
+      }
+    ],
+    "lat": 50.06752,
+    "lon": 14.3446159,
+    "services": 196608,
+    "payMethods": 5
+  },
+  {
+    "id": "dp676",
+    "type": "ticketMachine",
+    "name": "Hotel Step",
+    "address": "Malletova 1141, Vysoèany, Praha 9",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "8:00-19:00"
+      }
+    ],
+    "lat": 50.1015358,
+    "lon": 14.4844313,
+    "services": 196608,
+    "payMethods": 5
+  },
+  {
+    "id": "dp663",
+    "type": "ticketMachine",
+    "name": "Koleje Volha",
+    "address": "K Verneráku 950, Kunratice, Praha 4",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "8:00-22:00"
+      }
+    ],
+    "lat": 50.02076,
+    "lon": 14.4905338,
+    "services": 196608,
+    "payMethods": 5
+  },
+  {
+    "id": "dp664",
+    "type": "ticketMachine",
+    "name": "Kudrnova",
+    "address": "V Úvalu, Motol (vrátnice FNM), Praha 5",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "0:00-24:00"
+      }
+    ],
+    "lat": 50.07234,
+    "lon": 14.3436346,
+    "services": 196608,
+    "payMethods": 5
+  },
+  {
+    "id": "dp653",
+    "type": "ticketMachine",
+    "name": "Zelená",
+    "address": "Jugoslávských partyzánù, Dejvice, Praha 6",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "0:00-24:00"
+      }
+    ],
+    "lat": 50.10737,
+    "lon": 14.3944712,
+    "services": 196608,
+    "payMethods": 5
+  },
+  {
+    "id": "dp641",
+    "type": "ticketMachine",
+    "name": "Fakulta TVS",
+    "address": "José Martího 31, Veleslavín (recepce), Praha 6",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "8:00-19:00"
+      }
+    ],
+    "lat": 50.0984,
+    "lon": 14.3644457,
+    "services": 196608,
+    "payMethods": 5
+  },
+  {
+    "id": "dp644",
+    "type": "ticketMachine",
+    "name": "Vysoèany ÈD",
+    "address": "Vysoèany (nádraží), Praha 9",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "0:00-24:00"
+      }
+    ],
+    "lat": 50.1122322,
+    "lon": 14.4974518,
+    "services": 196608,
+    "payMethods": 5
+  },
+  {
+    "id": "dp645",
+    "type": "ticketMachine",
+    "name": "Vozovna Strašnice",
+    "address": "Starostrašnická, Strašnice, Praha 10",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "0:00-24:00"
+      }
+    ],
+    "lat": 50.07586,
+    "lon": 14.489398,
+    "services": 196608,
+    "payMethods": 5
+  },
+  {
+    "id": "dp2671",
+    "type": "ticketMachine",
+    "name": "Nemocnice Motol",
+    "address": "Stanice metra, Praha 5",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "5:00-24:00"
+      }
+    ],
+    "lat": 50.0751762,
+    "lon": 14.3407946,
+    "services": 196608,
+    "payMethods": 13
+  },
+  {
+    "id": "dp2661",
+    "type": "ticketMachine",
+    "name": "Petøiny",
+    "address": "Stanice metra, Praha 6",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "5:00-24:00"
+      }
+    ],
+    "lat": 50.0867043,
+    "lon": 14.3451681,
+    "services": 196608,
+    "payMethods": 13
+  },
+  {
+    "id": "dp2663",
+    "type": "ticketMachine",
+    "name": "Petøiny",
+    "address": "Stanice metra, Praha 6",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "5:00-24:00"
+      }
+    ],
+    "lat": 50.0879173,
+    "lon": 14.3445034,
+    "services": 196608,
+    "payMethods": 13
+  },
+  {
+    "id": "dp2651",
+    "type": "ticketMachine",
+    "name": "Nádraží Veleslavín",
+    "address": "Stanice metra, Praha 6",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "5:00-24:00"
+      }
+    ],
+    "lat": 50.09558,
+    "lon": 14.34678,
+    "services": 196608,
+    "payMethods": 13
+  },
+  {
+    "id": "dp2641",
+    "type": "ticketMachine",
+    "name": "Boøislavka",
+    "address": "Stanice metra, Praha 6",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "5:00-24:00"
+      }
+    ],
+    "lat": 50.0985947,
+    "lon": 14.3646326,
+    "services": 196608,
+    "payMethods": 13
+  },
+  {
+    "id": "dp2642",
+    "type": "ticketMachine",
+    "name": "Boøislavka",
+    "address": "Stanice metra, Praha 6",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "5:00-24:00"
+      }
+    ],
+    "lat": 50.0983353,
+    "lon": 14.3621521,
+    "services": 196608,
+    "payMethods": 13
+  },
+  {
+    "id": "dp2111",
+    "type": "ticketMachine",
+    "name": "Dejvická",
+    "address": "vestibul Evropská, Stanice metra, Praha 6",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "5:00-24:00"
+      }
+    ],
+    "lat": 50.1002922,
+    "lon": 14.3918743,
+    "services": 196608,
+    "payMethods": 13
+  },
+  {
+    "id": "dp2121",
+    "type": "ticketMachine",
+    "name": "Dejvická",
+    "address": "vestibul Vítìzné námìstí, Stanice metra, Praha 6",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "5:00-24:00"
+      }
+    ],
+    "lat": 50.10048,
+    "lon": 14.3937454,
+    "services": 196608,
+    "payMethods": 13
+  },
+  {
+    "id": "dp2131",
+    "type": "ticketMachine",
+    "name": "Hradèanská",
+    "address": "Stanice metra, Praha 6",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "5:00-24:00"
+      }
+    ],
+    "lat": 50.0972328,
+    "lon": 14.4048109,
+    "services": 196608,
+    "payMethods": 13
+  },
+  {
+    "id": "dp2140",
+    "type": "ticketMachine",
+    "name": "Malostranská",
+    "address": "Stanice metra, Praha 1",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "5:00-24:00"
+      }
+    ],
+    "lat": 50.0910568,
+    "lon": 14.4094067,
+    "services": 196608,
+    "payMethods": 13
+  },
+  {
+    "id": "dp2151",
+    "type": "ticketMachine",
+    "name": "Staromìstská",
+    "address": "Stanice metra, Praha 1",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "5:00-24:00"
+      }
+    ],
+    "lat": 50.08853,
+    "lon": 14.4160748,
+    "services": 196608,
+    "payMethods": 13
+  },
+  {
+    "id": "dp2161",
+    "type": "ticketMachine",
+    "name": "Mùstek A (historický)",
+    "address": "vestibul Mùstek, Stanice metra, Praha 1",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "5:00-24:00"
+      }
+    ],
+    "lat": 50.08416,
+    "lon": 14.4234524,
+    "services": 196608,
+    "payMethods": 13
+  },
+  {
+    "id": "dp2163",
+    "type": "ticketMachine",
+    "name": "Mùstek",
+    "address": "vestibul Mùstek, Stanice metra, Praha 1",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "5:00-24:00"
+      }
+    ],
+    "lat": 50.08416,
+    "lon": 14.4234524,
+    "services": 196608,
+    "payMethods": 13
+  },
+  {
+    "id": "dp2150",
+    "type": "ticketMachine",
+    "name": "Mùstek",
+    "address": "výtah, Stanice metra, Praha 1",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "5:00-24:00"
+      }
+    ],
+    "lat": 50.0837059,
+    "lon": 14.4239435,
+    "services": 196608,
+    "payMethods": 13
+  },
+  {
+    "id": "dp2171",
+    "type": "ticketMachine",
+    "name": "Mùstek",
+    "address": "vestibul Václavské námìstí, Stanice metra, Praha 1",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "5:00-24:00"
+      }
+    ],
+    "lat": 50.08208,
+    "lon": 14.4264622,
+    "services": 196608,
+    "payMethods": 13
+  },
+  {
+    "id": "dp2175",
+    "type": "ticketMachine",
+    "name": "Václavské námìstí",
+    "address": "Vodièkova 41, Nové Mìsto, Praha 1",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "0:00-24:00"
+      }
+    ],
+    "lat": 50.08219,
+    "lon": 14.42587,
+    "services": 196608,
+    "payMethods": 13
+  },
+  {
+    "id": "dp2181",
+    "type": "ticketMachine",
+    "name": "Muzeum",
+    "address": "vstup C, Stanice metra, Praha 1",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "5:00-24:00"
+      }
+    ],
+    "lat": 50.0795441,
+    "lon": 14.4300671,
+    "services": 196608,
+    "payMethods": 13
+  },
+  {
+    "id": "dp2185",
+    "type": "ticketMachine",
+    "name": "Muzeum",
+    "address": "vstup A, Stanice metra, Praha 1",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "5:00-24:00"
+      }
+    ],
+    "lat": 50.0795441,
+    "lon": 14.4300671,
+    "services": 196608,
+    "payMethods": 13
+  },
+  {
+    "id": "dp2187",
+    "type": "ticketMachine",
+    "name": "Muzeum",
+    "address": "nástupištì výtah C, Stanice metra, Praha 1",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "5:00-24:00"
+      }
+    ],
+    "lat": 50.0795441,
+    "lon": 14.4300671,
+    "services": 196608,
+    "payMethods": 13
+  },
+  {
+    "id": "dp160",
+    "type": "ticketMachine",
+    "name": "Muzeum",
+    "address": "nástupištì výtah A, Stanice metra, Praha 1",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "5:00-24:00"
+      }
+    ],
+    "lat": 50.0795441,
+    "lon": 14.4300671,
+    "services": 196608,
+    "payMethods": 5
+  },
+  {
+    "id": "dp2191",
+    "type": "ticketMachine",
+    "name": "Námìstí Míru",
+    "address": "Stanice metra, Praha 2",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "5:00-24:00"
+      }
+    ],
+    "lat": 50.0751076,
+    "lon": 14.4373884,
+    "services": 196608,
+    "payMethods": 13
+  },
+  {
+    "id": "dp2201",
+    "type": "ticketMachine",
+    "name": "Jiøího z Podìbrad",
+    "address": "Stanice metra, Praha 3",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "5:00-24:00"
+      }
+    ],
+    "lat": 50.07743,
+    "lon": 14.4491682,
+    "services": 196608,
+    "payMethods": 13
+  },
+  {
+    "id": "dp2211",
+    "type": "ticketMachine",
+    "name": "Flora",
+    "address": "Stanice metra, Praha 3",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "5:00-24:00"
+      }
+    ],
+    "lat": 50.078022,
+    "lon": 14.4612284,
+    "services": 196608,
+    "payMethods": 13
+  },
+  {
+    "id": "dp2221",
+    "type": "ticketMachine",
+    "name": "Želivského",
+    "address": "Stanice metra, Praha 3",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "5:00-24:00"
+      }
+    ],
+    "lat": 50.0785942,
+    "lon": 14.4737549,
+    "services": 196608,
+    "payMethods": 13
+  },
+  {
+    "id": "dp2231",
+    "type": "ticketMachine",
+    "name": "Strašnická",
+    "address": "Stanice metra, Praha 10",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "5:00-24:00"
+      }
+    ],
+    "lat": 50.07268,
+    "lon": 14.4911871,
+    "services": 196608,
+    "payMethods": 13
+  },
+  {
+    "id": "dp2241",
+    "type": "ticketMachine",
+    "name": "Skalka",
+    "address": "Stanice metra, Praha 10",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "5:00-24:00"
+      }
+    ],
+    "lat": 50.0680275,
+    "lon": 14.5081177,
+    "services": 196608,
+    "payMethods": 13
+  },
+  {
+    "id": "dp2251",
+    "type": "ticketMachine",
+    "name": "Depo Hostivaø",
+    "address": "Stanice metra, Praha 10",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "5:00-24:00"
+      }
+    ],
+    "lat": 50.0756454,
+    "lon": 14.5154972,
+    "services": 196608,
+    "payMethods": 13
+  },
+  {
+    "id": "dp2321",
+    "type": "ticketMachine",
+    "name": "Zlièín",
+    "address": "Stanice metra, Praha 5",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "5:00-24:00"
+      }
+    ],
+    "lat": 50.0537834,
+    "lon": 14.2905922,
+    "services": 196608,
+    "payMethods": 13
+  },
+  {
+    "id": "dp2331",
+    "type": "ticketMachine",
+    "name": "Stodùlky východ",
+    "address": "Stanice metra, Praha 5",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "5:00-24:00"
+      }
+    ],
+    "lat": 50.04681,
+    "lon": 14.3079872,
+    "services": 196608,
+    "payMethods": 13
+  },
+  {
+    "id": "dp2325",
+    "type": "ticketMachine",
+    "name": "Stodùlky západ",
+    "address": "Stanice metra, Praha 5",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "5:00-24:00"
+      }
+    ],
+    "lat": 50.04681,
+    "lon": 14.3079872,
+    "services": 196608,
+    "payMethods": 13
+  },
+  {
+    "id": "dp2341",
+    "type": "ticketMachine",
+    "name": "Luka",
+    "address": "Stanice metra, Praha 5",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "5:00-24:00"
+      }
+    ],
+    "lat": 50.0453033,
+    "lon": 14.3222942,
+    "services": 196608,
+    "payMethods": 13
+  },
+  {
+    "id": "dp2351",
+    "type": "ticketMachine",
+    "name": "Lužiny",
+    "address": "Stanice metra, Praha 5",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "5:00-24:00"
+      }
+    ],
+    "lat": 50.0445938,
+    "lon": 14.331399,
+    "services": 196608,
+    "payMethods": 13
+  },
+  {
+    "id": "dp2361",
+    "type": "ticketMachine",
+    "name": "Hùrka",
+    "address": "Stanice metra, Praha 5",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "5:00-24:00"
+      }
+    ],
+    "lat": 50.04998,
+    "lon": 14.3418646,
+    "services": 196608,
+    "payMethods": 13
+  },
+  {
+    "id": "dp2371",
+    "type": "ticketMachine",
+    "name": "Nové Butovice",
+    "address": "západní vestibul, Stanice metra, Praha 5",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "5:00-24:00"
+      }
+    ],
+    "lat": 50.05085,
+    "lon": 14.3532047,
+    "services": 196608,
+    "payMethods": 13
+  },
+  {
+    "id": "dp2381",
+    "type": "ticketMachine",
+    "name": "Nové Butovice",
+    "address": "východní vestibul, Stanice metra, Praha 5",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "5:00-24:00"
+      }
+    ],
+    "lat": 50.05085,
+    "lon": 14.3532047,
+    "services": 196608,
+    "payMethods": 13
+  },
+  {
+    "id": "dp2391",
+    "type": "ticketMachine",
+    "name": "Jinonice",
+    "address": "Stanice metra, Praha 5",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "5:00-24:00"
+      }
+    ],
+    "lat": 50.0545769,
+    "lon": 14.3709145,
+    "services": 196608,
+    "payMethods": 13
+  },
+  {
+    "id": "dp2401",
+    "type": "ticketMachine",
+    "name": "Radlická",
+    "address": "Stanice metra, Praha 5",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "5:00-24:00"
+      }
+    ],
+    "lat": 50.058094,
+    "lon": 14.3890858,
+    "services": 196608,
+    "payMethods": 13
+  },
+  {
+    "id": "dp2411",
+    "type": "ticketMachine",
+    "name": "Smíchovské nádraží",
+    "address": "Stanice metra, Praha 5",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "5:00-24:00"
+      }
+    ],
+    "lat": 50.0606346,
+    "lon": 14.408761,
+    "services": 196608,
+    "payMethods": 13
+  },
+  {
+    "id": "dp2421",
+    "type": "ticketMachine",
+    "name": "Smíchovské nádraží",
+    "address": "Stanice metra, Praha 5",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "5:00-24:00"
+      }
+    ],
+    "lat": 50.0611763,
+    "lon": 14.4087286,
+    "services": 196608,
+    "payMethods": 13
+  },
+  {
+    "id": "dp2431",
+    "type": "ticketMachine",
+    "name": "Andìl Na Knížecí",
+    "address": "vestibul Na Knížecí, Stanice metra, Praha 5",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "5:00-24:00"
+      }
+    ],
+    "lat": 50.07149,
+    "lon": 14.4039869,
+    "services": 196608,
+    "payMethods": 13
+  },
+  {
+    "id": "dp2049",
+    "type": "ticketMachine",
+    "name": "Andìl tramvaj",
+    "address": "Nádražní, Smíchov, Praha 5",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "5:00-24:00"
+      }
+    ],
+    "lat": 50.0714951,
+    "lon": 14.404213,
+    "services": 196608,
+    "payMethods": 13
+  },
+  {
+    "id": "dp2448",
+    "type": "ticketMachine",
+    "name": "Andìl",
+    "address": "výtah, Stanice metra, Praha 5",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "5:00-24:00"
+      }
+    ],
+    "lat": 50.0702934,
+    "lon": 14.4036217,
+    "services": 196608,
+    "payMethods": 13
+  },
+  {
+    "id": "dp2441",
+    "type": "ticketMachine",
+    "name": "Andìl",
+    "address": "vestibul U Andìla, Stanice metra, Praha 5",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "5:00-24:00"
+      }
+    ],
+    "lat": 50.07149,
+    "lon": 14.4039869,
+    "services": 196608,
+    "payMethods": 13
+  },
+  {
+    "id": "dp2451",
+    "type": "ticketMachine",
+    "name": "Karlovo námìstí",
+    "address": "vestibul Palackého námìstí, Stanice metra, Praha 2",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "5:00-24:00"
+      }
+    ],
+    "lat": 50.07344,
+    "lon": 14.415206,
+    "services": 196608,
+    "payMethods": 13
+  },
+  {
+    "id": "dp2453",
+    "type": "ticketMachine",
+    "name": "Karlovo námìstí výtah",
+    "address": "výtah, Stanice metra, Praha 2",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "5:00-24:00"
+      }
+    ],
+    "lat": 50.07344,
+    "lon": 14.415206,
+    "services": 196608,
+    "payMethods": 13
+  },
+  {
+    "id": "dp2461",
+    "type": "ticketMachine",
+    "name": "Karlovo námìstí",
+    "address": "vestibul Karlovo námìstí, Stanice metra, Praha 2",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "5:00-24:00"
+      }
+    ],
+    "lat": 50.07556,
+    "lon": 14.4185867,
+    "services": 196608,
+    "payMethods": 13
+  },
+  {
+    "id": "dp474",
+    "type": "ticketMachine",
+    "name": "U Nemocnice",
+    "address": "U Nemocnice, Nové Mìsto (recepce VFN), Praha 2",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "0:00-24:00"
+      }
+    ],
+    "lat": 50.0734673,
+    "lon": 14.421175,
+    "services": 196608,
+    "payMethods": 5
+  },
+  {
+    "id": "dp2471",
+    "type": "ticketMachine",
+    "name": "Národní tøída",
+    "address": "stanice metra, Praha 1",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "5:00-24:00"
+      }
+    ],
+    "lat": 50.08122,
+    "lon": 14.4199743,
+    "services": 196608,
+    "payMethods": 13
+  },
+  {
+    "id": "dp2481",
+    "type": "ticketMachine",
+    "name": "Mùstek",
+    "address": "Stanice metra, Praha 1",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "5:00-24:00"
+      }
+    ],
+    "lat": 50.0830765,
+    "lon": 14.42216,
+    "services": 196608,
+    "payMethods": 13
+  },
+  {
+    "id": "dp2491",
+    "type": "ticketMachine",
+    "name": "Námìstí Republiky",
+    "address": "Kotva, Stanice metra, Praha 1",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "5:00-24:00"
+      }
+    ],
+    "lat": 50.0885849,
+    "lon": 14.4285126,
+    "services": 196608,
+    "payMethods": 13
+  },
+  {
+    "id": "dp2501",
+    "type": "ticketMachine",
+    "name": "Námìstí Republiky Støed",
+    "address": "Støed, Stanice metra, Praha 1",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "5:00-24:00"
+      }
+    ],
+    "lat": 50.0885849,
+    "lon": 14.4285126,
+    "services": 196608,
+    "payMethods": 13
+  },
+  {
+    "id": "dp2531",
+    "type": "ticketMachine",
+    "name": "Køižíkova",
+    "address": "Stanice metra, Praha 8",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "5:00-24:00"
+      }
+    ],
+    "lat": 50.09369,
+    "lon": 14.4515972,
+    "services": 196608,
+    "payMethods": 13
+  },
+  {
+    "id": "dp2541",
+    "type": "ticketMachine",
+    "name": "Invalidovna",
+    "address": "Stanice metra, Praha 8",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "5:00-24:00"
+      }
+    ],
+    "lat": 50.0973167,
+    "lon": 14.4643574,
+    "services": 196608,
+    "payMethods": 13
+  },
+  {
+    "id": "dp2551",
+    "type": "ticketMachine",
+    "name": "Palmovka",
+    "address": "vestibul Palmovka, Stanice metra, Praha 8",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "5:00-24:00"
+      }
+    ],
+    "lat": 50.10378,
+    "lon": 14.4734564,
+    "services": 196608,
+    "payMethods": 13
+  },
+  {
+    "id": "dp2561",
+    "type": "ticketMachine",
+    "name": "Palmovka",
+    "address": "vestibul Na Žertvách, Stanice metra, Praha 8",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "5:00-24:00"
+      }
+    ],
+    "lat": 50.10378,
+    "lon": 14.4734564,
+    "services": 196608,
+    "payMethods": 13
+  },
+  {
+    "id": "dp2571",
+    "type": "ticketMachine",
+    "name": "Èeskomoravská",
+    "address": "vestibul Aréna, Stanice metra, Praha 9",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "5:00-24:00"
+      }
+    ],
+    "lat": 50.106514,
+    "lon": 14.4928751,
+    "services": 196608,
+    "payMethods": 13
+  },
+  {
+    "id": "dp2574",
+    "type": "ticketMachine",
+    "name": "Èeskomoravská",
+    "address": "vestibul Drahobejlova, Stanice metra, Praha 9",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "5:00-24:00"
+      }
+    ],
+    "lat": 50.106514,
+    "lon": 14.4928751,
+    "services": 196608,
+    "payMethods": 13
+  },
+  {
+    "id": "dp2581",
+    "type": "ticketMachine",
+    "name": "Vysoèanská",
+    "address": "vestibul Nádraží Vysoèany, Stanice metra, Praha 9",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "5:00-24:00"
+      }
+    ],
+    "lat": 50.1099472,
+    "lon": 14.4992523,
+    "services": 196608,
+    "payMethods": 13
+  },
+  {
+    "id": "dp2591",
+    "type": "ticketMachine",
+    "name": "Vysoèanská",
+    "address": "vestibul Vysoèanská, Stanice metra, Praha 9",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "5:00-24:00"
+      }
+    ],
+    "lat": 50.11039,
+    "lon": 14.5018187,
+    "services": 196608,
+    "payMethods": 13
+  },
+  {
+    "id": "dp2601",
+    "type": "ticketMachine",
+    "name": "Kolbenova",
+    "address": "Stanice metra, Praha 9",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "5:00-24:00"
+      }
+    ],
+    "lat": 50.110466,
+    "lon": 14.5151911,
+    "services": 196608,
+    "payMethods": 13
+  },
+  {
+    "id": "dp2611",
+    "type": "ticketMachine",
+    "name": "Hloubìtín",
+    "address": "Stanice metra, Praha 9",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "5:00-24:00"
+      }
+    ],
+    "lat": 50.1064262,
+    "lon": 14.5376272,
+    "services": 196608,
+    "payMethods": 13
+  },
+  {
+    "id": "dp2621",
+    "type": "ticketMachine",
+    "name": "Rajská zahrada",
+    "address": "Stanice metra, Praha 9",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "5:00-24:00"
+      }
+    ],
+    "lat": 50.1067467,
+    "lon": 14.5597715,
+    "services": 196608,
+    "payMethods": 13
+  },
+  {
+    "id": "dp2631",
+    "type": "ticketMachine",
+    "name": "Èerný Most",
+    "address": "Stanice metra, Praha 9",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "5:00-24:00"
+      }
+    ],
+    "lat": 50.10914,
+    "lon": 14.5770569,
+    "services": 196608,
+    "payMethods": 13
+  },
+  {
+    "id": "dp2633",
+    "type": "ticketMachine",
+    "name": "Èerný Most",
+    "address": "Stanice metra, Praha 9",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "5:00-24:00"
+      }
+    ],
+    "lat": 50.10917,
+    "lon": 14.5774994,
+    "services": 196608,
+    "payMethods": 13
+  },
+  {
+    "id": "dp2637",
+    "type": "ticketMachine",
+    "name": "Èerný Most BUS",
+    "address": "Stanice metra, Praha 9",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "5:00-24:00"
+      }
+    ],
+    "lat": 50.10879,
+    "lon": 14.5766335,
+    "services": 196608,
+    "payMethods": 13
+  },
+  {
+    "id": "dp2712",
+    "type": "ticketMachine",
+    "name": "Háje",
+    "address": "východní vestibul, Stanice metra, Praha 4",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "5:00-24:00"
+      }
+    ],
+    "lat": 50.0310822,
+    "lon": 14.5285587,
+    "services": 196608,
+    "payMethods": 13
+  },
+  {
+    "id": "dp2721",
+    "type": "ticketMachine",
+    "name": "Háje",
+    "address": "západní vestibul, Stanice metra, Praha 4",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "5:00-24:00"
+      }
+    ],
+    "lat": 50.0304947,
+    "lon": 14.526145,
+    "services": 196608,
+    "payMethods": 13
+  },
+  {
+    "id": "dp2731",
+    "type": "ticketMachine",
+    "name": "Opatov",
+    "address": "Stanice metra, Praha 4",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "5:00-24:00"
+      }
+    ],
+    "lat": 50.0277061,
+    "lon": 14.50837,
+    "services": 196608,
+    "payMethods": 13
+  },
+  {
+    "id": "dp2733",
+    "type": "ticketMachine",
+    "name": "Opatov",
+    "address": "Chilská, Opatov, Praha 4",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "0:00-24:00"
+      }
+    ],
+    "lat": 50.0275154,
+    "lon": 14.5077038,
+    "services": 196608,
+    "payMethods": 13
+  },
+  {
+    "id": "dp2741",
+    "type": "ticketMachine",
+    "name": "Chodov",
+    "address": "Stanice metra, Praha 4",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "5:00-24:00"
+      }
+    ],
+    "lat": 50.0311928,
+    "lon": 14.4916677,
+    "services": 196608,
+    "payMethods": 13
+  },
+  {
+    "id": "dp2751",
+    "type": "ticketMachine",
+    "name": "Roztyly",
+    "address": "Stanice metra, Praha 4",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "5:00-24:00"
+      }
+    ],
+    "lat": 50.0373955,
+    "lon": 14.4778147,
+    "services": 196608,
+    "payMethods": 13
+  },
+  {
+    "id": "dp2761",
+    "type": "ticketMachine",
+    "name": "Kaèerov",
+    "address": "Stanice metra, Praha 4",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "5:00-24:00"
+      }
+    ],
+    "lat": 50.04182,
+    "lon": 14.4602966,
+    "services": 196608,
+    "payMethods": 13
+  },
+  {
+    "id": "dp2841",
+    "type": "ticketMachine",
+    "name": "Budìjovická",
+    "address": "vestibul Antala Staška, Stanice metra, Praha 4",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "5:00-24:00"
+      }
+    ],
+    "lat": 50.0435677,
+    "lon": 14.4506416,
+    "services": 196608,
+    "payMethods": 13
+  },
+  {
+    "id": "dp2781",
+    "type": "ticketMachine",
+    "name": "Budìjovická",
+    "address": "vestibul Olbrachtova, Stanice metra, Praha 4",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "5:00-24:00"
+      }
+    ],
+    "lat": 50.04477,
+    "lon": 14.4483929,
+    "services": 196608,
+    "payMethods": 13
+  },
+  {
+    "id": "dp2791",
+    "type": "ticketMachine",
+    "name": "Pankrác",
+    "address": "Stanice metra, Praha 4",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "5:00-24:00"
+      }
+    ],
+    "lat": 50.0510941,
+    "lon": 14.4396839,
+    "services": 196608,
+    "payMethods": 13
+  },
+  {
+    "id": "dp2801",
+    "type": "ticketMachine",
+    "name": "Pražského povstání",
+    "address": "Stanice metra, Praha 4",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "5:00-24:00"
+      }
+    ],
+    "lat": 50.05653,
+    "lon": 14.4338408,
+    "services": 196608,
+    "payMethods": 13
+  },
+  {
+    "id": "dp2811",
+    "type": "ticketMachine",
+    "name": "Vyšehrad",
+    "address": "z centra, Stanice metra, Praha 4",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "5:00-24:00"
+      }
+    ],
+    "lat": 50.0630341,
+    "lon": 14.4305048,
+    "services": 196608,
+    "payMethods": 13
+  },
+  {
+    "id": "dp2813",
+    "type": "ticketMachine",
+    "name": "Vyšehrad",
+    "address": "do centra, Stanice metra, Praha 4",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "5:00-24:00"
+      }
+    ],
+    "lat": 50.0630341,
+    "lon": 14.4305048,
+    "services": 196608,
+    "payMethods": 13
+  },
+  {
+    "id": "dp2821",
+    "type": "ticketMachine",
+    "name": "I.P. Pavlova",
+    "address": "Stanice metra, Praha 2",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "5:00-24:00"
+      }
+    ],
+    "lat": 50.0755577,
+    "lon": 14.4304781,
+    "services": 196608,
+    "payMethods": 13
+  },
+  {
+    "id": "dp2825",
+    "type": "ticketMachine",
+    "name": "I.P. Pavlova",
+    "address": "výtah, Legerova, Stanice metra, Praha 2",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "5:00-24:00"
+      }
+    ],
+    "lat": 50.0755577,
+    "lon": 14.4304781,
+    "services": 196608,
+    "payMethods": 13
+  },
+  {
+    "id": "dp2833",
+    "type": "ticketMachine",
+    "name": "Hlavní nádraží",
+    "address": "Stanice metra, Praha 1",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "0:00-24:00"
+      }
+    ],
+    "lat": 50.0832024,
+    "lon": 14.4340982,
+    "services": 196608,
+    "payMethods": 13
+  },
+  {
+    "id": "dp2807",
+    "type": "ticketMachine",
+    "name": "Hlavní nádraží",
+    "address": "Stanice metra, Praha 1",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "0:00-24:00"
+      }
+    ],
+    "lat": 50.0832558,
+    "lon": 14.4338379,
+    "services": 196608,
+    "payMethods": 13
+  },
+  {
+    "id": "dp2805",
+    "type": "ticketMachine",
+    "name": "Hlavní nádraží",
+    "address": "Stanice metra, Praha 1",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "0:00-24:00"
+      }
+    ],
+    "lat": 50.0837669,
+    "lon": 14.434495,
+    "services": 196608,
+    "payMethods": 13
+  },
+  {
+    "id": "dp2831",
+    "type": "ticketMachine",
+    "name": "Hlavní nádraží",
+    "address": "Stanice metra, Praha 1",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "0:00-24:00"
+      }
+    ],
+    "lat": 50.08384,
+    "lon": 14.4342566,
+    "services": 196608,
+    "payMethods": 13
+  },
+  {
+    "id": "dp2846",
+    "type": "ticketMachine",
+    "name": "Florenc",
+    "address": "vestibul Sokolovská C, Stanice metra, Praha 8",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "5:00-24:00"
+      }
+    ],
+    "lat": 50.0910721,
+    "lon": 14.4396763,
+    "services": 196608,
+    "payMethods": 13
+  },
+  {
+    "id": "dp2848",
+    "type": "ticketMachine",
+    "name": "Florenc",
+    "address": "vestibul Sokolovská B, Stanice metra, Praha 8",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "5:00-24:00"
+      }
+    ],
+    "lat": 50.0910721,
+    "lon": 14.4396763,
+    "services": 196608,
+    "payMethods": 13
+  },
+  {
+    "id": "dp2859",
+    "type": "ticketMachine",
+    "name": "Florenc výtah",
+    "address": "výtah, Florenc B, Stanice metra, Praha 8",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "5:00-24:00"
+      }
+    ],
+    "lat": 50.0896645,
+    "lon": 14.4386,
+    "services": 196608,
+    "payMethods": 13
+  },
+  {
+    "id": "dp2851",
+    "type": "ticketMachine",
+    "name": "Vltavská",
+    "address": "Stanice metra, Praha 7",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "5:00-24:00"
+      }
+    ],
+    "lat": 50.0990067,
+    "lon": 14.43866,
+    "services": 196608,
+    "payMethods": 13
+  },
+  {
+    "id": "dp2861",
+    "type": "ticketMachine",
+    "name": "Nádraží Holešovice",
+    "address": "jižní vestibul bus, Stanice metra, Praha 7",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "5:00-24:00"
+      }
+    ],
+    "lat": 50.1083069,
+    "lon": 14.4407787,
+    "services": 196608,
+    "payMethods": 13
+  },
+  {
+    "id": "dp2871",
+    "type": "ticketMachine",
+    "name": "Nádraží Holešovice",
+    "address": "severní vestibul nádraží, Stanice metra, Praha 7",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "5:00-24:00"
+      }
+    ],
+    "lat": 50.10965,
+    "lon": 14.4397316,
+    "services": 196608,
+    "payMethods": 13
+  },
+  {
+    "id": "dp2881",
+    "type": "ticketMachine",
+    "name": "Kobylisy",
+    "address": "Kobyliské námìstí, Stanice metra, Praha 8",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "5:00-24:00"
+      }
+    ],
+    "lat": 50.1246033,
+    "lon": 14.4560614,
+    "services": 196608,
+    "payMethods": 13
+  },
+  {
+    "id": "dp2884",
+    "type": "ticketMachine",
+    "name": "Kobylisy",
+    "address": "Katastrální úøad, Stanice metra, Praha 8",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "5:00-24:00"
+      }
+    ],
+    "lat": 50.1246033,
+    "lon": 14.4560614,
+    "services": 196608,
+    "payMethods": 13
+  },
+  {
+    "id": "dp2887",
+    "type": "ticketMachine",
+    "name": "Kobylisy",
+    "address": "výtah, Stanice metra (výtah), Praha 8",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "5:00-24:00"
+      }
+    ],
+    "lat": 50.1244774,
+    "lon": 14.4553881,
+    "services": 196608,
+    "payMethods": 13
+  },
+  {
+    "id": "dp2891",
+    "type": "ticketMachine",
+    "name": "Ládví",
+    "address": "Stanice metra, Praha 8",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "5:00-24:00"
+      }
+    ],
+    "lat": 50.1266747,
+    "lon": 14.4701548,
+    "services": 196608,
+    "payMethods": 13
+  },
+  {
+    "id": "dp2679",
+    "type": "ticketMachine",
+    "name": "Støížkov",
+    "address": "Stanice metra, Praha 9",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "5:00-24:00"
+      }
+    ],
+    "lat": 50.1259956,
+    "lon": 14.48945,
+    "services": 196608,
+    "payMethods": 13
+  },
+  {
+    "id": "dp2680",
+    "type": "ticketMachine",
+    "name": "Støížkov",
+    "address": "Stanice metra, Praha 9",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "5:00-24:00"
+      }
+    ],
+    "lat": 50.1262054,
+    "lon": 14.4894886,
+    "services": 196608,
+    "payMethods": 13
+  },
+  {
+    "id": "dp2682",
+    "type": "ticketMachine",
+    "name": "Støížkov",
+    "address": "Stanice metra, Praha 9",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "5:00-24:00"
+      }
+    ],
+    "lat": 50.1264153,
+    "lon": 14.48914,
+    "services": 196608,
+    "payMethods": 13
+  },
+  {
+    "id": "dp2684",
+    "type": "ticketMachine",
+    "name": "Støížkov",
+    "address": "Stanice metra, Praha 9",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "5:00-24:00"
+      }
+    ],
+    "lat": 50.1258659,
+    "lon": 14.4898367,
+    "services": 196608,
+    "payMethods": 13
+  },
+  {
+    "id": "dp2686",
+    "type": "ticketMachine",
+    "name": "Støížkov",
+    "address": "Stanice metra, Praha 9",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "5:00-24:00"
+      }
+    ],
+    "lat": 50.1265869,
+    "lon": 14.4890862,
+    "services": 196608,
+    "payMethods": 13
+  },
+  {
+    "id": "dp2688",
+    "type": "ticketMachine",
+    "name": "Støížkov",
+    "address": "Stanice metra, Praha 9",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "5:00-24:00"
+      }
+    ],
+    "lat": 50.1260376,
+    "lon": 14.4898586,
+    "services": 196608,
+    "payMethods": 13
+  },
+  {
+    "id": "dp2690",
+    "type": "ticketMachine",
+    "name": "Støížkov",
+    "address": "Stanice metra, Praha 9",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "5:00-24:00"
+      }
+    ],
+    "lat": 50.1263466,
+    "lon": 14.4894829,
+    "services": 196608,
+    "payMethods": 13
+  },
+  {
+    "id": "dp2691",
+    "type": "ticketMachine",
+    "name": "Prosek",
+    "address": "Stanice metra, Praha 9",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "5:00-24:00"
+      }
+    ],
+    "lat": 50.118866,
+    "lon": 14.4993668,
+    "services": 196608,
+    "payMethods": 13
+  },
+  {
+    "id": "dp2701",
+    "type": "ticketMachine",
+    "name": "Letòany",
+    "address": "Stanice metra, Praha 9",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "5:00-24:00"
+      }
+    ],
+    "lat": 50.1249428,
+    "lon": 14.5161362,
+    "services": 196608,
+    "payMethods": 13
+  },
+  {
+    "id": "dp930",
+    "type": "ticketMachine",
+    "name": "Ládví P+R",
+    "address": "Parkovištì P+R, Praha 8",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "5:00-24:00"
+      }
+    ],
+    "lat": 50.1260834,
+    "lon": 14.4723253,
+    "services": 196608,
+    "payMethods": 1
+  },
+  {
+    "id": "dp931",
+    "type": "ticketMachine",
+    "name": "Chodov P+R",
+    "address": "Parkovištì P+R, Praha 4",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "5:00-24:00"
+      }
+    ],
+    "lat": 50.0321579,
+    "lon": 14.4916687,
+    "services": 196608,
+    "payMethods": 1
+  },
+  {
+    "id": "dp938",
+    "type": "ticketMachine",
+    "name": "Letòany P+R",
+    "address": "Parkovištì P+R, Praha 9",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "5:00-24:00"
+      }
+    ],
+    "lat": 50.12519,
+    "lon": 14.5149326,
+    "services": 196608,
+    "payMethods": 1
+  },
+  {
+    "id": "cd551069",
+    "type": "trainStation",
+    "name": "Benešov u Prahy",
+    "address": "",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 5,
+        "hours": "05:00-21:00"
+      },
+      {
+        "from": 6,
+        "to": 6,
+        "hours": "06:00-21:00"
+      }
+    ],
+    "lat": 49.7813568,
+    "lon": 14.6818275,
+    "services": 1253696,
+    "payMethods": 15,
+    "link": "https://www.cd.cz/stanice/5455106"
+  },
+  {
+    "id": "cd730747",
+    "type": "trainStation",
+    "name": "Beroun",
+    "address": "",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "04:00-22:30"
+      }
+    ],
+    "lat": 49.9569778,
+    "lon": 14.0758247,
+    "services": 1253696,
+    "payMethods": 15,
+    "link": "https://www.cd.cz/stanice/5473074"
+  },
+  {
+    "id": "cd546465",
+    "type": "trainStation",
+    "name": "Brandýs nad Labem",
+    "address": "",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 4,
+        "hours": "06:10-10:15,10:45-17:40"
+      },
+      {
+        "from": 5,
+        "to": 5,
+        "hours": "07:10-10:15,10:45-16:20"
+      },
+      {
+        "from": 6,
+        "to": 6,
+        "hours": "07:10-10:15,10:45-18:25"
+      }
+    ],
+    "lat": 50.183918,
+    "lon": 14.6535969,
+    "services": 1253376,
+    "payMethods": 15,
+    "link": "https://www.cd.cz/stanice/5454646"
+  },
+  {
+    "id": "cd769349",
+    "type": "trainStation",
+    "name": "Bøeznice",
+    "address": "",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 4,
+        "hours": "05:50-11:00,11:30-13:40"
+      }
+    ],
+    "lat": 49.55835,
+    "lon": 13.9640388,
+    "services": 1253376,
+    "payMethods": 15,
+    "link": "https://www.cd.cz/stanice/5476934"
+  },
+  {
+    "id": "cd540443",
+    "type": "trainStation",
+    "name": "Èáslav",
+    "address": "",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 4,
+        "hours": "04:35-17:10,17:40-21:15"
+      },
+      {
+        "from": 5,
+        "to": 5,
+        "hours": "05:15-09:15,09:45-17:00,17:30-21:15"
+      },
+      {
+        "from": 6,
+        "to": 6,
+        "hours": "06:20-09:15,09:45-17:00,17:30-21:15"
+      }
+    ],
+    "lat": 49.9155846,
+    "lon": 15.3943119,
+    "services": 1253696,
+    "payMethods": 15,
+    "link": "https://www.cd.cz/stanice/5454044"
+  },
+  {
+    "id": "cd547760",
+    "type": "trainStation",
+    "name": "Èelákovice",
+    "address": "",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 4,
+        "hours": "05:05-10:45,11:15-18:45,19:15-21:05"
+      },
+      {
+        "from": 5,
+        "to": 6,
+        "hours": "06:10-10:45,11:15-17:50"
+      }
+    ],
+    "lat": 50.15785,
+    "lon": 14.7543659,
+    "services": 1253376,
+    "payMethods": 15,
+    "link": "https://www.cd.cz/stanice/5454776"
+  },
+  {
+    "id": "cd550467",
+    "type": "trainStation",
+    "name": "Èerèany",
+    "address": "",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 5,
+        "hours": "05:50-12:00,12:45-17:45"
+      },
+      {
+        "from": 6,
+        "to": 6,
+        "hours": "08:00-12:00,12:45-19:05"
+      }
+    ],
+    "lat": 49.85143,
+    "lon": 14.70194,
+    "services": 1253376,
+    "payMethods": 15,
+    "link": "https://www.cd.cz/stanice/5455046"
+  },
+  {
+    "id": "cd532663",
+    "type": "trainStation",
+    "name": "Èernošice",
+    "address": "",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 4,
+        "hours": "05:31-16:47"
+      },
+      {
+        "from": 5,
+        "to": 5,
+        "hours": "06:31-17:47"
+      },
+      {
+        "from": 6,
+        "to": 6,
+        "hours": "07:01-17:47"
+      }
+    ],
+    "lat": 49.95981,
+    "lon": 14.3235159,
+    "services": 1253376,
+    "payMethods": 15,
+    "link": "https://www.cd.cz/stanice/5453266"
+  },
+  {
+    "id": "cd532465",
+    "type": "trainStation",
+    "name": "Èernošice-Mokropsy",
+    "address": "",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 4,
+        "hours": "05:54-13:35"
+      }
+    ],
+    "lat": 49.9462,
+    "lon": 14.330513,
+    "services": 1253376,
+    "payMethods": 15,
+    "link": "https://www.cd.cz/stanice/5453246"
+  },
+  {
+    "id": "cd530667",
+    "type": "trainStation",
+    "name": "Èeský Brod",
+    "address": "",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 4,
+        "hours": "05:15-08:55,09:45-12:50,13:30-17:50,18:20-21:45"
+      },
+      {
+        "from": 5,
+        "to": 5,
+        "hours": "05:30-09:40,10:10-14:45,15:15-18:00"
+      },
+      {
+        "from": 6,
+        "to": 6,
+        "hours": "08:00-11:40,12:10-16:45,17:15-20:40"
+      }
+    ],
+    "lat": 50.0766678,
+    "lon": 14.8663044,
+    "services": 1253376,
+    "payMethods": 15,
+    "link": "https://www.cd.cz/stanice/5453066"
+  },
+  {
+    "id": "cd532267",
+    "type": "trainStation",
+    "name": "Dobøichovice",
+    "address": "",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 4,
+        "hours": "06:16-17:39"
+      },
+      {
+        "from": 5,
+        "to": 5,
+        "hours": "06:59-17:39"
+      },
+      {
+        "from": 6,
+        "to": 6,
+        "hours": "07:29-18:09"
+      }
+    ],
+    "lat": 49.92745,
+    "lon": 14.2879248,
+    "services": 1253376,
+    "payMethods": 15,
+    "link": "https://www.cd.cz/stanice/5453226"
+  },
+  {
+    "id": "cd731349",
+    "type": "trainStation",
+    "name": "Hoøovice",
+    "address": "",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 4,
+        "hours": "04:25-20:10"
+      },
+      {
+        "from": 5,
+        "to": 6,
+        "hours": "05:00-20:10"
+      }
+    ],
+    "lat": 49.8433876,
+    "lon": 13.8993168,
+    "services": 1253376,
+    "payMethods": 15,
+    "link": "https://www.cd.cz/stanice/5473134"
+  },
+  {
+    "id": "cd536565",
+    "type": "trainStation",
+    "name": "Hostivice",
+    "address": "",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 4,
+        "hours": "06:15-18:10"
+      },
+      {
+        "from": 5,
+        "to": 5,
+        "hours": "06:15-16:00"
+      },
+      {
+        "from": 6,
+        "to": 6,
+        "hours": "08:00-17:40"
+      }
+    ],
+    "lat": 50.0841331,
+    "lon": 14.2584476,
+    "services": 1253376,
+    "payMethods": 15,
+    "link": "https://www.cd.cz/stanice/5453656"
+  },
+  {
+    "id": "cd761643",
+    "type": "trainStation",
+    "name": "Jesenice",
+    "address": "",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 4,
+        "hours": "06:20-11:15,11:45-14:20"
+      }
+    ],
+    "lat": 50.0931168,
+    "lon": 13.47179,
+    "services": 1253376,
+    "payMethods": 15,
+    "link": "https://www.cd.cz/stanice/5476164"
+  },
+  {
+    "id": "cd768846",
+    "type": "trainStation",
+    "name": "Jince",
+    "address": "",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 4,
+        "hours": "05:20-11:35,12:05-13:10"
+      }
+    ],
+    "lat": 49.78223,
+    "lon": 13.9872818,
+    "services": 1253376,
+    "payMethods": 15,
+    "link": "https://www.cd.cz/stanice/5476884"
+  },
+  {
+    "id": "cd531863",
+    "type": "trainStation",
+    "name": "Karlštejn",
+    "address": "",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 4,
+        "hours": "06:17-12:04,12:34-17:35"
+      },
+      {
+        "from": 5,
+        "to": 5,
+        "hours": "07:47-19:35"
+      },
+      {
+        "from": 6,
+        "to": 6,
+        "hours": "07:48-18:35"
+      }
+    ],
+    "lat": 49.93195,
+    "lon": 14.1753321,
+    "services": 1253376,
+    "payMethods": 15,
+    "link": "https://www.cd.cz/stanice/5453186"
+  },
+  {
+    "id": "cd535161",
+    "type": "trainStation",
+    "name": "Kladno",
+    "address": "",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "00:00-00:20,03:20-24:00"
+      }
+    ],
+    "lat": 50.1278267,
+    "lon": 14.1138716,
+    "services": 1253376,
+    "payMethods": 15,
+    "link": "https://www.cd.cz/stanice/5453516"
+  },
+  {
+    "id": "cd535567",
+    "type": "trainStation",
+    "name": "Kladno mìsto",
+    "address": "",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 4,
+        "hours": "05:15-20:55"
+      },
+      {
+        "from": 5,
+        "to": 6,
+        "hours": "06:20-18:20"
+      }
+    ],
+    "lat": 50.1420174,
+    "lon": 14.083683,
+    "services": 1253376,
+    "payMethods": 15,
+    "link": "https://www.cd.cz/stanice/5453556"
+  },
+  {
+    "id": "cd534149",
+    "type": "trainStation",
+    "name": "Kolín",
+    "address": "",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 4,
+        "hours": "00:00-01:05,03:15-24:00"
+      },
+      {
+        "from": 5,
+        "to": 5,
+        "hours": "00:00-01:05,03:40-24:00"
+      },
+      {
+        "from": 6,
+        "to": 6,
+        "hours": "00:00-00:35,03:30-24:00"
+      }
+    ],
+    "lat": 50.02524,
+    "lon": 15.2143831,
+    "services": 1253696,
+    "payMethods": 15,
+    "link": "https://www.cd.cz/stanice/5453414"
+  },
+  {
+    "id": "cd534248",
+    "type": "trainStation",
+    "name": "Kolín zastávka",
+    "address": "",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 4,
+        "hours": "05:05-10:30,11:15-17:00"
+      },
+      {
+        "from": 5,
+        "to": 5,
+        "hours": "07:15-11:30,12:00-15:30"
+      },
+      {
+        "from": 6,
+        "to": 6,
+        "hours": "08:15-11:30,12:00-17:30"
+      }
+    ],
+    "lat": 50.0305557,
+    "lon": 15.1955481,
+    "services": 1253376,
+    "payMethods": 15,
+    "link": "https://www.cd.cz/stanice/5453424"
+  },
+  {
+    "id": "cd531343",
+    "type": "trainStation",
+    "name": "Kostomlaty nad Labem",
+    "address": "",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 4,
+        "hours": "05:30-13:10"
+      }
+    ],
+    "lat": 50.18597,
+    "lon": 14.9616756,
+    "services": 1253376,
+    "payMethods": 15,
+    "link": "https://www.cd.cz/stanice/5453134"
+  },
+  {
+    "id": "cd543967",
+    "type": "trainStation",
+    "name": "Kralupy nad Vltavou",
+    "address": "",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 4,
+        "hours": "00:00-01:15,03:25-24:00"
+      },
+      {
+        "from": 5,
+        "to": 6,
+        "hours": "00:00-01:15,04:20-24:00"
+      }
+    ],
+    "lat": 50.2382,
+    "lon": 14.3138552,
+    "services": 1253696,
+    "payMethods": 15,
+    "link": "https://www.cd.cz/stanice/5454396"
+  },
+  {
+    "id": "cd540146",
+    "type": "trainStation",
+    "name": "Kutná Hora hlavní nádraží",
+    "address": "",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 4,
+        "hours": "04:45-09:10,09:40-17:05,17:35-21:05"
+      },
+      {
+        "from": 5,
+        "to": 5,
+        "hours": "05:10-09:10,09:40-17:05,17:35-21:05"
+      },
+      {
+        "from": 6,
+        "to": 6,
+        "hours": "06:45-11:10,11:40-17:05,17:35-21:05"
+      }
+    ],
+    "lat": 49.96172,
+    "lon": 15.3011465,
+    "services": 1253376,
+    "payMethods": 15,
+    "link": "https://www.cd.cz/stanice/5454014"
+  },
+  {
+    "id": "cd563460",
+    "type": "trainStation",
+    "name": "Kutná Hora mìsto",
+    "address": "",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 4,
+        "hours": "05:00-10:50,11:50-20:45"
+      },
+      {
+        "from": 5,
+        "to": 5,
+        "hours": "06:35-19:15"
+      },
+      {
+        "from": 6,
+        "to": 6,
+        "hours": "08:35-20:15"
+      }
+    ],
+    "lat": 49.9498825,
+    "lon": 15.2773333,
+    "services": 1253376,
+    "payMethods": 15,
+    "link": "https://www.cd.cz/stanice/5456346"
+  },
+  {
+    "id": "cd544361",
+    "type": "trainStation",
+    "name": "Libèice nad Vltavou",
+    "address": "",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 4,
+        "hours": "05:55-08:30,08:50-11:00,11:30-13:45"
+      }
+    ],
+    "lat": 50.19996,
+    "lon": 14.3641939,
+    "services": 1253376,
+    "payMethods": 15,
+    "link": "https://www.cd.cz/stanice/5454436"
+  },
+  {
+    "id": "cd531145",
+    "type": "trainStation",
+    "name": "Lysá nad Labem",
+    "address": "",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 4,
+        "hours": "05:10-21:25"
+      },
+      {
+        "from": 5,
+        "to": 5,
+        "hours": "06:15-18:55"
+      },
+      {
+        "from": 6,
+        "to": 6,
+        "hours": "07:05-21:15"
+      }
+    ],
+    "lat": 50.1956,
+    "lon": 14.8422327,
+    "services": 1253376,
+    "payMethods": 15,
+    "link": "https://www.cd.cz/stanice/5453114"
+  },
+  {
+    "id": "cd530188",
+    "type": "trainStation",
+    "name": "Mìlník",
+    "address": "",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 4,
+        "hours": "04:55-10:15,11:00-17:10"
+      },
+      {
+        "from": 5,
+        "to": 5,
+        "hours": "06:45-10:15,10:45-15:10"
+      },
+      {
+        "from": 6,
+        "to": 6,
+        "hours": "08:45-12:15,12:45-17:10"
+      }
+    ],
+    "lat": 50.3529778,
+    "lon": 14.4924278,
+    "services": 1253376,
+    "payMethods": 15,
+    "link": "https://www.cd.cz/stanice/5453018"
+  },
+  {
+    "id": "cd544148",
+    "type": "trainStation",
+    "name": "Milovice",
+    "address": "",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 4,
+        "hours": "04:25-16:15"
+      },
+      {
+        "from": 5,
+        "to": 5,
+        "hours": "05:40-15:25"
+      },
+      {
+        "from": 6,
+        "to": 6,
+        "hours": "07:40-17:25"
+      }
+    ],
+    "lat": 50.2292023,
+    "lon": 14.8816891,
+    "services": 1253376,
+    "payMethods": 15,
+    "link": "https://www.cd.cz/stanice/5454414"
+  },
+  {
+    "id": "cd544510",
+    "type": "trainStation",
+    "name": "Mladá Boleslav hlavní nádraží",
+    "address": "",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "05:10-20:40"
+      }
+    ],
+    "lat": 50.40734,
+    "lon": 14.8872032,
+    "services": 1253376,
+    "payMethods": 15,
+    "link": "https://www.cd.cz/stanice/5454451"
+  },
+  {
+    "id": "cd559914",
+    "type": "trainStation",
+    "name": "Mladá Boleslav mìsto",
+    "address": "",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 4,
+        "hours": "06:05-11:45,12:10-21:45"
+      },
+      {
+        "from": 5,
+        "to": 5,
+        "hours": "06:05-18:30"
+      },
+      {
+        "from": 6,
+        "to": 6,
+        "hours": "06:50-20:00"
+      }
+    ],
+    "lat": 50.41929,
+    "lon": 14.9156914,
+    "services": 1253696,
+    "payMethods": 15,
+    "link": "https://www.cd.cz/stanice/5455991"
+  },
+  {
+    "id": "cd550160",
+    "type": "trainStation",
+    "name": "Mnichovice",
+    "address": "",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 4,
+        "hours": "05:05-16:30"
+      },
+      {
+        "from": 5,
+        "to": 5,
+        "hours": "06:05-17:30"
+      },
+      {
+        "from": 6,
+        "to": 6,
+        "hours": "08:10-18:30"
+      }
+    ],
+    "lat": 49.9325829,
+    "lon": 14.7071524,
+    "services": 1253376,
+    "payMethods": 15,
+    "link": "https://www.cd.cz/stanice/5455016"
+  },
+  {
+    "id": "cd543512",
+    "type": "trainStation",
+    "name": "Mnichovo Hradištì",
+    "address": "",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 4,
+        "hours": "06:00-17:50"
+      },
+      {
+        "from": 5,
+        "to": 5,
+        "hours": "07:25-16:20"
+      },
+      {
+        "from": 6,
+        "to": 6,
+        "hours": "07:30-17:50"
+      }
+    ],
+    "lat": 50.5183372,
+    "lon": 14.9781609,
+    "services": 1253376,
+    "payMethods": 15,
+    "link": "https://www.cd.cz/stanice/5454351"
+  },
+  {
+    "id": "cd546861",
+    "type": "trainStation",
+    "name": "Neratovice",
+    "address": "",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 4,
+        "hours": "05:15-10:40,11:10-17:00"
+      },
+      {
+        "from": 5,
+        "to": 6,
+        "hours": "06:20-10:40,11:10-16:20"
+      }
+    ],
+    "lat": 50.2627029,
+    "lon": 14.5175734,
+    "services": 1253376,
+    "payMethods": 15,
+    "link": "https://www.cd.cz/stanice/5454686"
+  },
+  {
+    "id": "cd532143",
+    "type": "trainStation",
+    "name": "Nymburk hlavní nádraží",
+    "address": "",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "00:00-01:30,03:35-24:00"
+      }
+    ],
+    "lat": 50.1935,
+    "lon": 15.045537,
+    "services": 1253696,
+    "payMethods": 15,
+    "link": "https://www.cd.cz/stanice/5453214"
+  },
+  {
+    "id": "cd551366",
+    "type": "trainStation",
+    "name": "Olbramovice",
+    "address": "",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 0,
+        "hours": "04:50-09:40,10:10-13:40,14:05-17:40"
+      },
+      {
+        "from": 1,
+        "to": 4,
+        "hours": "05:25-09:40,10:10-13:40,14:05-17:40"
+      },
+      {
+        "from": 5,
+        "to": 5,
+        "hours": "05:25-09:40,10:10-15:40"
+      },
+      {
+        "from": 6,
+        "to": 6,
+        "hours": "10:50-19:40"
+      }
+    ],
+    "lat": 49.666748,
+    "lon": 14.6240473,
+    "services": 1253376,
+    "payMethods": 15,
+    "link": "https://www.cd.cz/stanice/5455136"
+  },
+  {
+    "id": "cd531160",
+    "type": "trainStation",
+    "name": "Peèky",
+    "address": "",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 4,
+        "hours": "05:00-10:00,10:30-18:00,18:30-21:30"
+      },
+      {
+        "from": 5,
+        "to": 5,
+        "hours": "05:15-09:00,09:30-15:00,15:30-17:55"
+      },
+      {
+        "from": 6,
+        "to": 6,
+        "hours": "06:30-11:00,11:30-15:00,15:30-19:05"
+      }
+    ],
+    "lat": 50.0898,
+    "lon": 15.0271006,
+    "services": 1253376,
+    "payMethods": 15,
+    "link": "https://www.cd.cz/stanice/5453116"
+  },
+  {
+    "id": "cd532341",
+    "type": "trainStation",
+    "name": "Podìbrady",
+    "address": "",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 4,
+        "hours": "04:45-21:25"
+      },
+      {
+        "from": 5,
+        "to": 5,
+        "hours": "06:35-19:35"
+      },
+      {
+        "from": 6,
+        "to": 6,
+        "hours": "06:55-19:35"
+      }
+    ],
+    "lat": 50.1493034,
+    "lon": 15.1242561,
+    "services": 1253376,
+    "payMethods": 15,
+    "link": "https://www.cd.cz/stanice/5453234"
+  },
+  {
+    "id": "cd530964",
+    "type": "trainStation",
+    "name": "Poøíèany",
+    "address": "",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 4,
+        "hours": "05:15-09:55,10:25-10:35,10:55-12:35"
+      }
+    ],
+    "lat": 50.1111526,
+    "lon": 14.9223843,
+    "services": 1253376,
+    "payMethods": 15,
+    "link": "https://www.cd.cz/stanice/5453096"
+  },
+  {
+    "id": "cd570762",
+    "type": "trainStation",
+    "name": "Praha hlavní nádraží",
+    "address": "",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 4,
+        "hours": "03:20-00:30"
+      },
+      {
+        "from": 5,
+        "to": 6,
+        "hours": "02:00-02:30,03:20-00:30"
+      }
+    ],
+    "lat": 50.0826378,
+    "lon": 14.4354706,
+    "services": 1253376,
+    "payMethods": 15,
+    "link": "https://www.cd.cz/stanice/5457076"
+  },
+  {
+    "id": "cd592063",
+    "type": "trainStation",
+    "name": "Praha Letištì",
+    "address": "",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "08:00-20:00"
+      }
+    ],
+    "lat": 50.0759964,
+    "lon": 14.4050827,
+    "services": 1253376,
+    "payMethods": 15,
+    "link": "https://www.cd.cz/stanice/5459206"
+  },
+  {
+    "id": "cd572362",
+    "type": "trainStation",
+    "name": "Praha Masarykovo nádraží",
+    "address": "",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "03:30-23:40"
+      }
+    ],
+    "lat": 50.08765,
+    "lon": 14.4347076,
+    "services": 1253376,
+    "payMethods": 15,
+    "link": "https://www.cd.cz/stanice/5457236"
+  },
+  {
+    "id": "cd570168",
+    "type": "trainStation",
+    "name": "Praha-Braník",
+    "address": "",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 3,
+        "hours": "07:00-12:08,12:30-17:20"
+      },
+      {
+        "from": 4,
+        "to": 4,
+        "hours": "07:00-12:08,12:30-18:20"
+      },
+      {
+        "from": 5,
+        "to": 5,
+        "hours": "06:00-11:15,11:35-13:15,13:35-14:50,15:10-18:20"
+      },
+      {
+        "from": 6,
+        "to": 6,
+        "hours": "07:00-17:20"
+      }
+    ],
+    "lat": 50.027874,
+    "lon": 14.4068909,
+    "services": 1253376,
+    "payMethods": 15,
+    "link": "https://www.cd.cz/stanice/5457016"
+  },
+  {
+    "id": "cd570663",
+    "type": "trainStation",
+    "name": "Praha-Dejvice",
+    "address": "",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "06:50-17:45"
+      }
+    ],
+    "lat": 50.0968742,
+    "lon": 14.3995028,
+    "services": 1253376,
+    "payMethods": 15,
+    "link": "https://www.cd.cz/stanice/5457066"
+  },
+  {
+    "id": "cd572560",
+    "type": "trainStation",
+    "name": "Praha-Holešovice",
+    "address": "",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 4,
+        "hours": "06:20-18:10"
+      },
+      {
+        "from": 5,
+        "to": 5,
+        "hours": "06:20-17:40"
+      },
+      {
+        "from": 6,
+        "to": 6,
+        "hours": "06:55-18:10"
+      }
+    ],
+    "lat": 50.1106377,
+    "lon": 14.4397068,
+    "services": 1253376,
+    "payMethods": 15,
+    "link": "https://www.cd.cz/stanice/5457256"
+  },
+  {
+    "id": "cd548263",
+    "type": "trainStation",
+    "name": "Praha-Horní Poèernice",
+    "address": "",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "07:00-18:00"
+      }
+    ],
+    "lat": 50.1163025,
+    "lon": 14.61077,
+    "services": 1253376,
+    "payMethods": 15,
+    "link": "https://www.cd.cz/stanice/5454826"
+  },
+  {
+    "id": "cd570960",
+    "type": "trainStation",
+    "name": "Praha-Hostivaø",
+    "address": "",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 4,
+        "hours": "05:40-17:00"
+      },
+      {
+        "from": 5,
+        "to": 6,
+        "hours": "06:00-17:00"
+      }
+    ],
+    "lat": 50.05511,
+    "lon": 14.5358162,
+    "services": 1253376,
+    "payMethods": 15,
+    "link": "https://www.cd.cz/stanice/5457096"
+  },
+  {
+    "id": "cd530568",
+    "type": "trainStation",
+    "name": "Praha-Klánovice",
+    "address": "",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 4,
+        "hours": "05:50-10:10,10:30-11:30,12:00-17:15"
+      },
+      {
+        "from": 5,
+        "to": 5,
+        "hours": "06:50-11:30,12:15-17:15"
+      },
+      {
+        "from": 6,
+        "to": 6,
+        "hours": "07:50-11:30,12:15-17:35"
+      }
+    ],
+    "lat": 50.0871277,
+    "lon": 14.6638184,
+    "services": 1253376,
+    "payMethods": 15,
+    "link": "https://www.cd.cz/stanice/5453056"
+  },
+  {
+    "id": "cd571760",
+    "type": "trainStation",
+    "name": "Praha-Libeò",
+    "address": "",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "05:56-20:55"
+      }
+    ],
+    "lat": 50.1008072,
+    "lon": 14.5013914,
+    "services": 1253376,
+    "payMethods": 15,
+    "link": "https://www.cd.cz/stanice/5457176"
+  },
+  {
+    "id": "cd532564",
+    "type": "trainStation",
+    "name": "Praha-Radotín",
+    "address": "",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 4,
+        "hours": "05:43-17:22"
+      },
+      {
+        "from": 5,
+        "to": 5,
+        "hours": "06:31-17:22"
+      },
+      {
+        "from": 6,
+        "to": 6,
+        "hours": "07:31-17:22"
+      }
+    ],
+    "lat": 49.98595,
+    "lon": 14.3642416,
+    "services": 1253376,
+    "payMethods": 15,
+    "link": "https://www.cd.cz/stanice/5453256"
+  },
+  {
+    "id": "cd572263",
+    "type": "trainStation",
+    "name": "Praha-Smíchov",
+    "address": "",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "04:00-01:00"
+      }
+    ],
+    "lat": 50.06111,
+    "lon": 14.4080439,
+    "services": 1253376,
+    "payMethods": 15,
+    "link": "https://www.cd.cz/stanice/5457226"
+  },
+  {
+    "id": "cd549568",
+    "type": "trainStation",
+    "name": "Praha-Uhøínìves",
+    "address": "",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "06:15-17:30"
+      }
+    ],
+    "lat": 50.0337868,
+    "lon": 14.5912895,
+    "services": 1253376,
+    "payMethods": 15,
+    "link": "https://www.cd.cz/stanice/5454956"
+  },
+  {
+    "id": "cd572669",
+    "type": "trainStation",
+    "name": "Praha-Veleslavín",
+    "address": "",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 4,
+        "hours": "07:05-11:00,11:30-19:20"
+      },
+      {
+        "from": 5,
+        "to": 6,
+        "hours": "08:05-11:00,11:30-16:50"
+      }
+    ],
+    "lat": 50.0950775,
+    "lon": 14.3464146,
+    "services": 1253376,
+    "payMethods": 15,
+    "link": "https://www.cd.cz/stanice/5457266"
+  },
+  {
+    "id": "cd572768",
+    "type": "trainStation",
+    "name": "Praha-Vršovice",
+    "address": "",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "06:00-21:10"
+      }
+    ],
+    "lat": 50.0650177,
+    "lon": 14.4465027,
+    "services": 1253376,
+    "payMethods": 15,
+    "link": "https://www.cd.cz/stanice/5457276"
+  },
+  {
+    "id": "cd573162",
+    "type": "trainStation",
+    "name": "Praha-Vysoèany",
+    "address": "",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "06:00-11:00,11:30-13:30,13:55-21:10"
+      }
+    ],
+    "lat": 50.1123238,
+    "lon": 14.4973621,
+    "services": 1253376,
+    "payMethods": 15,
+    "link": "https://www.cd.cz/stanice/5457316"
+  },
+  {
+    "id": "cd572792",
+    "type": "trainStation",
+    "name": "Praha-Zahradní Mìsto",
+    "address": "",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 4,
+        "hours": "06:05-10:20,10:50-17:55"
+      },
+      {
+        "from": 5,
+        "to": 5,
+        "hours": "06:20-10:20,10:50-15:20"
+      },
+      {
+        "from": 6,
+        "to": 6,
+        "hours": "07:05-10:20,10:50-17:20"
+      }
+    ],
+    "lat": 50.0622978,
+    "lon": 14.5034075,
+    "services": 1253376,
+    "payMethods": 15,
+    "link": "https://www.cd.cz/stanice/5457279"
+  },
+  {
+    "id": "cd769042",
+    "type": "trainStation",
+    "name": "Pøíbram",
+    "address": "",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 5,
+        "hours": "05:00-11:05,11:35-16:15,16:45-20:45"
+      },
+      {
+        "from": 6,
+        "to": 6,
+        "hours": "05:00-11:05,11:35-16:15,16:45-20:15"
+      }
+    ],
+    "lat": 49.68893,
+    "lon": 14.0032673,
+    "services": 1253376,
+    "payMethods": 15,
+    "link": "https://www.cd.cz/stanice/5476904"
+  },
+  {
+    "id": "cd760942",
+    "type": "trainStation",
+    "name": "Rakovník",
+    "address": "",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "04:55-19:30"
+      }
+    ],
+    "lat": 50.0990067,
+    "lon": 13.7360373,
+    "services": 1253696,
+    "payMethods": 15,
+    "link": "https://www.cd.cz/stanice/5476094"
+  },
+  {
+    "id": "cd544668",
+    "type": "trainStation",
+    "name": "Roztoky u Prahy",
+    "address": "",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 4,
+        "hours": "05:45-10:20,10:50-13:35"
+      }
+    ],
+    "lat": 50.1594925,
+    "lon": 14.3983965,
+    "services": 1253376,
+    "payMethods": 15,
+    "link": "https://www.cd.cz/stanice/5454466"
+  },
+  {
+    "id": "cd532168",
+    "type": "trainStation",
+    "name": "Øevnice",
+    "address": "",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 4,
+        "hours": "05:14-21:06"
+      },
+      {
+        "from": 5,
+        "to": 5,
+        "hours": "05:46-18:06"
+      },
+      {
+        "from": 6,
+        "to": 6,
+        "hours": "06:46-18:36"
+      }
+    ],
+    "lat": 49.91646,
+    "lon": 14.2388391,
+    "services": 1253376,
+    "payMethods": 15,
+    "link": "https://www.cd.cz/stanice/5453216"
+  },
+  {
+    "id": "cd549865",
+    "type": "trainStation",
+    "name": "Øíèany",
+    "address": "",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 4,
+        "hours": "05:00-21:00"
+      },
+      {
+        "from": 5,
+        "to": 5,
+        "hours": "05:00-20:00"
+      },
+      {
+        "from": 6,
+        "to": 6,
+        "hours": "07:00-20:00"
+      }
+    ],
+    "lat": 49.99718,
+    "lon": 14.6642685,
+    "services": 1253376,
+    "payMethods": 3,
+    "link": "https://www.cd.cz/stanice/5454986"
+  },
+  {
+    "id": "cd545145",
+    "type": "trainStation",
+    "name": "Sadská",
+    "address": "",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 4,
+        "hours": "05:15-12:50"
+      }
+    ],
+    "lat": 50.13132,
+    "lon": 14.9866858,
+    "services": 1253376,
+    "payMethods": 15,
+    "link": "https://www.cd.cz/stanice/5454514"
+  },
+  {
+    "id": "cd559666",
+    "type": "trainStation",
+    "name": "Sázava",
+    "address": "",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 4,
+        "hours": "05:25-07:40,08:00-10:30,11:00-12:30,13:00-17:10"
+      },
+      {
+        "from": 5,
+        "to": 5,
+        "hours": "07:10-12:30,13:00-14:00,14:30-18:15"
+      },
+      {
+        "from": 6,
+        "to": 6,
+        "hours": "07:40-12:30,13:00-14:00,14:30-18:15"
+      }
+    ],
+    "lat": 49.87518,
+    "lon": 14.90624,
+    "services": 1253376,
+    "payMethods": 15,
+    "link": "https://www.cd.cz/stanice/5455966"
+  },
+  {
+    "id": "cd551762",
+    "type": "trainStation",
+    "name": "Sedlèany",
+    "address": "",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 3,
+        "hours": "05:40-08:07,08:45-11:05,12:50-14:10,14:45-16:15"
+      },
+      {
+        "from": 6,
+        "to": 6,
+        "hours": "10:55-13:05,13:45-16:05,16:45-19:00"
+      }
+    ],
+    "lat": 49.65587,
+    "lon": 14.4343338,
+    "services": 1253376,
+    "payMethods": 15,
+    "link": "https://www.cd.cz/stanice/5455176"
+  },
+  {
+    "id": "cd550269",
+    "type": "trainStation",
+    "name": "Senohraby",
+    "address": "",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 4,
+        "hours": "05:00-16:45"
+      },
+      {
+        "from": 5,
+        "to": 5,
+        "hours": "07:00-16:45"
+      },
+      {
+        "from": 6,
+        "to": 6,
+        "hours": "08:00-17:45"
+      }
+    ],
+    "lat": 49.89705,
+    "lon": 14.7275257,
+    "services": 1253376,
+    "payMethods": 15,
+    "link": "https://www.cd.cz/stanice/5455026"
+  },
+  {
+    "id": "cd538066",
+    "type": "trainStation",
+    "name": "Slaný",
+    "address": "",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 4,
+        "hours": "05:05-09:45,11:15-14:45,15:15-18:55"
+      },
+      {
+        "from": 5,
+        "to": 5,
+        "hours": "05:40-11:40,12:10-17:35"
+      },
+      {
+        "from": 6,
+        "to": 6,
+        "hours": "05:40-11:40,12:10-17:32"
+      }
+    ],
+    "lat": 50.22855,
+    "lon": 14.0757,
+    "services": 1253376,
+    "payMethods": 15,
+    "link": "https://www.cd.cz/stanice/5453806"
+  },
+  {
+    "id": "cd550061",
+    "type": "trainStation",
+    "name": "Stranèice",
+    "address": "",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 4,
+        "hours": "05:00-21:05"
+      },
+      {
+        "from": 5,
+        "to": 6,
+        "hours": "06:00-17:50"
+      }
+    ],
+    "lat": 49.949482,
+    "lon": 14.6777363,
+    "services": 1253376,
+    "payMethods": 15,
+    "link": "https://www.cd.cz/stanice/5455006"
+  },
+  {
+    "id": "cd534743",
+    "type": "trainStation",
+    "name": "Týnec nad Labem",
+    "address": "",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 4,
+        "hours": "05:05-10:30,11:00-12:50"
+      }
+    ],
+    "lat": 50.03784,
+    "lon": 15.3599176,
+    "services": 1253376,
+    "payMethods": 15,
+    "link": "https://www.cd.cz/stanice/5453474"
+  },
+  {
+    "id": "cd557868",
+    "type": "trainStation",
+    "name": "Týnec nad Sázavou",
+    "address": "",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 4,
+        "hours": "05:30-09:00,09:30-15:45,16:15-16:40"
+      },
+      {
+        "from": 5,
+        "to": 6,
+        "hours": "07:25-12:45,13:15-18:45"
+      }
+    ],
+    "lat": 49.8341026,
+    "lon": 14.59286,
+    "services": 1253376,
+    "payMethods": 15,
+    "link": "https://www.cd.cz/stanice/5455786"
+  },
+  {
+    "id": "cd530469",
+    "type": "trainStation",
+    "name": "Úvaly",
+    "address": "",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 4,
+        "hours": "05:05-09:15,10:00-13:00,13:20-16:45"
+      },
+      {
+        "from": 5,
+        "to": 5,
+        "hours": "06:30-09:45,10:15-16:35"
+      },
+      {
+        "from": 6,
+        "to": 6,
+        "hours": "07:30-09:45,10:15-17:35"
+      }
+    ],
+    "lat": 50.07471,
+    "lon": 14.7229156,
+    "services": 1253376,
+    "payMethods": 15,
+    "link": "https://www.cd.cz/stanice/5453046"
+  },
+  {
+    "id": "cd531566",
+    "type": "trainStation",
+    "name": "Velim",
+    "address": "",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 4,
+        "hours": "05:20-10:05,10:30-13:05"
+      }
+    ],
+    "lat": 50.06761,
+    "lon": 15.1246691,
+    "services": 1253376,
+    "payMethods": 15,
+    "link": "https://www.cd.cz/stanice/5453156"
+  },
+  {
+    "id": "cd533141",
+    "type": "trainStation",
+    "name": "Velký Osek",
+    "address": "",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 4,
+        "hours": "05:20-09:40,10:10-13:40,14:10-17:05"
+      },
+      {
+        "from": 5,
+        "to": 5,
+        "hours": "05:50-09:40,10:10-15:15"
+      },
+      {
+        "from": 6,
+        "to": 6,
+        "hours": "05:50-09:40,10:10-13:40,14:10-17:25"
+      }
+    ],
+    "lat": 50.10191,
+    "lon": 15.1934576,
+    "services": 1253376,
+    "payMethods": 15,
+    "link": "https://www.cd.cz/stanice/5453314"
+  },
+  {
+    "id": "cd545665",
+    "type": "trainStation",
+    "name": "Velvary",
+    "address": "",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 4,
+        "hours": "05:00-08:30,09:00-12:15,12:45-16:48"
+      },
+      {
+        "from": 5,
+        "to": 5,
+        "hours": "06:00-08:30,09:00-12:15,13:30-16:49"
+      },
+      {
+        "from": 6,
+        "to": 6,
+        "hours": "07:00-09:00,09:30-12:15,13:30-16:49"
+      }
+    ],
+    "lat": 50.28222,
+    "lon": 14.24329,
+    "services": 1253376,
+    "payMethods": 15,
+    "link": "https://www.cd.cz/stanice/5454566"
+  },
+  {
+    "id": "cd553560",
+    "type": "trainStation",
+    "name": "Vlašim",
+    "address": "",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 4,
+        "hours": "05:00-09:10,09:40-17:00"
+      },
+      {
+        "from": 5,
+        "to": 5,
+        "hours": "07:00-11:00,11:30-17:05"
+      },
+      {
+        "from": 6,
+        "to": 6,
+        "hours": "09:00-13:00,13:30-19:05"
+      }
+    ],
+    "lat": 49.7004738,
+    "lon": 14.8975849,
+    "services": 1253696,
+    "payMethods": 15,
+    "link": "https://www.cd.cz/stanice/5455356"
+  },
+  {
+    "id": "cd555466",
+    "type": "trainStation",
+    "name": "Vrané nad Vltavou",
+    "address": "",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 4,
+        "hours": "05:20-11:40,12:10-17:02"
+      },
+      {
+        "from": 5,
+        "to": 5,
+        "hours": "06:50-12:40,13:10-16:35"
+      },
+      {
+        "from": 6,
+        "to": 6,
+        "hours": "07:50-12:40,13:10-18:05"
+      }
+    ],
+    "lat": 49.9385567,
+    "lon": 14.3811207,
+    "services": 1253376,
+    "payMethods": 15,
+    "link": "https://www.cd.cz/stanice/5455546"
+  },
+  {
+    "id": "cd530147",
+    "type": "trainStation",
+    "name": "Všetaty",
+    "address": "",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 4,
+        "hours": "04:40-09:30,10:00-14:10,14:40-16:55"
+      },
+      {
+        "from": 5,
+        "to": 5,
+        "hours": "07:00-11:45,12:15-15:10"
+      },
+      {
+        "from": 6,
+        "to": 6,
+        "hours": "09:05-14:10,14:40-19:00"
+      }
+    ],
+    "lat": 50.2824249,
+    "lon": 14.5845423,
+    "services": 1253376,
+    "payMethods": 15,
+    "link": "https://www.cd.cz/stanice/5453014"
+  },
+  {
+    "id": "cd532069",
+    "type": "trainStation",
+    "name": "Zadní Tøebaò",
+    "address": "",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 4,
+        "hours": "05:49-12:02,12:32-17:32"
+      },
+      {
+        "from": 5,
+        "to": 5,
+        "hours": "07:19-18:02"
+      },
+      {
+        "from": 6,
+        "to": 6,
+        "hours": "08:20-17:32"
+      }
+    ],
+    "lat": 49.9188042,
+    "lon": 14.20321,
+    "services": 1253376,
+    "payMethods": 15,
+    "link": "https://www.cd.cz/stanice/5453206"
+  },
+  {
+    "id": "cd731042",
+    "type": "trainStation",
+    "name": "Zdice",
+    "address": "",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 4,
+        "hours": "05:40-11:15,12:15-17:40"
+      },
+      {
+        "from": 5,
+        "to": 5,
+        "hours": "06:15-09:40,10:10-17:05"
+      },
+      {
+        "from": 6,
+        "to": 6,
+        "hours": "06:55-11:15,12:15-19:05"
+      }
+    ],
+    "lat": 49.9078369,
+    "lon": 13.9797344,
+    "services": 1253376,
+    "payMethods": 15,
+    "link": "https://www.cd.cz/stanice/5473104"
+  },
+  {
+    "id": "cd561365",
+    "type": "trainStation",
+    "name": "Zruè nad Sázavou",
+    "address": "",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 4,
+        "hours": "05:40-09:30,10:00-17:25"
+      },
+      {
+        "from": 5,
+        "to": 5,
+        "hours": "06:55-11:45,12:15-17:00"
+      },
+      {
+        "from": 6,
+        "to": 6,
+        "hours": "09:00-11:45,12:15-19:20"
+      }
+    ],
+    "lat": 49.7384567,
+    "lon": 15.1039867,
+    "services": 1253376,
+    "payMethods": 15,
+    "link": "https://www.cd.cz/stanice/5456136"
+  },
+  {
+    "id": "ro1",
+    "type": "informationCenter",
+    "name": "Andìl",
+    "address": "Vestibul stanice metra ve smìru ul. Plzeòská (severní vestibul)",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "7:00-21:00"
+      }
+    ],
+    "lat": 50.0709038,
+    "lon": 14.4039793,
+    "services": 1257778,
+    "payMethods": 15
+  },
+  {
+    "id": "ro2",
+    "type": "informationCenter",
+    "name": "Hlavní nádraží 1",
+    "address": "Odbavovací hala nádraží u vstupu do metra (severní vstup)",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 4,
+        "hours": "6:00-22:00"
+      },
+      {
+        "from": 5,
+        "to": 6,
+        "hours": "7:00-21:00"
+      }
+    ],
+    "lat": 50.0837,
+    "lon": 14.4344406,
+    "services": 209154,
+    "payMethods": 15
+  },
+  {
+    "id": "ro3",
+    "type": "informationCenter",
+    "name": "Hlavní nádraží 2",
+    "address": "Odbavovací hala nádraží u vstupu do metra jižní vstup)",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 4,
+        "hours": "6:00-22:00"
+      },
+      {
+        "from": 5,
+        "to": 6,
+        "hours": "7:00-21:00"
+      }
+    ],
+    "lat": 50.0831146,
+    "lon": 14.4339809,
+    "services": 209154,
+    "payMethods": 15
+  },
+  {
+    "id": "ro4",
+    "type": "informationCenter",
+    "name": "Hradèanská",
+    "address": "Vestibul stanice metra",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 4,
+        "hours": "6:00-20:00"
+      },
+      {
+        "from": 5,
+        "to": 5,
+        "hours": "9:30-17:00"
+      }
+    ],
+    "lat": 50.0973549,
+    "lon": 14.4045076,
+    "services": 1257778,
+    "payMethods": 15
+  },
+  {
+    "id": "ro5",
+    "type": "informationCenter",
+    "name": "Letištì Václava Havla Praha, Terminál 1",
+    "address": "Pøíletová hala Terminálu 1 na letišti Václava Havla Praha",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "7:00-21:00"
+      }
+    ],
+    "lat": 50.10736,
+    "lon": 14.2675133,
+    "services": 209154,
+    "payMethods": 15
+  },
+  {
+    "id": "ro6",
+    "type": "informationCenter",
+    "name": "Letištì Václava Havla Praha, Terminál 2",
+    "address": "Pøíletová hala Terminálu 2 na letišti Václava Havla Praha",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "7:00-21:00"
+      }
+    ],
+    "lat": 50.1057129,
+    "lon": 14.2663736,
+    "services": 209154,
+    "payMethods": 15
+  },
+  {
+    "id": "ro7",
+    "type": "informationCenter",
+    "name": "Magistrát hl. m. Prahy (DPP)",
+    "address": "Jungmannova 29, Praha 1, pøízemí budovy Magistrátu (Škodùv palác)",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 3,
+        "hours": "8:00-18:00"
+      },
+      {
+        "from": 4,
+        "to": 4,
+        "hours": "8:00-16:00"
+      }
+    ],
+    "lat": 50.0821571,
+    "lon": 14.4220858,
+    "services": 1257730,
+    "payMethods": 15,
+    "remarks": "Infocentrum je umístìno v pasáži Škodova paláce."
+  },
+  {
+    "id": "ro8",
+    "type": "informationCenter",
+    "name": "Mùstek",
+    "address": "Vestibul stanice metra linky A ve smìru ul. 28. øíjna (severní vestibul)",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 6,
+        "hours": "7:00-21:00"
+      }
+    ],
+    "lat": 50.08395,
+    "lon": 14.4230356,
+    "services": 1257778,
+    "payMethods": 15
+  },
+  {
+    "id": "ro9",
+    "type": "informationCenter",
+    "name": "Nádraží Veleslavín",
+    "address": "Vestibul stanice metra",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 4,
+        "hours": "6:00-20:00"
+      },
+      {
+        "from": 5,
+        "to": 5,
+        "hours": "9:30-17:00"
+      }
+    ],
+    "lat": 50.09544,
+    "lon": 14.347,
+    "services": 1257778,
+    "payMethods": 15
+  },
+  {
+    "id": "ro51",
+    "type": "informationCenter",
+    "name": "Èerný Most (PID)",
+    "address": "V úrovni výstupních kolejí metra (jižní nástupištì), ve východní èásti stanice",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 4,
+        "hours": "8:00-12:30,13:00-17:00"
+      },
+      {
+        "from": 5,
+        "to": 5,
+        "hours": "8:00-12:30"
+      }
+    ],
+    "lat": 50.109,
+    "lon": 14.5779,
+    "services": 196864,
+    "payMethods": 15,
+    "remarks": "Též prodej jízdenek AMS (dálková doprava)"
+  },
+  {
+    "id": "ro52",
+    "type": "informationCenter",
+    "name": "Zlièín (PID)",
+    "address": "Ulièní úroveò u autobusového nádraží v obchodní vybavenosti",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 4,
+        "hours": "8:00-12:00,12:30-17:00"
+      },
+      {
+        "from": 5,
+        "to": 5,
+        "hours": "8:00-12:00"
+      }
+    ],
+    "lat": 50.05403,
+    "lon": 14.29123,
+    "services": 196864,
+    "payMethods": 15,
+    "remarks": "Též prodej jízdenek AMS (dálková doprava)"
+  },
+  {
+    "id": "ro99",
+    "type": "informationCenter",
+    "name": "Magistrát hl. m. Prahy (OICT)",
+    "address": "Jungmannova 35/29, Praha 1, pøízemí budovy Magistrátu (Škodùv palác)",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 0,
+        "hours": "10:00-18:00"
+      },
+      {
+        "from": 1,
+        "to": 1,
+        "hours": "8:00-16:00"
+      },
+      {
+        "from": 2,
+        "to": 2,
+        "hours": "10:00-18:00"
+      },
+      {
+        "from": 3,
+        "to": 4,
+        "hours": "8:00-16:00"
+      }
+    ],
+    "lat": 50.0818,
+    "lon": 14.42223,
+    "services": 368,
+    "payMethods": 15,
+    "remarks": "Pøepážky jsou umístìny na rohu Charvátovy a Jungmannovy ulice."
+  },
+  {
+    "id": "ro101",
+    "type": "ticketOfficeMetro",
+    "name": "Nemocnice Motol",
+    "address": "Vestibul stanice metra",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 4,
+        "hours": "6:00-12:45,13:15-20:00"
+      }
+    ],
+    "lat": 50.07472,
+    "lon": 14.34068,
+    "services": 209154,
+    "payMethods": 15
+  },
+  {
+    "id": "ro102",
+    "type": "ticketOfficeMetro",
+    "name": "Boøislavka",
+    "address": "Vestibul stanice metra",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 4,
+        "hours": "6:00-12:45,13:15-20:00"
+      }
+    ],
+    "lat": 50.09859,
+    "lon": 14.36476,
+    "services": 209154,
+    "payMethods": 15
+  },
+  {
+    "id": "ro103",
+    "type": "ticketOfficeMetro",
+    "name": "Dejvická",
+    "address": "Vestibul stanice metra (spojovací chodba nad nástupištìm)",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 4,
+        "hours": "6:00-12:45,13:15-20:00"
+      }
+    ],
+    "lat": 50.1004829,
+    "lon": 14.3926392,
+    "services": 1257730,
+    "payMethods": 15
+  },
+  {
+    "id": "ro104",
+    "type": "ticketOfficeMetro",
+    "name": "Mùstek - A",
+    "address": "Vestibul stanice metra linky A ve smìru ul. 28. øíjna (severní vestibul)",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 4,
+        "hours": "6:00-12:45,13:15-20:00"
+      }
+    ],
+    "lat": 50.0843353,
+    "lon": 14.4233427,
+    "services": 209154,
+    "payMethods": 15
+  },
+  {
+    "id": "ro105",
+    "type": "ticketOfficeMetro",
+    "name": "Námìstí Míru",
+    "address": "Vestibul stanice metra",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 4,
+        "hours": "6:00-12:45,13:15-20:00"
+      }
+    ],
+    "lat": 50.07517,
+    "lon": 14.4377432,
+    "services": 209154,
+    "payMethods": 15
+  },
+  {
+    "id": "ro106",
+    "type": "ticketOfficeMetro",
+    "name": "Želivského",
+    "address": "Vestibul stanice metra",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 4,
+        "hours": "6:00-12:45,13:15-20:00"
+      }
+    ],
+    "lat": 50.07859,
+    "lon": 14.474,
+    "services": 209154,
+    "payMethods": 15
+  },
+  {
+    "id": "ro107",
+    "type": "ticketOfficeMetro",
+    "name": "Strašnická",
+    "address": "Ulièní úroveò ve smìru ul. Mrštíkova (severní strana)",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 4,
+        "hours": "6:00-12:45,13:15-20:00"
+      }
+    ],
+    "lat": 50.0727768,
+    "lon": 14.4912872,
+    "services": 209154,
+    "payMethods": 15
+  },
+  {
+    "id": "ro108",
+    "type": "ticketOfficeMetro",
+    "name": "Skalka",
+    "address": "Ulièní úroveò u bus zastávek smìr Zahradní mìsto (západní strana ulice Na Padesátém)",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 4,
+        "hours": "6:00-12:45,13:15-20:00"
+      }
+    ],
+    "lat": 50.06804,
+    "lon": 14.5073948,
+    "services": 1257730,
+    "payMethods": 15
+  },
+  {
+    "id": "ro110",
+    "type": "ticketOfficeMetro",
+    "name": "Zlièín",
+    "address": "Ulièní úroveò u autobusového nádraží (severní strana)",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 4,
+        "hours": "6:00-12:45,13:15-20:00"
+      }
+    ],
+    "lat": 50.0538177,
+    "lon": 14.2909422,
+    "services": 1257730,
+    "payMethods": 15
+  },
+  {
+    "id": "ro111",
+    "type": "ticketOfficeMetro",
+    "name": "Luka",
+    "address": "Vestibul stanice metra",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 4,
+        "hours": "6:00-12:45,13:15-20:00"
+      }
+    ],
+    "lat": 50.0453224,
+    "lon": 14.32218,
+    "services": 209154,
+    "payMethods": 15
+  },
+  {
+    "id": "ro112",
+    "type": "ticketOfficeMetro",
+    "name": "Hùrka",
+    "address": "Vestibul stanice metra",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 4,
+        "hours": "6:00-12:45,13:15-20:00"
+      }
+    ],
+    "lat": 50.04989,
+    "lon": 14.3417788,
+    "services": 209154,
+    "payMethods": 15
+  },
+  {
+    "id": "ro113",
+    "type": "ticketOfficeMetro",
+    "name": "Smíchovské nádraží",
+    "address": "Vestibul stanice metra ve smìru autobusové nádraží (jižní vestibul)",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 4,
+        "hours": "6:00-12:45,13:15-20:00"
+      },
+      {
+        "from": 5,
+        "to": 5,
+        "hours": "9:00-16:00"
+      }
+    ],
+    "lat": 50.0604,
+    "lon": 14.4093361,
+    "services": 1257730,
+    "payMethods": 15
+  },
+  {
+    "id": "ro115",
+    "type": "ticketOfficeMetro",
+    "name": "Karlovo námìstí",
+    "address": "Vestibul stanice metra ve smìru Karlovo námìstí",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 4,
+        "hours": "6:00-12:45,13:15-20:00"
+      }
+    ],
+    "lat": 50.07566,
+    "lon": 14.4187813,
+    "services": 209154,
+    "payMethods": 15
+  },
+  {
+    "id": "ro116",
+    "type": "ticketOfficeMetro",
+    "name": "Mùstek - B",
+    "address": "Vestibul stanice metra linky B",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 4,
+        "hours": "6:00-12:45,13:15-20:00"
+      }
+    ],
+    "lat": 50.083046,
+    "lon": 14.4217329,
+    "services": 209202,
+    "payMethods": 15
+  },
+  {
+    "id": "ro118",
+    "type": "ticketOfficeMetro",
+    "name": "Palmovka",
+    "address": "Vestibul stanice mìtra ve smìru autobusové nádraží (východní vestibul)",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 4,
+        "hours": "6:00-12:45,13:15-20:00"
+      }
+    ],
+    "lat": 50.10497,
+    "lon": 14.4757395,
+    "services": 209154,
+    "payMethods": 15
+  },
+  {
+    "id": "ro119",
+    "type": "ticketOfficeMetro",
+    "name": "Vysoèanská",
+    "address": "Vestibul stanice metra ve smìru ul. Freyova (východní vestibul)",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 4,
+        "hours": "6:00-12:45,13:15-20:00"
+      }
+    ],
+    "lat": 50.11055,
+    "lon": 14.5021973,
+    "services": 1257730,
+    "payMethods": 15
+  },
+  {
+    "id": "ro120",
+    "type": "ticketOfficeMetro",
+    "name": "Rajská zahrada",
+    "address": "Nástupištì ve smìru centrum (horní nástupištì, západní vchod)",
+    "openingHours": [],
+    "lat": 50.106678,
+    "lon": 14.5598516,
+    "services": 209154,
+    "payMethods": 15,
+    "remarks": "Doèasnì zavøeno (cca do 12/2022)"
+  },
+  {
+    "id": "ro121",
+    "type": "ticketOfficeMetro",
+    "name": "Èerný Most",
+    "address": "Ulièní úroveò u nástupištì metra smìr centrum (severní nástupištì)",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 4,
+        "hours": "6:00-12:45,13:15-20:00"
+      },
+      {
+        "from": 5,
+        "to": 5,
+        "hours": "9:00-16:00"
+      }
+    ],
+    "lat": 50.1091042,
+    "lon": 14.5774021,
+    "services": 1257730,
+    "payMethods": 15
+  },
+  {
+    "id": "ro122",
+    "type": "ticketOfficeMetro",
+    "name": "Háje",
+    "address": "Vestibul stanice mìtra ve smìru ul. Opatovská (východní vestibul)",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 4,
+        "hours": "6:00-12:45,13:15-20:00"
+      }
+    ],
+    "lat": 50.0310555,
+    "lon": 14.5286093,
+    "services": 209154,
+    "payMethods": 15
+  },
+  {
+    "id": "ro128",
+    "type": "ticketOfficeMetro",
+    "name": "Nádraží Holešovice",
+    "address": "Vestibul stanice metra ve smìru ul. Plynární (jižní vestibul)",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 4,
+        "hours": "6:00-12:45,13:15-20:00"
+      }
+    ],
+    "lat": 50.1084175,
+    "lon": 14.440424,
+    "services": 209154,
+    "payMethods": 15
+  },
+  {
+    "id": "ro130",
+    "type": "ticketOfficeMetro",
+    "name": "Ládví",
+    "address": "Vestibul stanice mìtra ve smìru ul. Opálkova (západní výstup)",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 4,
+        "hours": "6:00-12:45,13:15-20:00"
+      }
+    ],
+    "lat": 50.1265755,
+    "lon": 14.4690342,
+    "services": 1257730,
+    "payMethods": 15
+  },
+  {
+    "id": "ro140",
+    "type": "ticketOfficeMetro",
+    "name": "Centrální dispeèink DPP",
+    "address": "Na Bojišti 5, Praha 2",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 4,
+        "hours": "6:00-12:45,13:15-20:00"
+      }
+    ],
+    "lat": 50.0742264,
+    "lon": 14.4283772,
+    "services": 1257778,
+    "payMethods": 15
+  },
+  {
+    "id": "ro151",
+    "type": "ticketOfficeMetro",
+    "name": "Kobylisy",
+    "address": "Vestibul stanice metra ve smìru Kobyliské námìstí (západní vestibul)",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 4,
+        "hours": "6:00-12:45,13:15-20:00"
+      }
+    ],
+    "lat": 50.1234932,
+    "lon": 14.4522943,
+    "services": 1257778,
+    "payMethods": 15
+  },
+  {
+    "id": "ro152",
+    "type": "ticketOfficeMetro",
+    "name": "Kaèerov",
+    "address": "Vestibul stanice metra",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 4,
+        "hours": "6:00-12:45,13:15-20:00"
+      },
+      {
+        "from": 5,
+        "to": 5,
+        "hours": "9:00-16:00"
+      }
+    ],
+    "lat": 50.0418625,
+    "lon": 14.4602909,
+    "services": 209154,
+    "payMethods": 15
+  },
+  {
+    "id": "ro153",
+    "type": "ticketOfficeMetro",
+    "name": "Andìl (Na Knížecí)",
+    "address": "Vestibul stanice metra",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 4,
+        "hours": "6:00-12:45,13:15-20:00"
+      }
+    ],
+    "lat": 50.0684929,
+    "lon": 14.4039536,
+    "services": 209202,
+    "payMethods": 15
+  },
+  {
+    "id": "ro154",
+    "type": "ticketOfficeMetro",
+    "name": "Florenc",
+    "address": "Ulièní úroveò u vchodu do stanice metro linky B (západní strana)",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 4,
+        "hours": "6:00-12:45,13:15-20:00"
+      },
+      {
+        "from": 5,
+        "to": 5,
+        "hours": "9:00-16:00"
+      }
+    ],
+    "lat": 50.09084,
+    "lon": 14.43915,
+    "services": 209154,
+    "payMethods": 15
+  },
+  {
+    "id": "ro155",
+    "type": "ticketOfficeMetro",
+    "name": "I. P. Pavlova",
+    "address": "Vestibul stanice metra",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 4,
+        "hours": "6:00-12:45,13:15-20:00"
+      },
+      {
+        "from": 5,
+        "to": 5,
+        "hours": "9:00-16:00"
+      }
+    ],
+    "lat": 50.07519,
+    "lon": 14.4301233,
+    "services": 209154,
+    "payMethods": 15
+  },
+  {
+    "id": "ro156",
+    "type": "ticketOfficeMetro",
+    "name": "Letòany",
+    "address": "Vestibul stanice metra ve smìru autobusové nádraží (východní vestibul)",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 4,
+        "hours": "6:00-12:45,13:15-20:00"
+      },
+      {
+        "from": 5,
+        "to": 5,
+        "hours": "9:00-16:00"
+      }
+    ],
+    "lat": 50.12511,
+    "lon": 14.5165262,
+    "services": 1257778,
+    "payMethods": 15
+  },
+  {
+    "id": "ro157",
+    "type": "ticketOfficeMetro",
+    "name": "Roztyly",
+    "address": "Ulièní úroveò u autobusového nádraží (severní strana)",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 4,
+        "hours": "6:00-12:45,13:15-20:00"
+      },
+      {
+        "from": 5,
+        "to": 5,
+        "hours": "9:00-16:00"
+      }
+    ],
+    "lat": 50.03751,
+    "lon": 14.4776363,
+    "services": 1257778,
+    "payMethods": 15
+  },
+  {
+    "id": "ro200",
+    "type": "carrierOffice",
+    "name": "Brandýs nad Labem-Stará Boleslav",
+    "address": "Informaèní kanceláø dopravce ÈSAD Støední Èechy",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 4,
+        "hours": "6:00-11:30,12:00-18:00"
+      }
+    ],
+    "lat": 50.1978149,
+    "lon": 14.6786165,
+    "services": 1257474,
+    "payMethods": 3
+  },
+  {
+    "id": "ro203",
+    "type": "carrierOffice",
+    "name": "Mìlník",
+    "address": "Informaèní kanceláø dopravce ÈSAD Støední Èechy",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 4,
+        "hours": "5:00-19:00"
+      },
+      {
+        "from": 5,
+        "to": 5,
+        "hours": "8:00-12:00"
+      }
+    ],
+    "lat": 50.35018,
+    "lon": 14.4880257,
+    "services": 1257474,
+    "payMethods": 3
+  },
+  {
+    "id": "ro204",
+    "type": "carrierOffice",
+    "name": "Kladno - autobusové nádraží",
+    "address": "Informaèní kanceláø ÈSAD Kladno na autobusovém nádraží",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 4,
+        "hours": "7:00-17:00"
+      },
+      {
+        "from": 5,
+        "to": 5,
+        "hours": "8:00-12:00"
+      }
+    ],
+    "lat": 50.1464157,
+    "lon": 14.1056156,
+    "services": 1060866,
+    "payMethods": 3
+  },
+  {
+    "id": "ro205",
+    "type": "carrierOffice",
+    "name": "Kladno - námìstí Svobody",
+    "address": "Informaèní kanceláø ÈSAD Kladno na námìstí Svobody",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 4,
+        "hours": "7:00-17:00"
+      },
+      {
+        "from": 5,
+        "to": 5,
+        "hours": "8:00-12:00"
+      }
+    ],
+    "lat": 50.1448021,
+    "lon": 14.0938206,
+    "services": 1060866,
+    "payMethods": 3
+  },
+  {
+    "id": "ro206",
+    "type": "carrierOffice",
+    "name": "Nymburk",
+    "address": "Informaèní kanceláø OAD Kolín",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 0,
+        "hours": "7:00-11:00,12:00-17:00"
+      },
+      {
+        "from": 1,
+        "to": 1,
+        "hours": "7:00-11:00"
+      },
+      {
+        "from": 2,
+        "to": 2,
+        "hours": "7:00-11:00,12:00-14:30"
+      },
+      {
+        "from": 3,
+        "to": 3,
+        "hours": "7:00-11:00"
+      }
+    ],
+    "lat": 50.1766,
+    "lon": 15.0443592,
+    "services": 1060866,
+    "payMethods": 3
+  },
+  {
+    "id": "ro207",
+    "type": "carrierOffice",
+    "name": "Kolín",
+    "address": "Informaèní kanceláø OAD Kolín",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 0,
+        "hours": "10:00-18:00"
+      },
+      {
+        "from": 1,
+        "to": 1,
+        "hours": "8:00-16:00"
+      },
+      {
+        "from": 2,
+        "to": 2,
+        "hours": "10:00-18:00"
+      },
+      {
+        "from": 3,
+        "to": 3,
+        "hours": "8:00-16:00"
+      },
+      {
+        "from": 4,
+        "to": 4,
+        "hours": "10:00-18:00"
+      },
+      {
+        "from": 5,
+        "to": 5,
+        "hours": "8:00-11:00"
+      }
+    ],
+    "lat": 50.02415,
+    "lon": 15.2139,
+    "services": 1060866,
+    "payMethods": 3
+  },
+  {
+    "id": "ro209",
+    "type": "carrierOffice",
+    "name": "Pøíbram",
+    "address": "Informaèní kanceláø Arriva Støední Èechy na autobusovém nádraží",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 0,
+        "hours": "6:30-17:30"
+      },
+      {
+        "from": 1,
+        "to": 4,
+        "hours": "6:30-15:30"
+      },
+      {
+        "from": 5,
+        "to": 5,
+        "hours": "7:00-11:00"
+      }
+    ],
+    "lat": 49.6905174,
+    "lon": 14.00305,
+    "services": 1061186,
+    "payMethods": 15
+  },
+  {
+    "id": "ro211",
+    "type": "carrierOffice",
+    "name": "Rakovník",
+    "address": "Informaèní kanceláø Transdev Støední Èechy na autobusovém stanovišti",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 4,
+        "hours": "6:00-16:00"
+      }
+    ],
+    "lat": 50.10093,
+    "lon": 13.73365,
+    "services": 1060866,
+    "payMethods": 3
+  },
+  {
+    "id": "ro213",
+    "type": "carrierOffice",
+    "name": "Hoøovice",
+    "address": "Informaèní kanceláø Arriva Støední Èechy na autobusovém nádraží (námìstí Boženy Nìmcové)",
+    "openingHours": [
+      {
+        "from": 0,
+        "to": 0,
+        "hours": "8:00-12:00,12:30-15:30"
+      },
+      {
+        "from": 1,
+        "to": 1,
+        "hours": "8:00-12:00,13:00-15:30"
+      },
+      {
+        "from": 2,
+        "to": 2,
+        "hours": "8:00-12:00,12:30-17:00"
+      },
+      {
+        "from": 3,
+        "to": 3,
+        "hours": "8:00-12:00,12:30-15:30"
+      },
+      {
+        "from": 4,
+        "to": 4,
+        "hours": "8:00-12:00,12:30-13:30"
+      }
+    ],
+    "lat": 49.8330956,
+    "lon": 13.9030428,
+    "services": 256,
+    "payMethods": 15
+  }
+]

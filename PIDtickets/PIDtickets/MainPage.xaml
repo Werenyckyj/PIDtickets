@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="PIDtickets.MainPage">
+
+    <StackLayout>
+        <Frame BackgroundColor="Red" Padding="20" CornerRadius="0">
+            <Label Text="Prodejny společnosti PID" HorizontalTextAlignment="Center" TextColor="Black" FontSize="30" FontFamily=""/>
+        </Frame>
+        <Grid Margin="20,20,20,20">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="100"/>
+            </Grid.ColumnDefinitions>
+            <Entry x:Name="input" Placeholder="Adresa" Grid.Column="0" PlaceholderColor="Gray" ClearButtonVisibility="WhileEditing"/>
+            <Button Grid.Column="1" Text="Hledej" BackgroundColor="Red" CornerRadius="10" Clicked="Button_Clicked"/>
+        </Grid>
+        <Label x:Name="Out" Text="Výsledek hledání" Margin="25"/>
+    </StackLayout>
+
+</ContentPage>
