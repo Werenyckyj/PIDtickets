@@ -7,10 +7,12 @@ using System.Threading.Tasks;
 using System.Net.Http;
 using Xamarin.Forms;
 using Newtonsoft.Json;
+using System.IO;
+using System.Reflection;
 
 namespace PIDtickets
 {
-    public class Places
+    public partial class Places
     {
         [JsonProperty("id")]
         public string ID { get; set; }
@@ -30,45 +32,136 @@ namespace PIDtickets
         [JsonProperty("lon")]
         public decimal Lon { get; set; }
 
-        [JsonProperty("hours")]
-        public string OpeningHours { get; set; }
+        [JsonProperty("openingHours")]
+        public OpeningHour[] OpeningHours { get; set; }
         public override string ToString()
         {
             return $"{ID}:{Type}:{Name}:{Address}:{OpeningHours}:{Lat}:{Lon}";
         }
+        public double Distance { get; set; }
+    }
+    public partial class OpeningHour
+    {
+        [JsonProperty("from")]
+        public long From { get; set; }
+
+        [JsonProperty("to")]
+        public long To { get; set; }
+
+        [JsonProperty("hours")]
+        public string Hours { get; set; }
+    }
+    public partial class CurrentPlace
+    {
+        [JsonProperty("features")]
+        public Feature[] Features { get; set; }
+    }
+
+    public partial class Feature
+    {
+        [JsonProperty("geometry")]
+        public Geometry Geometry { get; set; }
+    }
+
+    public partial class Geometry
+    {
+        [JsonProperty("coordinates")]
+        public double[] Coordinates { get; set; }
     }
     public partial class MainPage : ContentPage
     {
-        public Places p = new Places
-        {
-            ID = "dp3",
-            Type = "ticketMachine",
-            Name = "Pasáž Sofie",
-            Address = "Sofijské náměstí 3400, Modřany, Praha 4",
-            OpeningHours = "8:00-20:00",
-            Lat = 50.00562m,
-            Lon = 14.4182835m,
-        };
+        public static List<Places> places;
         public MainPage()
         {
             InitializeComponent();
+            string jsonFileName = "Places.json";
+            var assembly = typeof(MainPage).GetTypeInfo().Assembly;
+            Stream stream = assembly.GetManifestResourceStream($"{assembly.GetName().Name}.{jsonFileName}");
+            using (var reader = new System.IO.StreamReader(stream))
+            {
+                string jsonString = reader.ReadToEnd();
+                List<Places> places = JsonConvert.DeserializeObject<List<Places>>(jsonString);
+            }
         }
         private void Button_Clicked(object sender, EventArgs e)
         {
-            string inpu = input.Text;
-            ComunicationWithAPI(inpu);
+            CurrentPlace currentPlace = ComunicationWithAPI(input.Text).Result;
+            Places[] nearestPlaces = Compare(currentPlace);
+            foreach (var item in nearestPlaces)
+            {
+                Out.Text += item.Name + ", " + item.Address;
+            }
         }
-        
-        private async Task ComunicationWithAPI(string s)
+
+        private static async Task<CurrentPlace> ComunicationWithAPI(string s)
         {
             HttpContent content = new StringContent(s, Encoding.UTF8, "application/json");
-            HttpClient htc = new HttpClient();
-            string address = "https://nominatim.openstreetmap.org/search?q=" + s + "&format=geojson"; //Proč vyhazuje chybu? Chyba: Server neslyší:System.Net.Http.HttpRequestException: Nemohlo být vytvořeno žádné připojení, protože cílový počítač je aktivně odmítl.
-                                                                                                      //--->System.Net.Sockets.SocketException(10061): Nemohlo být vytvořeno žádné připojení, protože cílový počítač je aktivně odmítl.
-                                                                                                      //at System.Net.Http.ConnectHelper.ConnectAsync(String host, Int32 port, CancellationToken cancellationToken)
-                                                                                                      //-- - End of inner exception stack trace-- -
-             HttpResponseMessage response = await htc.PostAsync(address, content);
-            Out.Text = response.ToString() + Environment.NewLine + response.IsSuccessStatusCode.ToString() + Environment.NewLine + response.StatusCode + Environment.NewLine + response.Content.ToString();
+            var htc = new HttpClient();
+            htc.DefaultRequestHeaders.Add("User-Agent", "WHATEVER VALUE");
+            string uri = "https://nominatim.openstreetmap.org/search?q=" + s + "&format=geojson";
+            var response = await htc.PutAsync(uri, content);
+            string result = await response.Content.ReadAsStringAsync();
+            CurrentPlace currentPlace = JsonConvert.DeserializeObject<CurrentPlace>(result);
+            return currentPlace;
+        }
+        private static Places[] Compare(CurrentPlace currentPlace)
+        {
+            Places[] nearestPlaces = new Places[3];
+            nearestPlaces[0] = new Places();
+            nearestPlaces[1] = new Places();
+            nearestPlaces[2] = new Places();
+            for (int i = 0; i < places.Count; i++)
+            {
+                double a = 0;
+                double b = 0;
+                if ((double)places[i].Lat > currentPlace.Features[0].Geometry.Coordinates[1])
+                {
+                    a = (double)places[i].Lat - currentPlace.Features[0].Geometry.Coordinates[1];
+                }
+                else
+                {
+                    a = currentPlace.Features[0].Geometry.Coordinates[1] - (double)places[i].Lat;
+                }
+
+                if ((double)places[i].Lon > currentPlace.Features[0].Geometry.Coordinates[0])
+                {
+                    b = (double)places[i].Lon - currentPlace.Features[0].Geometry.Coordinates[0];
+                }
+                else
+                {
+                    b = currentPlace.Features[0].Geometry.Coordinates[0] - (double)places[i].Lon;
+                }
+                double c = Math.Sqrt(a * a + b * b);
+
+                if (c < nearestPlaces[0].Distance || nearestPlaces[0].Distance == 0)
+                {
+                    Places p = new Places();
+                    p = places[i];
+                    p.Distance = c;
+                    nearestPlaces[0] = p;
+                }
+                else
+                {
+                    if (c < nearestPlaces[1].Distance || nearestPlaces[1].Distance == 0)
+                    {
+                        Places p = new Places();
+                        p = places[i];
+                        p.Distance = c;
+                        nearestPlaces[1] = p;
+                    }
+                    else
+                    {
+                        if (c < nearestPlaces[2].Distance || nearestPlaces[2].Distance == 0)
+                        {
+                            Places p = new Places();
+                            p = places[i];
+                            p.Distance = c;
+                            nearestPlaces[2] = p;
+                        }
+                    }
+                }
+            }
+            return nearestPlaces;
         }
     }
 }
