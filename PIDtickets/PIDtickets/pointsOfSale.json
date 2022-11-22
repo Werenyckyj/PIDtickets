@@ -2,8 +2,8 @@
   {
     "id": "dp3",
     "type": "ticketMachine",
-    "name": "Pasá Sofie",
-    "address": "Sofijské námìstí 3400, Modøany, Praha 4",
+    "name": "PasÃ¡Å¾ Sofie",
+    "address": "SofijskÃ© nÃ¡mÄ›stÃ­ 3400, ModÅ™any, Praha 4",
     "openingHours": [
       {
         "from": 0,
@@ -20,7 +20,7 @@
     "id": "dp673",
     "type": "ticketMachine",
     "name": "A&O Prag Rhea",
-    "address": "V Úlabinì 3068/19, Strašnice, Praha 10",
+    "address": "V ÃšÅ¾labinÄ› 3068/19, StraÅ¡nice, Praha 10",
     "openingHours": [
       {
         "from": 0,
@@ -37,7 +37,7 @@
     "id": "dp6",
     "type": "ticketMachine",
     "name": "Hotel Uno",
-    "address": "Štìchovická, Strašnice, Praha 10",
+    "address": "Å tÄ›chovickÃ¡, StraÅ¡nice, Praha 10",
     "openingHours": [
       {
         "from": 0,
@@ -53,8 +53,8 @@
   {
     "id": "dp7",
     "type": "ticketMachine",
-    "name": "Psychiatrická nemocnice Bohnice",
-    "address": "Ústavní, Bohnice, Praha 8",
+    "name": "PsychiatrickÃ¡ nemocnice Bohnice",
+    "address": "ÃšstavnÃ­, Bohnice, Praha 8",
     "openingHours": [
       {
         "from": 0,
@@ -70,8 +70,8 @@
   {
     "id": "dp9",
     "type": "ticketMachine",
-    "name": "Okoøská",
-    "address": "K Ládví 344/4, Èimice, Praha 8",
+    "name": "OkoÅ™skÃ¡",
+    "address": "K LÃ¡dvÃ­ 344/4, ÄŒimice, Praha 8",
     "openingHours": [
       {
         "from": 0,
@@ -87,8 +87,8 @@
   {
     "id": "dp11",
     "type": "ticketMachine",
-    "name": "Mníšek pod Brdy",
-    "address": "Námìstí F.X.Svobody, Mníšek pod Brdy",
+    "name": "MnÃ­Å¡ek pod Brdy",
+    "address": "NÃ¡mÄ›stÃ­ F.X.Svobody, MnÃ­Å¡ek pod Brdy",
     "openingHours": [
       {
         "from": 0,
@@ -104,8 +104,8 @@
   {
     "id": "dp15",
     "type": "ticketMachine",
-    "name": "Tehovièky",
-    "address": "Mírová, Kolovraty, Praha 10",
+    "name": "TehoviÄky",
+    "address": "MÃ­rovÃ¡, Kolovraty, Praha 10",
     "openingHours": [
       {
         "from": 0,
@@ -139,7 +139,7 @@
     "id": "dp22",
     "type": "ticketMachine",
     "name": "Satalice",
-    "address": "K Radonicùm, Satalice, Praha 9",
+    "address": "K RadonicÅ¯m, Satalice, Praha 9",
     "openingHours": [
       {
         "from": 0,
@@ -155,8 +155,8 @@
   {
     "id": "dp23",
     "type": "ticketMachine",
-    "name": "Hotel Kvìtnice",
-    "address": "Na Kvìtnici, Nusle (recepce hotelu), Praha 4",
+    "name": "Hotel KvÄ›tnice",
+    "address": "Na KvÄ›tnici, Nusle (recepce hotelu), Praha 4",
     "openingHours": [
       {
         "from": 0,
@@ -173,7 +173,7 @@
     "id": "dp25",
     "type": "ticketMachine",
     "name": "Zentiva",
-    "address": "U Kabelovny, Dolní Mìcholupy (objekt Zentivy), Praha 10",
+    "address": "U Kabelovny, DolnÃ­ MÄ›cholupy (objekt Zentivy), Praha 10",
     "openingHours": [
       {
         "from": 0,
@@ -189,8 +189,8 @@
   {
     "id": "dp651",
     "type": "ticketMachine",
-    "name": "Andìl Kníecí",
-    "address": "Ostrovského, Smíchov, Praha 5",
+    "name": "AndÄ›l KnÃ­Å¾ecÃ­",
+    "address": "OstrovskÃ©ho, SmÃ­chov, Praha 5",
     "openingHours": [
       {
         "from": 0,
@@ -206,8 +206,8 @@
   {
     "id": "dp27",
     "type": "ticketMachine",
-    "name": "U Støediska",
-    "address": "Dolnomìcholupská 168/37, Dolní Mìcholupy, Praha 10",
+    "name": "U StÅ™ediska",
+    "address": "DolnomÄ›cholupskÃ¡ 168/37, DolnÃ­ MÄ›cholupy, Praha 10",
     "openingHours": [
       {
         "from": 0,
@@ -223,8 +223,8 @@
   {
     "id": "dp28",
     "type": "ticketMachine",
-    "name": "Dolní Bøeany, námìstí",
-    "address": "Praská, Dolní Bøeany, Dolní Bøeany - Praha západ",
+    "name": "DolnÃ­ BÅ™eÅ¾any, nÃ¡mÄ›stÃ­",
+    "address": "PraÅ¾skÃ¡, DolnÃ­ BÅ™eÅ¾any, DolnÃ­ BÅ™eÅ¾any - Praha zÃ¡pad",
     "openingHours": [
       {
         "from": 0,
@@ -241,7 +241,7 @@
     "id": "dp29",
     "type": "ticketMachine",
     "name": "Koh-i-noor",
-    "address": "Vršovická 51, Vršovice, Praha 10",
+    "address": "VrÅ¡ovickÃ¡ 51, VrÅ¡ovice, Praha 10",
     "openingHours": [
       {
         "from": 0,
@@ -257,8 +257,8 @@
   {
     "id": "dp30",
     "type": "ticketMachine",
-    "name": "U Památníku",
-    "address": "Husitská, ikov, Praha 3",
+    "name": "U PamÃ¡tnÃ­ku",
+    "address": "HusitskÃ¡, Å½iÅ¾kov, Praha 3",
     "openingHours": [
       {
         "from": 0,
@@ -275,7 +275,7 @@
     "id": "dp449",
     "type": "ticketMachine",
     "name": "Kunratice",
-    "address": "Nám. Prezidenta Masaryka 109, Kunratice, Praha 4",
+    "address": "NÃ¡m. Prezidenta Masaryka 109, Kunratice, Praha 4",
     "openingHours": [
       {
         "from": 0,
@@ -291,8 +291,8 @@
   {
     "id": "dp38",
     "type": "ticketMachine",
-    "name": "Knovízská",
-    "address": "Blaimská, Chodov, Praha 4",
+    "name": "KnovÃ­zskÃ¡",
+    "address": "BlaÅ¾imskÃ¡, Chodov, Praha 4",
     "openingHours": [
       {
         "from": 0,
@@ -308,8 +308,8 @@
   {
     "id": "dp40",
     "type": "ticketMachine",
-    "name": "Èestlice, Albert hypermarket",
-    "address": "Obchodní, Èestlice - Praha vıchod",
+    "name": "ÄŒestlice, Albert hypermarket",
+    "address": "ObchodnÃ­, ÄŒestlice - Praha vÃ½chod",
     "openingHours": [
       {
         "from": 0,
@@ -326,7 +326,7 @@
     "id": "dp42",
     "type": "ticketMachine",
     "name": "Lipence",
-    "address": "K Obci 47, Lipence (mìstskı úøad), Praha 5",
+    "address": "K Obci 47, Lipence (mÄ›stskÃ½ ÃºÅ™ad), Praha 5",
     "openingHours": [
       {
         "from": 0,
@@ -342,8 +342,8 @@
   {
     "id": "dp472",
     "type": "ticketMachine",
-    "name": "Mostecká",
-    "address": "Mostecká 53/4, Malá Strana, Praha 1",
+    "name": "MosteckÃ¡",
+    "address": "MosteckÃ¡ 53/4, MalÃ¡ Strana, Praha 1",
     "openingHours": [
       {
         "from": 0,
@@ -359,8 +359,8 @@
   {
     "id": "dp50",
     "type": "ticketMachine",
-    "name": "Obchodní centrum Zlièín",
-    "address": "Skandinávská 141, Zlièín, Praha 5",
+    "name": "ObchodnÃ­ centrum ZliÄÃ­n",
+    "address": "SkandinÃ¡vskÃ¡ 141, ZliÄÃ­n, Praha 5",
     "openingHours": [
       {
         "from": 0,
@@ -376,8 +376,8 @@
   {
     "id": "dp51",
     "type": "ticketMachine",
-    "name": "Sídlištì Øepy",
-    "address": "Makovského, Øepy, Praha 6",
+    "name": "SÃ­dliÅ¡tÄ› Å˜epy",
+    "address": "MakovskÃ©ho, Å˜epy, Praha 6",
     "openingHours": [
       {
         "from": 0,
@@ -394,7 +394,7 @@
     "id": "dp448",
     "type": "ticketMachine",
     "name": "Tupolevova",
-    "address": "Tupolevova, Letòany (parkovištì), Praha 9",
+    "address": "Tupolevova, LetÅˆany (parkoviÅ¡tÄ›), Praha 9",
     "openingHours": [
       {
         "from": 0,
@@ -410,8 +410,8 @@
   {
     "id": "dp53",
     "type": "ticketMachine",
-    "name": "Ruzynì Modrá ubytovna",
-    "address": "K Letišti 916, Ruzynì, Praha 6",
+    "name": "RuzynÄ› ModrÃ¡ ubytovna",
+    "address": "K LetiÅ¡ti 916, RuzynÄ›, Praha 6",
     "openingHours": [
       {
         "from": 0,
@@ -427,8 +427,8 @@
   {
     "id": "dp54",
     "type": "ticketMachine",
-    "name": "Ruzynì vojenská ubytovna",
-    "address": "U Prioru 938/6, Ruzynì, Praha 6",
+    "name": "RuzynÄ› vojenskÃ¡ ubytovna",
+    "address": "U Prioru 938/6, RuzynÄ›, Praha 6",
     "openingHours": [
       {
         "from": 0,
@@ -444,8 +444,8 @@
   {
     "id": "dp55",
     "type": "ticketMachine",
-    "name": "Ïáblice",
-    "address": "Ïáblická 339/14, Ïáblice, Praha 8",
+    "name": "ÄÃ¡blice",
+    "address": "ÄÃ¡blickÃ¡ 339/14, ÄÃ¡blice, Praha 8",
     "openingHours": [
       {
         "from": 0,
@@ -461,8 +461,8 @@
   {
     "id": "dp58",
     "type": "ticketMachine",
-    "name": "Lysá nad Labem ÈD",
-    "address": "nádraí, Lysá nad Labem - Praha vıchod",
+    "name": "LysÃ¡ nad Labem ÄŒD",
+    "address": "nÃ¡draÅ¾Ã­, LysÃ¡ nad Labem - Praha vÃ½chod",
     "openingHours": [
       {
         "from": 0,
@@ -478,8 +478,8 @@
   {
     "id": "dp59",
     "type": "ticketMachine",
-    "name": "Újezd nad Lesy",
-    "address": "Starokolínská, Újezd nad Lesy, Praha 9",
+    "name": "Ãšjezd nad Lesy",
+    "address": "StarokolÃ­nskÃ¡, Ãšjezd nad Lesy, Praha 9",
     "openingHours": [
       {
         "from": 0,
@@ -495,8 +495,8 @@
   {
     "id": "dp66",
     "type": "ticketMachine",
-    "name": "Nádraí Radotín",
-    "address": "Vráská, Radotín, Praha 5",
+    "name": "NÃ¡draÅ¾Ã­ RadotÃ­n",
+    "address": "VrÃ¡Å¾skÃ¡, RadotÃ­n, Praha 5",
     "openingHours": [
       {
         "from": 0,
@@ -512,8 +512,8 @@
   {
     "id": "dp67",
     "type": "ticketMachine",
-    "name": "Vršovice ÈD",
-    "address": "Vršovice (nádraí), Praha 10",
+    "name": "VrÅ¡ovice ÄŒD",
+    "address": "VrÅ¡ovice (nÃ¡draÅ¾Ã­), Praha 10",
     "openingHours": [
       {
         "from": 0,
@@ -529,8 +529,8 @@
   {
     "id": "dp71",
     "type": "ticketMachine",
-    "name": "Centrum Zahradní Mìsto",
-    "address": "Topolová, Zahradní Mìsto, Praha 10",
+    "name": "Centrum ZahradnÃ­ MÄ›sto",
+    "address": "TopolovÃ¡, ZahradnÃ­ MÄ›sto, Praha 10",
     "openingHours": [
       {
         "from": 0,
@@ -546,8 +546,8 @@
   {
     "id": "dp72",
     "type": "ticketMachine",
-    "name": "Mìstskı úøad Neratovice",
-    "address": "Kojetická 1028, Neratovice, Neratovice",
+    "name": "MÄ›stskÃ½ ÃºÅ™ad Neratovice",
+    "address": "KojetickÃ¡ 1028, Neratovice, Neratovice",
     "openingHours": [
       {
         "from": 0,
@@ -563,8 +563,8 @@
   {
     "id": "dp76",
     "type": "ticketMachine",
-    "name": "Rudná, U kina",
-    "address": "Masarykova, Rudná, Rudná - Praha západ",
+    "name": "RudnÃ¡, U kina",
+    "address": "Masarykova, RudnÃ¡, RudnÃ¡ - Praha zÃ¡pad",
     "openingHours": [
       {
         "from": 0,
@@ -581,7 +581,7 @@
     "id": "dp150",
     "type": "ticketMachine",
     "name": "Orionka",
-    "address": "Korunní 110, Vinohrady, Praha 10",
+    "address": "KorunnÃ­ 110, Vinohrady, Praha 10",
     "openingHours": [
       {
         "from": 0,
@@ -597,8 +597,8 @@
   {
     "id": "dp1",
     "type": "ticketMachine",
-    "name": "Petøín",
-    "address": "Lanovka na Petøín, Praha 1",
+    "name": "PetÅ™Ã­n",
+    "address": "Lanovka na PetÅ™Ã­n, Praha 1",
     "openingHours": [
       {
         "from": 0,
@@ -614,8 +614,8 @@
   {
     "id": "dp1107",
     "type": "ticketMachine",
-    "name": "Nebozízek",
-    "address": "Lanovka na Petøín, Praha 1",
+    "name": "NebozÃ­zek",
+    "address": "Lanovka na PetÅ™Ã­n, Praha 1",
     "openingHours": [
       {
         "from": 0,
@@ -631,8 +631,8 @@
   {
     "id": "dp1335",
     "type": "ticketMachine",
-    "name": "Újezd",
-    "address": "Lanovka na Petøín, Praha 1",
+    "name": "Ãšjezd",
+    "address": "Lanovka na PetÅ™Ã­n, Praha 1",
     "openingHours": [
       {
         "from": 0,
@@ -648,8 +648,8 @@
   {
     "id": "dp84",
     "type": "ticketMachine",
-    "name": "Cílkova",
-    "address": "Zdislavická 583, Modøany (Jasná), Praha 4",
+    "name": "CÃ­lkova",
+    "address": "ZdislavickÃ¡ 583, ModÅ™any (JasnÃ¡), Praha 4",
     "openingHours": [
       {
         "from": 0,
@@ -666,7 +666,7 @@
     "id": "dp86",
     "type": "ticketMachine",
     "name": "Milovice",
-    "address": "Nádraní, nádraí, Milovice - Praha vıchod",
+    "address": "NÃ¡draÅ¾nÃ­, nÃ¡draÅ¾Ã­, Milovice - Praha vÃ½chod",
     "openingHours": [
       {
         "from": 0,
@@ -682,8 +682,8 @@
   {
     "id": "dp652",
     "type": "ticketMachine",
-    "name": "Milovice ÈD",
-    "address": "Nádraní, nádraí, Milovice - Praha vıchod",
+    "name": "Milovice ÄŒD",
+    "address": "NÃ¡draÅ¾nÃ­, nÃ¡draÅ¾Ã­, Milovice - Praha vÃ½chod",
     "openingHours": [
       {
         "from": 0,
@@ -699,8 +699,8 @@
   {
     "id": "dp88",
     "type": "ticketMachine",
-    "name": "Smrovská",
-    "address": "Slavìtínská, Klánovice, Praha 9",
+    "name": "SmrÅ¾ovskÃ¡",
+    "address": "SlavÄ›tÃ­nskÃ¡, KlÃ¡novice, Praha 9",
     "openingHours": [
       {
         "from": 0,
@@ -716,8 +716,8 @@
   {
     "id": "dp90",
     "type": "ticketMachine",
-    "name": "Sídlištì Novodvorská",
-    "address": "Novodvorská 126, Lhotka, Praha 4",
+    "name": "SÃ­dliÅ¡tÄ› NovodvorskÃ¡",
+    "address": "NovodvorskÃ¡ 126, Lhotka, Praha 4",
     "openingHours": [
       {
         "from": 0,
@@ -733,8 +733,8 @@
   {
     "id": "dp91",
     "type": "ticketMachine",
-    "name": "Štìpnièná",
-    "address": "Støelnièná 1347/47, Ïáblice (prodejna), Praha 8",
+    "name": "Å tÄ›pniÄnÃ¡",
+    "address": "StÅ™elniÄnÃ¡ 1347/47, ÄÃ¡blice (prodejna), Praha 8",
     "openingHours": [
       {
         "from": 0,
@@ -750,8 +750,8 @@
   {
     "id": "dp93",
     "type": "ticketMachine",
-    "name": "Vinoøskı høbitov",
-    "address": "Mladoboleslavská 162, Vinoø, Praha 9",
+    "name": "VinoÅ™skÃ½ hÅ™bitov",
+    "address": "MladoboleslavskÃ¡ 162, VinoÅ™, Praha 9",
     "openingHours": [
       {
         "from": 0,
@@ -767,8 +767,8 @@
   {
     "id": "dp94",
     "type": "ticketMachine",
-    "name": "Èernínova",
-    "address": "Konìvova 738/55, ikov, Praha 3",
+    "name": "ÄŒernÃ­nova",
+    "address": "KonÄ›vova 738/55, Å½iÅ¾kov, Praha 3",
     "openingHours": [
       {
         "from": 0,
@@ -784,8 +784,8 @@
   {
     "id": "dp95",
     "type": "ticketMachine",
-    "name": "Øíèany, námìstí",
-    "address": "Masarykovo námìstí, Øíèany - Praha vıchod",
+    "name": "Å˜Ã­Äany, nÃ¡mÄ›stÃ­",
+    "address": "Masarykovo nÃ¡mÄ›stÃ­, Å˜Ã­Äany - Praha vÃ½chod",
     "openingHours": [
       {
         "from": 0,
@@ -802,7 +802,7 @@
     "id": "dp661",
     "type": "ticketMachine",
     "name": "Mama Shelter Prague (Parkhotel)",
-    "address": "Veletrní 20, Holešovice (recepce hotelu), Praha 7",
+    "address": "VeletrÅ¾nÃ­ 20, HoleÅ¡ovice (recepce hotelu), Praha 7",
     "openingHours": [
       {
         "from": 0,
@@ -818,8 +818,8 @@
   {
     "id": "dp642",
     "type": "ticketMachine",
-    "name": "Èernokostelecká",
-    "address": "Èernokostelecká, Strašnice, Praha 10",
+    "name": "ÄŒernokosteleckÃ¡",
+    "address": "ÄŒernokosteleckÃ¡, StraÅ¡nice, Praha 10",
     "openingHours": [
       {
         "from": 0,
@@ -835,8 +835,8 @@
   {
     "id": "dp99",
     "type": "ticketMachine",
-    "name": "Kubánské námìstí",
-    "address": "Kubánské námìstí 92, Vršovice, Praha 10",
+    "name": "KubÃ¡nskÃ© nÃ¡mÄ›stÃ­",
+    "address": "KubÃ¡nskÃ© nÃ¡mÄ›stÃ­ 92, VrÅ¡ovice, Praha 10",
     "openingHours": [
       {
         "from": 0,
@@ -852,8 +852,8 @@
   {
     "id": "dp100",
     "type": "ticketMachine",
-    "name": "Bakovská",
-    "address": "Bakovská, Kbely, Praha 9",
+    "name": "BakovskÃ¡",
+    "address": "BakovskÃ¡, Kbely, Praha 9",
     "openingHours": [
       {
         "from": 0,
@@ -869,8 +869,8 @@
   {
     "id": "dp101",
     "type": "ticketMachine",
-    "name": "Uhøínìves",
-    "address": "Nové námìstí 1257/8, Uhøínìves, Praha 22",
+    "name": "UhÅ™Ã­nÄ›ves",
+    "address": "NovÃ© nÃ¡mÄ›stÃ­ 1257/8, UhÅ™Ã­nÄ›ves, Praha 22",
     "openingHours": [
       {
         "from": 0,
@@ -887,7 +887,7 @@
     "id": "dp102",
     "type": "ticketMachine",
     "name": "Kbely",
-    "address": "Mladoboleslavská 565, Kbely, Praha 9",
+    "address": "MladoboleslavskÃ¡ 565, Kbely, Praha 9",
     "openingHours": [
       {
         "from": 0,
@@ -903,8 +903,8 @@
   {
     "id": "dp104",
     "type": "ticketMachine",
-    "name": "Kostelec nad Èernımi lesy, nám.",
-    "address": "Námìstí Smiøickıch, Kostelec nad Èernımi lesy",
+    "name": "Kostelec nad ÄŒernÃ½mi lesy, nÃ¡m.",
+    "address": "NÃ¡mÄ›stÃ­ SmiÅ™ickÃ½ch, Kostelec nad ÄŒernÃ½mi lesy",
     "openingHours": [
       {
         "from": 0,
@@ -920,8 +920,8 @@
   {
     "id": "dp110",
     "type": "ticketMachine",
-    "name": "Mìlník, autobusové stanovištì",
-    "address": "Autobusové nádraí, Mìlník",
+    "name": "MÄ›lnÃ­k, autobusovÃ© stanoviÅ¡tÄ›",
+    "address": "AutobusovÃ© nÃ¡draÅ¾Ã­, MÄ›lnÃ­k",
     "openingHours": [
       {
         "from": 0,
@@ -937,8 +937,8 @@
   {
     "id": "dp116",
     "type": "ticketMachine",
-    "name": "Roztoky ÈD",
-    "address": "nádraí, Roztoky u Prahy",
+    "name": "Roztoky ÄŒD",
+    "address": "nÃ¡draÅ¾Ã­, Roztoky u Prahy",
     "openingHours": [
       {
         "from": 0,
@@ -954,8 +954,8 @@
   {
     "id": "dp118",
     "type": "ticketMachine",
-    "name": "Hostivice ÈD",
-    "address": "nádraí, Hostivice - Praha západ",
+    "name": "Hostivice ÄŒD",
+    "address": "nÃ¡draÅ¾Ã­, Hostivice - Praha zÃ¡pad",
     "openingHours": [
       {
         "from": 0,
@@ -972,7 +972,7 @@
     "id": "dp119",
     "type": "ticketMachine",
     "name": "Hotel Don Giovanni",
-    "address": "elivského, Praha 3",
+    "address": "Å½elivskÃ©ho, Praha 3",
     "openingHours": [
       {
         "from": 0,
@@ -988,8 +988,8 @@
   {
     "id": "dp125",
     "type": "ticketMachine",
-    "name": "Chodovská",
-    "address": "U Plynárny, Michle, Praha 10",
+    "name": "ChodovskÃ¡",
+    "address": "U PlynÃ¡rny, Michle, Praha 10",
     "openingHours": [
       {
         "from": 0,
@@ -1005,8 +1005,8 @@
   {
     "id": "dp127",
     "type": "ticketMachine",
-    "name": "Èernošice ÈD",
-    "address": "Radotínská, Èernošice - Praha západ",
+    "name": "ÄŒernoÅ¡ice ÄŒD",
+    "address": "RadotÃ­nskÃ¡, ÄŒernoÅ¡ice - Praha zÃ¡pad",
     "openingHours": [
       {
         "from": 0,
@@ -1022,8 +1022,8 @@
   {
     "id": "dp128",
     "type": "ticketMachine",
-    "name": "Úvaly ÈD",
-    "address": "nádraí, Úvaly - Praha vıchod",
+    "name": "Ãšvaly ÄŒD",
+    "address": "nÃ¡draÅ¾Ã­, Ãšvaly - Praha vÃ½chod",
     "openingHours": [
       {
         "from": 0,
@@ -1040,7 +1040,7 @@
     "id": "dp129",
     "type": "ticketMachine",
     "name": "Gercenova",
-    "address": "Plukovníka Mráze, Hostivaø, Praha 10",
+    "address": "PlukovnÃ­ka MrÃ¡ze, HostivaÅ™, Praha 10",
     "openingHours": [
       {
         "from": 0,
@@ -1056,8 +1056,8 @@
   {
     "id": "dp138",
     "type": "ticketMachine",
-    "name": "Èeskı Brod ÈD",
-    "address": "nádraí, Èeskı Brod",
+    "name": "ÄŒeskÃ½ Brod ÄŒD",
+    "address": "nÃ¡draÅ¾Ã­, ÄŒeskÃ½ Brod",
     "openingHours": [
       {
         "from": 0,
@@ -1074,7 +1074,7 @@
     "id": "dp139",
     "type": "ticketMachine",
     "name": "Hostivice",
-    "address": "Èeskoslov.armády 17, Hostivice - Praha západ",
+    "address": "ÄŒeskoslov.armÃ¡dy 17, Hostivice - Praha zÃ¡pad",
     "openingHours": [
       {
         "from": 0,
@@ -1090,8 +1090,8 @@
   {
     "id": "dp159",
     "type": "ticketMachine",
-    "name": "Èelákovice ÈD",
-    "address": "nádraí, Èelákovice",
+    "name": "ÄŒelÃ¡kovice ÄŒD",
+    "address": "nÃ¡draÅ¾Ã­, ÄŒelÃ¡kovice",
     "openingHours": [
       {
         "from": 0,
@@ -1107,8 +1107,8 @@
   {
     "id": "dp166",
     "type": "ticketMachine",
-    "name": "Stránèice ÈD II",
-    "address": "nádraí, Stránèice",
+    "name": "StrÃ¡nÄice ÄŒD II",
+    "address": "nÃ¡draÅ¾Ã­, StrÃ¡nÄice",
     "openingHours": [
       {
         "from": 0,
@@ -1124,8 +1124,8 @@
   {
     "id": "dp1434",
     "type": "ticketMachine",
-    "name": "Stránèice ÈD",
-    "address": "nádraí, Stránèice",
+    "name": "StrÃ¡nÄice ÄŒD",
+    "address": "nÃ¡draÅ¾Ã­, StrÃ¡nÄice",
     "openingHours": [
       {
         "from": 0,
@@ -1142,7 +1142,7 @@
     "id": "dp189",
     "type": "ticketMachine",
     "name": "Hotel Fortuna West",
-    "address": "Mrkvièkova 2, Øepy, Praha 6",
+    "address": "MrkviÄkova 2, Å˜epy, Praha 6",
     "openingHours": [
       {
         "from": 0,
@@ -1158,8 +1158,8 @@
   {
     "id": "dp196",
     "type": "ticketMachine",
-    "name": "Na Vartì",
-    "address": "Milánská 311, Horní Mìcholupy, Praha 10",
+    "name": "Na VartÄ›",
+    "address": "MilÃ¡nskÃ¡ 311, HornÃ­ MÄ›cholupy, Praha 10",
     "openingHours": [
       {
         "from": 0,
@@ -1175,8 +1175,8 @@
   {
     "id": "dp198",
     "type": "ticketMachine",
-    "name": "Kladno autobusové nádraí",
-    "address": "Dukelskıch hrdinù, Kladno",
+    "name": "Kladno autobusovÃ© nÃ¡draÅ¾Ã­",
+    "address": "DukelskÃ½ch hrdinÅ¯, Kladno",
     "openingHours": [
       {
         "from": 0,
@@ -1192,8 +1192,8 @@
   {
     "id": "dp199",
     "type": "ticketMachine",
-    "name": "Kladno ÈD",
-    "address": "nádraí, Kladno",
+    "name": "Kladno ÄŒD",
+    "address": "nÃ¡draÅ¾Ã­, Kladno",
     "openingHours": [
       {
         "from": 0,
@@ -1209,8 +1209,8 @@
   {
     "id": "dp261",
     "type": "ticketMachine",
-    "name": "Peèky ÈD",
-    "address": "nádraí, Peèky",
+    "name": "PeÄky ÄŒD",
+    "address": "nÃ¡draÅ¾Ã­, PeÄky",
     "openingHours": [
       {
         "from": 0,
@@ -1226,8 +1226,8 @@
   {
     "id": "dp262",
     "type": "ticketMachine",
-    "name": "Libèice ÈD",
-    "address": "nádraí, Libèice",
+    "name": "LibÄice ÄŒD",
+    "address": "nÃ¡draÅ¾Ã­, LibÄice",
     "openingHours": [
       {
         "from": 0,
@@ -1243,8 +1243,8 @@
   {
     "id": "dp263",
     "type": "ticketMachine",
-    "name": "Kralupy nad Vltavou ÈD",
-    "address": "nádraí, Kralupy nad Vltavou",
+    "name": "Kralupy nad Vltavou ÄŒD",
+    "address": "nÃ¡draÅ¾Ã­, Kralupy nad Vltavou",
     "openingHours": [
       {
         "from": 0,
@@ -1260,8 +1260,8 @@
   {
     "id": "dp264",
     "type": "ticketMachine",
-    "name": "Dobøichovice ÈD",
-    "address": "nádraí, Dobøichovice",
+    "name": "DobÅ™ichovice ÄŒD",
+    "address": "nÃ¡draÅ¾Ã­, DobÅ™ichovice",
     "openingHours": [
       {
         "from": 0,
@@ -1277,8 +1277,8 @@
   {
     "id": "dp265",
     "type": "ticketMachine",
-    "name": "Øevnice ÈD",
-    "address": "nádraí, Øevnice",
+    "name": "Å˜evnice ÄŒD",
+    "address": "nÃ¡draÅ¾Ã­, Å˜evnice",
     "openingHours": [
       {
         "from": 0,
@@ -1294,8 +1294,8 @@
   {
     "id": "dp266",
     "type": "ticketMachine",
-    "name": "Zadní Tøebáò ÈD",
-    "address": "nádraí, Zadní Tøebáò",
+    "name": "ZadnÃ­ TÅ™ebÃ¡Åˆ ÄŒD",
+    "address": "nÃ¡draÅ¾Ã­, ZadnÃ­ TÅ™ebÃ¡Åˆ",
     "openingHours": [
       {
         "from": 0,
@@ -1311,8 +1311,8 @@
   {
     "id": "dp267",
     "type": "ticketMachine",
-    "name": "Karlštejn ÈD",
-    "address": "nádraí, Karlštejn",
+    "name": "KarlÅ¡tejn ÄŒD",
+    "address": "nÃ¡draÅ¾Ã­, KarlÅ¡tejn",
     "openingHours": [
       {
         "from": 0,
@@ -1328,8 +1328,8 @@
   {
     "id": "dp268",
     "type": "ticketMachine",
-    "name": "Beroun ÈD",
-    "address": "nádraí, Beroun",
+    "name": "Beroun ÄŒD",
+    "address": "nÃ¡draÅ¾Ã­, Beroun",
     "openingHours": [
       {
         "from": 0,
@@ -1345,8 +1345,8 @@
   {
     "id": "dp269",
     "type": "ticketMachine",
-    "name": "Vrané nad Vltavou ÈD",
-    "address": "nádraí, Vrané nad Vltavou",
+    "name": "VranÃ© nad Vltavou ÄŒD",
+    "address": "nÃ¡draÅ¾Ã­, VranÃ© nad Vltavou",
     "openingHours": [
       {
         "from": 0,
@@ -1362,8 +1362,8 @@
   {
     "id": "dp270",
     "type": "ticketMachine",
-    "name": "Øíèany ÈD",
-    "address": "nádraí, Øíèany",
+    "name": "Å˜Ã­Äany ÄŒD",
+    "address": "nÃ¡draÅ¾Ã­, Å˜Ã­Äany",
     "openingHours": [
       {
         "from": 0,
@@ -1379,8 +1379,8 @@
   {
     "id": "dp272",
     "type": "ticketMachine",
-    "name": "Mnichovice ÈD",
-    "address": "nádraí, Mnichovice",
+    "name": "Mnichovice ÄŒD",
+    "address": "nÃ¡draÅ¾Ã­, Mnichovice",
     "openingHours": [
       {
         "from": 0,
@@ -1396,8 +1396,8 @@
   {
     "id": "dp273",
     "type": "ticketMachine",
-    "name": "Senohraby ÈD",
-    "address": "nádraí, Senohraby",
+    "name": "Senohraby ÄŒD",
+    "address": "nÃ¡draÅ¾Ã­, Senohraby",
     "openingHours": [
       {
         "from": 0,
@@ -1413,8 +1413,8 @@
   {
     "id": "dp275",
     "type": "ticketMachine",
-    "name": "Mirošovice ÈD",
-    "address": "nádraí, Mirošovice",
+    "name": "MiroÅ¡ovice ÄŒD",
+    "address": "nÃ¡draÅ¾Ã­, MiroÅ¡ovice",
     "openingHours": [
       {
         "from": 0,
@@ -1430,8 +1430,8 @@
   {
     "id": "dp643",
     "type": "ticketMachine",
-    "name": "Èelákovice ÈD",
-    "address": "nádraí, Èelákovice",
+    "name": "ÄŒelÃ¡kovice ÄŒD",
+    "address": "nÃ¡draÅ¾Ã­, ÄŒelÃ¡kovice",
     "openingHours": [
       {
         "from": 0,
@@ -1447,8 +1447,8 @@
   {
     "id": "dp675",
     "type": "ticketMachine",
-    "name": "Øíèany ÈD",
-    "address": "nádraí, Øíèany u Prahy",
+    "name": "Å˜Ã­Äany ÄŒD",
+    "address": "nÃ¡draÅ¾Ã­, Å˜Ã­Äany u Prahy",
     "openingHours": [
       {
         "from": 0,
@@ -1464,8 +1464,8 @@
   {
     "id": "dp2299",
     "type": "ticketMachine",
-    "name": "Letištì VH Praha, Terminál 1",
-    "address": "Zastávka austobusù do centra, Ruzynì, Praha 6",
+    "name": "LetiÅ¡tÄ› VH Praha, TerminÃ¡l 1",
+    "address": "ZastÃ¡vka austobusÅ¯ do centra, RuzynÄ›, Praha 6",
     "openingHours": [
       {
         "from": 0,
@@ -1481,8 +1481,8 @@
   {
     "id": "dp2302",
     "type": "ticketMachine",
-    "name": "Letištì VH Praha, Terminál 1",
-    "address": "Vchod D, Ruzynì, Praha 6",
+    "name": "LetiÅ¡tÄ› VH Praha, TerminÃ¡l 1",
+    "address": "Vchod D, RuzynÄ›, Praha 6",
     "openingHours": [
       {
         "from": 0,
@@ -1498,8 +1498,8 @@
   {
     "id": "dp2303",
     "type": "ticketMachine",
-    "name": "Letištì VH Praha, Terminál 1",
-    "address": "Vchod E, Ruzynì, Praha 6",
+    "name": "LetiÅ¡tÄ› VH Praha, TerminÃ¡l 1",
+    "address": "Vchod E, RuzynÄ›, Praha 6",
     "openingHours": [
       {
         "from": 0,
@@ -1515,8 +1515,8 @@
   {
     "id": "dp2305",
     "type": "ticketMachine",
-    "name": "Letištì VH Praha, Terminál 1",
-    "address": "Zastávka austobusù do centra, Ruzynì, Praha 6",
+    "name": "LetiÅ¡tÄ› VH Praha, TerminÃ¡l 1",
+    "address": "ZastÃ¡vka austobusÅ¯ do centra, RuzynÄ›, Praha 6",
     "openingHours": [
       {
         "from": 0,
@@ -1532,8 +1532,8 @@
   {
     "id": "dp2304",
     "type": "ticketMachine",
-    "name": "Letištì VH Praha, Terminál 2",
-    "address": "Hala, Ruzynì, Praha 6",
+    "name": "LetiÅ¡tÄ› VH Praha, TerminÃ¡l 2",
+    "address": "Hala, RuzynÄ›, Praha 6",
     "openingHours": [
       {
         "from": 0,
@@ -1549,8 +1549,8 @@
   {
     "id": "dp2300",
     "type": "ticketMachine",
-    "name": "Letištì VH Praha, Terminál 2",
-    "address": "Zastávka austobusù do centra, Ruzynì, Praha 6",
+    "name": "LetiÅ¡tÄ› VH Praha, TerminÃ¡l 2",
+    "address": "ZastÃ¡vka austobusÅ¯ do centra, RuzynÄ›, Praha 6",
     "openingHours": [
       {
         "from": 0,
@@ -1567,7 +1567,7 @@
     "id": "dp2020",
     "type": "ticketMachine",
     "name": "Quinn Hotels Praha (Hilton)",
-    "address": "Pobøení 311/1, Karlín, Praha 8",
+    "address": "PobÅ™eÅ¾nÃ­ 311/1, KarlÃ­n, Praha 8",
     "openingHours": [
       {
         "from": 0,
@@ -1583,8 +1583,8 @@
   {
     "id": "dp2900",
     "type": "ticketMachine",
-    "name": "Benešov, autobusové nádraí",
-    "address": "Nádraní, Benešov, Benešov",
+    "name": "BeneÅ¡ov, autobusovÃ© nÃ¡draÅ¾Ã­",
+    "address": "NÃ¡draÅ¾nÃ­, BeneÅ¡ov, BeneÅ¡ov",
     "openingHours": [
       {
         "from": 0,
@@ -1600,8 +1600,8 @@
   {
     "id": "dp334",
     "type": "ticketMachine",
-    "name": "Mìlník, U Høištì",
-    "address": "Praská, Mìlník",
+    "name": "MÄ›lnÃ­k, U HÅ™iÅ¡tÄ›",
+    "address": "PraÅ¾skÃ¡, MÄ›lnÃ­k",
     "openingHours": [
       {
         "from": 0,
@@ -1617,8 +1617,8 @@
   {
     "id": "dp368",
     "type": "ticketMachine",
-    "name": "Poøíèany ÈD",
-    "address": "nádraí, Poøíèany",
+    "name": "PoÅ™Ã­Äany ÄŒD",
+    "address": "nÃ¡draÅ¾Ã­, PoÅ™Ã­Äany",
     "openingHours": [
       {
         "from": 0,
@@ -1634,8 +1634,8 @@
   {
     "id": "dp379",
     "type": "ticketMachine",
-    "name": "Èernošice - Mokropsy ÈD",
-    "address": "Nádraní, nádraí, Èernošice",
+    "name": "ÄŒernoÅ¡ice - Mokropsy ÄŒD",
+    "address": "NÃ¡draÅ¾nÃ­, nÃ¡draÅ¾Ã­, ÄŒernoÅ¡ice",
     "openingHours": [
       {
         "from": 0,
@@ -1651,8 +1651,8 @@
   {
     "id": "dp399",
     "type": "ticketMachine",
-    "name": "Škola Radlice",
-    "address": "Radlická 140, Radlice, Praha 5",
+    "name": "Å kola Radlice",
+    "address": "RadlickÃ¡ 140, Radlice, Praha 5",
     "openingHours": [
       {
         "from": 0,
@@ -1668,8 +1668,8 @@
   {
     "id": "dp400",
     "type": "ticketMachine",
-    "name": "Laurová",
-    "address": "Radlická 65, Radlice, Praha 5",
+    "name": "LaurovÃ¡",
+    "address": "RadlickÃ¡ 65, Radlice, Praha 5",
     "openingHours": [
       {
         "from": 0,
@@ -1685,8 +1685,8 @@
   {
     "id": "dp403",
     "type": "ticketMachine",
-    "name": "Radlická",
-    "address": "Radlice (koneèná tramvají), Praha 5",
+    "name": "RadlickÃ¡",
+    "address": "Radlice (koneÄnÃ¡ tramvajÃ­), Praha 5",
     "openingHours": [
       {
         "from": 0,
@@ -1702,8 +1702,8 @@
   {
     "id": "dp406",
     "type": "ticketMachine",
-    "name": "Sídlištì Radotín",
-    "address": "Sídlištì 19, Sídlištì Radotín, Praha 5",
+    "name": "SÃ­dliÅ¡tÄ› RadotÃ­n",
+    "address": "SÃ­dliÅ¡tÄ› 19, SÃ­dliÅ¡tÄ› RadotÃ­n, Praha 5",
     "openingHours": [
       {
         "from": 0,
@@ -1719,8 +1719,8 @@
   {
     "id": "dp437",
     "type": "ticketMachine",
-    "name": "Obchodní centrum Štìrboholy",
-    "address": "Nákupní, Štìrboholy, Praha 10",
+    "name": "ObchodnÃ­ centrum Å tÄ›rboholy",
+    "address": "NÃ¡kupnÃ­, Å tÄ›rboholy, Praha 10",
     "openingHours": [
       {
         "from": 0,
@@ -1736,8 +1736,8 @@
   {
     "id": "dp885",
     "type": "ticketMachine",
-    "name": "Komoøany",
-    "address": "Kyslíková, Komoøany, Praha 4",
+    "name": "KomoÅ™any",
+    "address": "KyslÃ­kovÃ¡, KomoÅ™any, Praha 4",
     "openingHours": [
       {
         "from": 0,
@@ -1753,8 +1753,8 @@
   {
     "id": "dp951",
     "type": "ticketMachine",
-    "name": "Sídlištì Barrandov",
-    "address": "Werichova, Barrandov (koneèná), Praha 5",
+    "name": "SÃ­dliÅ¡tÄ› Barrandov",
+    "address": "Werichova, Barrandov (koneÄnÃ¡), Praha 5",
     "openingHours": [
       {
         "from": 0,
@@ -1771,7 +1771,7 @@
     "id": "dp952",
     "type": "ticketMachine",
     "name": "Poliklinika Barrandov",
-    "address": "Tréglova, Barrandov (z centra), Praha 5",
+    "address": "TrÃ©glova, Barrandov (z centra), Praha 5",
     "openingHours": [
       {
         "from": 0,
@@ -1788,7 +1788,7 @@
     "id": "dp953",
     "type": "ticketMachine",
     "name": "Poliklinika Barrandov",
-    "address": "Tréglova, Barrandov (do centra), Praha 5",
+    "address": "TrÃ©glova, Barrandov (do centra), Praha 5",
     "openingHours": [
       {
         "from": 0,
@@ -1804,8 +1804,8 @@
   {
     "id": "dp954",
     "type": "ticketMachine",
-    "name": "Chaplinovo námìstí",
-    "address": "Chaplinovo námìstí, Barrandov (z centra), Praha 5",
+    "name": "Chaplinovo nÃ¡mÄ›stÃ­",
+    "address": "Chaplinovo nÃ¡mÄ›stÃ­, Barrandov (z centra), Praha 5",
     "openingHours": [
       {
         "from": 0,
@@ -1821,8 +1821,8 @@
   {
     "id": "dp955",
     "type": "ticketMachine",
-    "name": "Chaplinovo námìstí",
-    "address": "Chaplinovo námìstí, Barrandov (do centra), Praha 5",
+    "name": "Chaplinovo nÃ¡mÄ›stÃ­",
+    "address": "Chaplinovo nÃ¡mÄ›stÃ­, Barrandov (do centra), Praha 5",
     "openingHours": [
       {
         "from": 0,
@@ -1872,7 +1872,7 @@
   {
     "id": "dp958",
     "type": "ticketMachine",
-    "name": "Geologická",
+    "name": "GeologickÃ¡",
     "address": "K Barrandovu, Barrandov (z centra), Praha 5",
     "openingHours": [
       {
@@ -1889,7 +1889,7 @@
   {
     "id": "dp959",
     "type": "ticketMachine",
-    "name": "Geologická",
+    "name": "GeologickÃ¡",
     "address": "K Barrandovu, Barrandov (do centra), Praha 5",
     "openingHours": [
       {
@@ -1906,8 +1906,8 @@
   {
     "id": "dp960",
     "type": "ticketMachine",
-    "name": "Hluboèepy",
-    "address": "Hluboèepská, Barrandov (z centra), Praha 5",
+    "name": "HluboÄepy",
+    "address": "HluboÄepskÃ¡, Barrandov (z centra), Praha 5",
     "openingHours": [
       {
         "from": 0,
@@ -1923,8 +1923,8 @@
   {
     "id": "dp961",
     "type": "ticketMachine",
-    "name": "Hluboèepy",
-    "address": "Hluboèepská, Barrandov (do centra), Praha 5",
+    "name": "HluboÄepy",
+    "address": "HluboÄepskÃ¡, Barrandov (do centra), Praha 5",
     "openingHours": [
       {
         "from": 0,
@@ -1940,8 +1940,8 @@
   {
     "id": "dp962",
     "type": "ticketMachine",
-    "name": "Štìpaøská",
-    "address": "Štìpaøská, Barrandov, Praha 5",
+    "name": "Å tÄ›paÅ™skÃ¡",
+    "address": "Å tÄ›paÅ™skÃ¡, Barrandov, Praha 5",
     "openingHours": [
       {
         "from": 0,
@@ -1957,8 +1957,8 @@
   {
     "id": "dp1003",
     "type": "ticketMachine",
-    "name": "Libeò ÈD",
-    "address": "Èeskomoravská 24, Libeò nádraí, Praha 9",
+    "name": "LibeÅˆ ÄŒD",
+    "address": "ÄŒeskomoravskÃ¡ 24, LibeÅˆ nÃ¡draÅ¾Ã­, Praha 9",
     "openingHours": [
       {
         "from": 0,
@@ -1975,7 +1975,7 @@
     "id": "dp1004",
     "type": "ticketMachine",
     "name": "I. P. Pavlova",
-    "address": "Bìlehradská 87, Vinohrady, Praha 2",
+    "address": "BÄ›lehradskÃ¡ 87, Vinohrady, Praha 2",
     "openingHours": [
       {
         "from": 0,
@@ -1991,8 +1991,8 @@
   {
     "id": "dp1005",
     "type": "ticketMachine",
-    "name": "Bílá Hora",
-    "address": "Karlovarská, Ruzynì, Praha 6",
+    "name": "BÃ­lÃ¡ Hora",
+    "address": "KarlovarskÃ¡, RuzynÄ›, Praha 6",
     "openingHours": [
       {
         "from": 0,
@@ -2008,8 +2008,8 @@
   {
     "id": "dp1006",
     "type": "ticketMachine",
-    "name": "Nádraí Podbaba",
-    "address": "Jugoslávskıch partyzánù, Dejvice, Praha 6",
+    "name": "NÃ¡draÅ¾Ã­ Podbaba",
+    "address": "JugoslÃ¡vskÃ½ch partyzÃ¡nÅ¯, Dejvice, Praha 6",
     "openingHours": [
       {
         "from": 0,
@@ -2026,7 +2026,7 @@
     "id": "dp1007",
     "type": "ticketMachine",
     "name": "Albertov",
-    "address": "Na Slupi, Nové Mìsto, Praha 2",
+    "address": "Na Slupi, NovÃ© MÄ›sto, Praha 2",
     "openingHours": [
       {
         "from": 0,
@@ -2042,8 +2042,8 @@
   {
     "id": "dp1021",
     "type": "ticketMachine",
-    "name": "Nádraí Hostivaø",
-    "address": "Plukovníka Mráze, Hostivaø, Praha 10",
+    "name": "NÃ¡draÅ¾Ã­ HostivaÅ™",
+    "address": "PlukovnÃ­ka MrÃ¡ze, HostivaÅ™, Praha 10",
     "openingHours": [
       {
         "from": 0,
@@ -2059,8 +2059,8 @@
   {
     "id": "dp1033",
     "type": "ticketMachine",
-    "name": "Pohoøelec",
-    "address": "Keplerova, Hradèany, Praha 1",
+    "name": "PohoÅ™elec",
+    "address": "Keplerova, HradÄany, Praha 1",
     "openingHours": [
       {
         "from": 0,
@@ -2076,8 +2076,8 @@
   {
     "id": "dp1034",
     "type": "ticketMachine",
-    "name": "Druná",
-    "address": "Èeskoslovenského exilu, Modøany, Praha 4",
+    "name": "DruÅ¾nÃ¡",
+    "address": "ÄŒeskoslovenskÃ©ho exilu, ModÅ™any, Praha 4",
     "openingHours": [
       {
         "from": 0,
@@ -2093,8 +2093,8 @@
   {
     "id": "dp1046",
     "type": "ticketMachine",
-    "name": "Sídlištì Petøiny",
-    "address": "Na Petøinách 91, Petøiny, Praha 6",
+    "name": "SÃ­dliÅ¡tÄ› PetÅ™iny",
+    "address": "Na PetÅ™inÃ¡ch 91, PetÅ™iny, Praha 6",
     "openingHours": [
       {
         "from": 0,
@@ -2110,8 +2110,8 @@
   {
     "id": "dp1048",
     "type": "ticketMachine",
-    "name": "Øepy Slánská",
-    "address": "Makovského, Øepy, Praha 6",
+    "name": "Å˜epy SlÃ¡nskÃ¡",
+    "address": "MakovskÃ©ho, Å˜epy, Praha 6",
     "openingHours": [
       {
         "from": 0,
@@ -2127,8 +2127,8 @@
   {
     "id": "dp2180",
     "type": "ticketMachine",
-    "name": "Prùbìná",
-    "address": "V Olšinách, Strašnice, Praha 10",
+    "name": "PrÅ¯bÄ›Å¾nÃ¡",
+    "address": "V OlÅ¡inÃ¡ch, StraÅ¡nice, Praha 10",
     "openingHours": [
       {
         "from": 0,
@@ -2144,8 +2144,8 @@
   {
     "id": "dp1049",
     "type": "ticketMachine",
-    "name": "Malostranské námìstí",
-    "address": "Malostranské námìstí, Malá Strana, Praha 1",
+    "name": "MalostranskÃ© nÃ¡mÄ›stÃ­",
+    "address": "MalostranskÃ© nÃ¡mÄ›stÃ­, MalÃ¡ Strana, Praha 1",
     "openingHours": [
       {
         "from": 0,
@@ -2161,8 +2161,8 @@
   {
     "id": "dp1056",
     "type": "ticketMachine",
-    "name": "Divoká Šárka",
-    "address": "Evropská, Liboc, Praha 6",
+    "name": "DivokÃ¡ Å Ã¡rka",
+    "address": "EvropskÃ¡, Liboc, Praha 6",
     "openingHours": [
       {
         "from": 0,
@@ -2178,8 +2178,8 @@
   {
     "id": "dp1057",
     "type": "ticketMachine",
-    "name": "Spojovací",
-    "address": "Spojovací, ikov, Praha 3",
+    "name": "SpojovacÃ­",
+    "address": "SpojovacÃ­, Å½iÅ¾kov, Praha 3",
     "openingHours": [
       {
         "from": 0,
@@ -2195,8 +2195,8 @@
   {
     "id": "dp1064",
     "type": "ticketMachine",
-    "name": "Nádraí Braník",
-    "address": "Pikovická, Braník, Praha 4",
+    "name": "NÃ¡draÅ¾Ã­ BranÃ­k",
+    "address": "PikovickÃ¡, BranÃ­k, Praha 4",
     "openingHours": [
       {
         "from": 0,
@@ -2213,7 +2213,7 @@
     "id": "dp1065",
     "type": "ticketMachine",
     "name": "Dvorce",
-    "address": "Podolské nábøeí, Podolí, Praha 4",
+    "address": "PodolskÃ© nÃ¡bÅ™eÅ¾Ã­, PodolÃ­, Praha 4",
     "openingHours": [
       {
         "from": 0,
@@ -2229,8 +2229,8 @@
   {
     "id": "dp1078",
     "type": "ticketMachine",
-    "name": "Letenské námìstí",
-    "address": "Letenské námìstí, Holešovice, Praha 7",
+    "name": "LetenskÃ© nÃ¡mÄ›stÃ­",
+    "address": "LetenskÃ© nÃ¡mÄ›stÃ­, HoleÅ¡ovice, Praha 7",
     "openingHours": [
       {
         "from": 0,
@@ -2247,7 +2247,7 @@
     "id": "dp1087",
     "type": "ticketMachine",
     "name": "Blatiny",
-    "address": "Makovského, Øepy, Praha 6",
+    "address": "MakovskÃ©ho, Å˜epy, Praha 6",
     "openingHours": [
       {
         "from": 0,
@@ -2263,8 +2263,8 @@
   {
     "id": "dp1089",
     "type": "ticketMachine",
-    "name": "Strossmayerovo námìstí",
-    "address": "Milady Horákové 7, Holešovice, Praha 7",
+    "name": "Strossmayerovo nÃ¡mÄ›stÃ­",
+    "address": "Milady HorÃ¡kovÃ© 7, HoleÅ¡ovice, Praha 7",
     "openingHours": [
       {
         "from": 0,
@@ -2281,7 +2281,7 @@
     "id": "dp1090",
     "type": "ticketMachine",
     "name": "Slivenec",
-    "address": "Ke Smíchovu 22, Slivenec, Praha 5",
+    "address": "Ke SmÃ­chovu 22, Slivenec, Praha 5",
     "openingHours": [
       {
         "from": 0,
@@ -2297,8 +2297,8 @@
   {
     "id": "dp1092",
     "type": "ticketMachine",
-    "name": "Zemìdìlská univerzita",
-    "address": "Brandejsovo námìstí 496/8, Suchdol, Praha 6",
+    "name": "ZemÄ›dÄ›lskÃ¡ univerzita",
+    "address": "Brandejsovo nÃ¡mÄ›stÃ­ 496/8, Suchdol, Praha 6",
     "openingHours": [
       {
         "from": 0,
@@ -2314,8 +2314,8 @@
   {
     "id": "dp1105",
     "type": "ticketMachine",
-    "name": "Zoologická zahrada",
-    "address": "U Trojského zámku, Troja, Praha 7",
+    "name": "ZoologickÃ¡ zahrada",
+    "address": "U TrojskÃ©ho zÃ¡mku, Troja, Praha 7",
     "openingHours": [
       {
         "from": 0,
@@ -2331,8 +2331,8 @@
   {
     "id": "dp1108",
     "type": "ticketMachine",
-    "name": "Obchodní centrum Sárská (Globus Zlièín)",
-    "address": "Sárská, Tøebonice, Praha 5",
+    "name": "ObchodnÃ­ centrum SÃ¡rskÃ¡ (Globus ZliÄÃ­n)",
+    "address": "SÃ¡rskÃ¡, TÅ™ebonice, Praha 5",
     "openingHours": [
       {
         "from": 0,
@@ -2348,8 +2348,8 @@
   {
     "id": "dp1109",
     "type": "ticketMachine",
-    "name": "Praskı hrad",
-    "address": "Jelení, Hradèany, Praha 1",
+    "name": "PraÅ¾skÃ½ hrad",
+    "address": "JelenÃ­, HradÄany, Praha 1",
     "openingHours": [
       {
         "from": 0,
@@ -2382,8 +2382,8 @@
   {
     "id": "dp1117",
     "type": "ticketMachine",
-    "name": "Sídlištì Prosek",
-    "address": "Vysoèanská, Prosek, Praha 9",
+    "name": "SÃ­dliÅ¡tÄ› Prosek",
+    "address": "VysoÄanskÃ¡, Prosek, Praha 9",
     "openingHours": [
       {
         "from": 0,
@@ -2399,8 +2399,8 @@
   {
     "id": "dp1120",
     "type": "ticketMachine",
-    "name": "Ortenovo námìstí",
-    "address": "Ortenovo námìstí, Holešovice, Praha 7",
+    "name": "Ortenovo nÃ¡mÄ›stÃ­",
+    "address": "Ortenovo nÃ¡mÄ›stÃ­, HoleÅ¡ovice, Praha 7",
     "openingHours": [
       {
         "from": 0,
@@ -2416,8 +2416,8 @@
   {
     "id": "dp1126",
     "type": "ticketMachine",
-    "name": "Na Padesátém",
-    "address": "Prùbìná, Strašnice, Praha 10",
+    "name": "Na PadesÃ¡tÃ©m",
+    "address": "PrÅ¯bÄ›Å¾nÃ¡, StraÅ¡nice, Praha 10",
     "openingHours": [
       {
         "from": 0,
@@ -2433,8 +2433,8 @@
   {
     "id": "dp1130",
     "type": "ticketMachine",
-    "name": "Vozovna Støešovice",
-    "address": "Patoèkova, Støešovice, Praha 6",
+    "name": "Vozovna StÅ™eÅ¡ovice",
+    "address": "PatoÄkova, StÅ™eÅ¡ovice, Praha 6",
     "openingHours": [
       {
         "from": 0,
@@ -2450,8 +2450,8 @@
   {
     "id": "dp1137",
     "type": "ticketMachine",
-    "name": "Zahradní Mìsto",
-    "address": "Švehlova, Zahradní Mìsto, Praha 10",
+    "name": "ZahradnÃ­ MÄ›sto",
+    "address": "Å vehlova, ZahradnÃ­ MÄ›sto, Praha 10",
     "openingHours": [
       {
         "from": 0,
@@ -2467,8 +2467,8 @@
   {
     "id": "dp1145",
     "type": "ticketMachine",
-    "name": "Obchodní centrum Hostivaø",
-    "address": "Švehlova, Zahradní Mìsto, Praha 10",
+    "name": "ObchodnÃ­ centrum HostivaÅ™",
+    "address": "Å vehlova, ZahradnÃ­ MÄ›sto, Praha 10",
     "openingHours": [
       {
         "from": 0,
@@ -2484,8 +2484,8 @@
   {
     "id": "dp1146",
     "type": "ticketMachine",
-    "name": "Vıtoò",
-    "address": "Rašínovo nábøeí, Nové Mìsto, Praha 2",
+    "name": "VÃ½toÅˆ",
+    "address": "RaÅ¡Ã­novo nÃ¡bÅ™eÅ¾Ã­, NovÃ© MÄ›sto, Praha 2",
     "openingHours": [
       {
         "from": 0,
@@ -2501,8 +2501,8 @@
   {
     "id": "dp1147",
     "type": "ticketMachine",
-    "name": "Zbraslavské námìstí",
-    "address": "Zbraslavské námìstí, Zbraslav, Praha 5",
+    "name": "ZbraslavskÃ© nÃ¡mÄ›stÃ­",
+    "address": "ZbraslavskÃ© nÃ¡mÄ›stÃ­, Zbraslav, Praha 5",
     "openingHours": [
       {
         "from": 0,
@@ -2518,8 +2518,8 @@
   {
     "id": "dp1148",
     "type": "ticketMachine",
-    "name": "Klánovice ÈD",
-    "address": "Klánovice nádraí, Praha 9",
+    "name": "KlÃ¡novice ÄŒD",
+    "address": "KlÃ¡novice nÃ¡draÅ¾Ã­, Praha 9",
     "openingHours": [
       {
         "from": 0,
@@ -2535,8 +2535,8 @@
   {
     "id": "dp1149",
     "type": "ticketMachine",
-    "name": "Horní Poèernice ÈD",
-    "address": "Horní Poèernice nádraí, Praha 9",
+    "name": "HornÃ­ PoÄernice ÄŒD",
+    "address": "HornÃ­ PoÄernice nÃ¡draÅ¾Ã­, Praha 9",
     "openingHours": [
       {
         "from": 0,
@@ -2552,8 +2552,8 @@
   {
     "id": "dp1156",
     "type": "ticketMachine",
-    "name": "Marjánka",
-    "address": "Bìlohorská 33, Bøevnov, Praha 6",
+    "name": "MarjÃ¡nka",
+    "address": "BÄ›lohorskÃ¡ 33, BÅ™evnov, Praha 6",
     "openingHours": [
       {
         "from": 0,
@@ -2569,8 +2569,8 @@
   {
     "id": "dp1157",
     "type": "ticketMachine",
-    "name": "Kotláøka",
-    "address": "Plzeòská, Košíøe, Praha 5",
+    "name": "KotlÃ¡Å™ka",
+    "address": "PlzeÅˆskÃ¡, KoÅ¡Ã­Å™e, Praha 5",
     "openingHours": [
       {
         "from": 0,
@@ -2586,8 +2586,8 @@
   {
     "id": "dp1167",
     "type": "ticketMachine",
-    "name": "Michelská",
-    "address": "U Plynárny 11, Michle, Praha 4",
+    "name": "MichelskÃ¡",
+    "address": "U PlynÃ¡rny 11, Michle, Praha 4",
     "openingHours": [
       {
         "from": 0,
@@ -2604,7 +2604,7 @@
     "id": "dp1169",
     "type": "ticketMachine",
     "name": "Balabenka",
-    "address": "Námìstí Na Balabence, Libeò, Praha 9",
+    "address": "NÃ¡mÄ›stÃ­ Na Balabence, LibeÅˆ, Praha 9",
     "openingHours": [
       {
         "from": 0,
@@ -2620,8 +2620,8 @@
   {
     "id": "dp1170",
     "type": "ticketMachine",
-    "name": "Myslíkova",
-    "address": "Myslíkova 27, Nové Mìsto, Praha 1",
+    "name": "MyslÃ­kova",
+    "address": "MyslÃ­kova 27, NovÃ© MÄ›sto, Praha 1",
     "openingHours": [
       {
         "from": 0,
@@ -2638,7 +2638,7 @@
     "id": "dp1176",
     "type": "ticketMachine",
     "name": "Ohrada",
-    "address": "Konìvova 114, ikov, Praha 3",
+    "address": "KonÄ›vova 114, Å½iÅ¾kov, Praha 3",
     "openingHours": [
       {
         "from": 0,
@@ -2654,8 +2654,8 @@
   {
     "id": "dp1177",
     "type": "ticketMachine",
-    "name": "Kavalírka",
-    "address": "Plzeòská 189, Košíøe, Praha 5",
+    "name": "KavalÃ­rka",
+    "address": "PlzeÅˆskÃ¡ 189, KoÅ¡Ã­Å™e, Praha 5",
     "openingHours": [
       {
         "from": 0,
@@ -2671,8 +2671,8 @@
   {
     "id": "dp1179",
     "type": "ticketMachine",
-    "name": "Èakovice",
-    "address": "Vojáèkova, Èakovice, Praha 9",
+    "name": "ÄŒakovice",
+    "address": "VojÃ¡Äkova, ÄŒakovice, Praha 9",
     "openingHours": [
       {
         "from": 0,
@@ -2688,8 +2688,8 @@
   {
     "id": "dp1188",
     "type": "ticketMachine",
-    "name": "Kajetánka",
-    "address": "Patoèkova 51, Bøevnov, Praha 6",
+    "name": "KajetÃ¡nka",
+    "address": "PatoÄkova 51, BÅ™evnov, Praha 6",
     "openingHours": [
       {
         "from": 0,
@@ -2705,8 +2705,8 @@
   {
     "id": "dp1195",
     "type": "ticketMachine",
-    "name": "Olšanské námìstí",
-    "address": "Táboritská 24, ikov, Praha 3",
+    "name": "OlÅ¡anskÃ© nÃ¡mÄ›stÃ­",
+    "address": "TÃ¡boritskÃ¡ 24, Å½iÅ¾kov, Praha 3",
     "openingHours": [
       {
         "from": 0,
@@ -2723,7 +2723,7 @@
     "id": "dp1197",
     "type": "ticketMachine",
     "name": "Klamovka",
-    "address": "Plzeòská 129b, Košíøe, Praha 5",
+    "address": "PlzeÅˆskÃ¡ 129b, KoÅ¡Ã­Å™e, Praha 5",
     "openingHours": [
       {
         "from": 0,
@@ -2739,8 +2739,8 @@
   {
     "id": "dp1198",
     "type": "ticketMachine",
-    "name": "U Matìje",
-    "address": "Šárecká, Dejvice, Praha 6",
+    "name": "U MatÄ›je",
+    "address": "Å Ã¡reckÃ¡, Dejvice, Praha 6",
     "openingHours": [
       {
         "from": 0,
@@ -2756,8 +2756,8 @@
   {
     "id": "dp1206",
     "type": "ticketMachine",
-    "name": "Sídlištì Lhotka",
-    "address": "Lhotecká, Kamık, Praha 4",
+    "name": "SÃ­dliÅ¡tÄ› Lhotka",
+    "address": "LhoteckÃ¡, KamÃ½k, Praha 4",
     "openingHours": [
       {
         "from": 0,
@@ -2773,8 +2773,8 @@
   {
     "id": "dp1208",
     "type": "ticketMachine",
-    "name": "Jílovská",
-    "address": "Novodvorská, Lhotka, Praha 4",
+    "name": "JÃ­lovskÃ¡",
+    "address": "NovodvorskÃ¡, Lhotka, Praha 4",
     "openingHours": [
       {
         "from": 0,
@@ -2790,8 +2790,8 @@
   {
     "id": "dp1209",
     "type": "ticketMachine",
-    "name": "Námìstí Bratøí Synkù",
-    "address": "Námìstí Bratøí Synkù, Nusle, Praha 4",
+    "name": "NÃ¡mÄ›stÃ­ BratÅ™Ã­ SynkÅ¯",
+    "address": "NÃ¡mÄ›stÃ­ BratÅ™Ã­ SynkÅ¯, Nusle, Praha 4",
     "openingHours": [
       {
         "from": 0,
@@ -2808,7 +2808,7 @@
     "id": "dp1210",
     "type": "ticketMachine",
     "name": "Pavelkova",
-    "address": "Èeskoslovenského exilu, Modøany, Praha 4",
+    "address": "ÄŒeskoslovenskÃ©ho exilu, ModÅ™any, Praha 4",
     "openingHours": [
       {
         "from": 0,
@@ -2825,7 +2825,7 @@
     "id": "dp1216",
     "type": "ticketMachine",
     "name": "Bulovka",
-    "address": "Budínova 2, Libeò, Praha 8",
+    "address": "BudÃ­nova 2, LibeÅˆ, Praha 8",
     "openingHours": [
       {
         "from": 0,
@@ -2841,8 +2841,8 @@
   {
     "id": "dp1217",
     "type": "ticketMachine",
-    "name": "Švandovo divadlo",
-    "address": "Štefánikova, Smíchov, Praha 5",
+    "name": "Å vandovo divadlo",
+    "address": "Å tefÃ¡nikova, SmÃ­chov, Praha 5",
     "openingHours": [
       {
         "from": 0,
@@ -2859,7 +2859,7 @@
     "id": "dp1218",
     "type": "ticketMachine",
     "name": "U Zvonu",
-    "address": "Plzeòská, Košíøe, Praha 5",
+    "address": "PlzeÅˆskÃ¡, KoÅ¡Ã­Å™e, Praha 5",
     "openingHours": [
       {
         "from": 0,
@@ -2875,8 +2875,8 @@
   {
     "id": "dp1219",
     "type": "ticketMachine",
-    "name": "Nemocnice Krè",
-    "address": "Vídeòská, Krè, Praha 4",
+    "name": "Nemocnice KrÄ",
+    "address": "VÃ­deÅˆskÃ¡, KrÄ, Praha 4",
     "openingHours": [
       {
         "from": 0,
@@ -2893,7 +2893,7 @@
     "id": "dp1229",
     "type": "ticketMachine",
     "name": "Divadlo Gong",
-    "address": "Sokolovská, Libeò, Praha 9",
+    "address": "SokolovskÃ¡, LibeÅˆ, Praha 9",
     "openingHours": [
       {
         "from": 0,
@@ -2909,8 +2909,8 @@
   {
     "id": "dp1230",
     "type": "ticketMachine",
-    "name": "Poliklinika Vysoèany",
-    "address": "Sokolovská, Vysoèany, Praha 9",
+    "name": "Poliklinika VysoÄany",
+    "address": "SokolovskÃ¡, VysoÄany, Praha 9",
     "openingHours": [
       {
         "from": 0,
@@ -2926,8 +2926,8 @@
   {
     "id": "dp1291",
     "type": "ticketMachine",
-    "name": "Habrová",
-    "address": "Habrová, ikov, Praha 3",
+    "name": "HabrovÃ¡",
+    "address": "HabrovÃ¡, Å½iÅ¾kov, Praha 3",
     "openingHours": [
       {
         "from": 0,
@@ -2943,8 +2943,8 @@
   {
     "id": "dp1292",
     "type": "ticketMachine",
-    "name": "Lipanská",
-    "address": "Seifertova 46, ikov, Praha 3",
+    "name": "LipanskÃ¡",
+    "address": "Seifertova 46, Å½iÅ¾kov, Praha 3",
     "openingHours": [
       {
         "from": 0,
@@ -2960,8 +2960,8 @@
   {
     "id": "dp1293",
     "type": "ticketMachine",
-    "name": "Viktoria ikov",
-    "address": "Seifertova 47, ikov, Praha 3",
+    "name": "Viktoria Å½iÅ¾kov",
+    "address": "Seifertova 47, Å½iÅ¾kov, Praha 3",
     "openingHours": [
       {
         "from": 0,
@@ -2978,7 +2978,7 @@
     "id": "dp1295",
     "type": "ticketMachine",
     "name": "Malvazinky",
-    "address": "Peroutkova, Smíchov, Praha 5",
+    "address": "Peroutkova, SmÃ­chov, Praha 5",
     "openingHours": [
       {
         "from": 0,
@@ -2994,8 +2994,8 @@
   {
     "id": "dp1296",
     "type": "ticketMachine",
-    "name": "Plaòanská",
-    "address": "Poèernická, Malešice, Praha 10",
+    "name": "PlaÅˆanskÃ¡",
+    "address": "PoÄernickÃ¡, MaleÅ¡ice, Praha 10",
     "openingHours": [
       {
         "from": 0,
@@ -3012,7 +3012,7 @@
     "id": "dp1297",
     "type": "ticketMachine",
     "name": "Bohemians",
-    "address": "Vršovická 44, Vršovice, Praha 10",
+    "address": "VrÅ¡ovickÃ¡ 44, VrÅ¡ovice, Praha 10",
     "openingHours": [
       {
         "from": 0,
@@ -3029,7 +3029,7 @@
     "id": "dp1298",
     "type": "ticketMachine",
     "name": "Lehovec",
-    "address": "Podìbradská, Hloubìtín, Praha 9",
+    "address": "PodÄ›bradskÃ¡, HloubÄ›tÃ­n, Praha 9",
     "openingHours": [
       {
         "from": 0,
@@ -3045,8 +3045,8 @@
   {
     "id": "dp1336",
     "type": "ticketMachine",
-    "name": "Ratiboøická",
-    "address": "Jívanská, Horní Poèernice, Praha 9",
+    "name": "RatiboÅ™ickÃ¡",
+    "address": "JÃ­vanskÃ¡, HornÃ­ PoÄernice, Praha 9",
     "openingHours": [
       {
         "from": 0,
@@ -3062,8 +3062,8 @@
   {
     "id": "dp1343",
     "type": "ticketMachine",
-    "name": "Sídlištì Bohnice",
-    "address": "Zhoøelecká, Bohnice, Praha 8",
+    "name": "SÃ­dliÅ¡tÄ› Bohnice",
+    "address": "ZhoÅ™eleckÃ¡, Bohnice, Praha 8",
     "openingHours": [
       {
         "from": 0,
@@ -3080,7 +3080,7 @@
     "id": "dp1344",
     "type": "ticketMachine",
     "name": "Odra",
-    "address": "Lodská, Bohnice, Praha 8",
+    "address": "LodÅ¾skÃ¡, Bohnice, Praha 8",
     "openingHours": [
       {
         "from": 0,
@@ -3097,7 +3097,7 @@
     "id": "dp1345",
     "type": "ticketMachine",
     "name": "Koleje Strahov",
-    "address": "Vaníèkova, Bøevnov, Praha 6",
+    "address": "VanÃ­Äkova, BÅ™evnov, Praha 6",
     "openingHours": [
       {
         "from": 0,
@@ -3113,8 +3113,8 @@
   {
     "id": "dp1346",
     "type": "ticketMachine",
-    "name": "Vojenská nemocnice",
-    "address": "Na Petøinách, Bøevnov, Praha 6",
+    "name": "VojenskÃ¡ nemocnice",
+    "address": "Na PetÅ™inÃ¡ch, BÅ™evnov, Praha 6",
     "openingHours": [
       {
         "from": 0,
@@ -3130,8 +3130,8 @@
   {
     "id": "dp1347",
     "type": "ticketMachine",
-    "name": "Èervenı Vrch",
-    "address": "Evropská 109, Vokovice, Praha 6",
+    "name": "ÄŒervenÃ½ Vrch",
+    "address": "EvropskÃ¡ 109, Vokovice, Praha 6",
     "openingHours": [
       {
         "from": 0,
@@ -3147,8 +3147,8 @@
   {
     "id": "dp1348",
     "type": "ticketMachine",
-    "name": "Sídlištì Èervenı Vrch",
-    "address": "Evropská, Vokovice, Praha 6",
+    "name": "SÃ­dliÅ¡tÄ› ÄŒervenÃ½ Vrch",
+    "address": "EvropskÃ¡, Vokovice, Praha 6",
     "openingHours": [
       {
         "from": 0,
@@ -3165,7 +3165,7 @@
     "id": "dp1354",
     "type": "ticketMachine",
     "name": "Krakov",
-    "address": "Lodská, Bohnice, Praha 8",
+    "address": "LodÅ¾skÃ¡, Bohnice, Praha 8",
     "openingHours": [
       {
         "from": 0,
@@ -3181,8 +3181,8 @@
   {
     "id": "dp1355",
     "type": "ticketMachine",
-    "name": "Poliklinika Mazurská",
-    "address": "Mazurská, Bohnice, Praha 8",
+    "name": "Poliklinika MazurskÃ¡",
+    "address": "MazurskÃ¡, Bohnice, Praha 8",
     "openingHours": [
       {
         "from": 0,
@@ -3198,8 +3198,8 @@
   {
     "id": "dp1356",
     "type": "ticketMachine",
-    "name": "Èimice",
-    "address": "Èimická, Èimice, Praha 8",
+    "name": "ÄŒimice",
+    "address": "ÄŒimickÃ¡, ÄŒimice, Praha 8",
     "openingHours": [
       {
         "from": 0,
@@ -3215,8 +3215,8 @@
   {
     "id": "dp1357",
     "type": "ticketMachine",
-    "name": "Sídlištì Èimice",
-    "address": "Èimická, Èimice, Praha 8",
+    "name": "SÃ­dliÅ¡tÄ› ÄŒimice",
+    "address": "ÄŒimickÃ¡, ÄŒimice, Praha 8",
     "openingHours": [
       {
         "from": 0,
@@ -3232,8 +3232,8 @@
   {
     "id": "dp1358",
     "type": "ticketMachine",
-    "name": "Øepínská",
-    "address": "Èimická, Èimice, Praha 8",
+    "name": "Å˜epÃ­nskÃ¡",
+    "address": "ÄŒimickÃ¡, ÄŒimice, Praha 8",
     "openingHours": [
       {
         "from": 0,
@@ -3249,8 +3249,8 @@
   {
     "id": "dp1359",
     "type": "ticketMachine",
-    "name": "Podhajská pole",
-    "address": "Èimická, Bohnice, Praha 8",
+    "name": "PodhajskÃ¡ pole",
+    "address": "ÄŒimickÃ¡, Bohnice, Praha 8",
     "openingHours": [
       {
         "from": 0,
@@ -3266,8 +3266,8 @@
   {
     "id": "dp1366",
     "type": "ticketMachine",
-    "name": "Mìstskı archiv",
-    "address": "Blaimská, Chodov, Praha 4",
+    "name": "MÄ›stskÃ½ archiv",
+    "address": "BlaÅ¾imskÃ¡, Chodov, Praha 4",
     "openingHours": [
       {
         "from": 0,
@@ -3283,8 +3283,8 @@
   {
     "id": "dp1367",
     "type": "ticketMachine",
-    "name": "Vozovna ikov",
-    "address": "Konìvova, ikov, Praha 3",
+    "name": "Vozovna Å½iÅ¾kov",
+    "address": "KonÄ›vova, Å½iÅ¾kov, Praha 3",
     "openingHours": [
       {
         "from": 0,
@@ -3300,8 +3300,8 @@
   {
     "id": "dp1369",
     "type": "ticketMachine",
-    "name": "Sídlištì Ïáblice",
-    "address": "Ïáblická, Ïáblice, Praha 8",
+    "name": "SÃ­dliÅ¡tÄ› ÄÃ¡blice",
+    "address": "ÄÃ¡blickÃ¡, ÄÃ¡blice, Praha 8",
     "openingHours": [
       {
         "from": 0,
@@ -3317,8 +3317,8 @@
   {
     "id": "dp1404",
     "type": "ticketMachine",
-    "name": "Hlušièkova",
-    "address": "Plzeòská 265, Øepy, Praha 5",
+    "name": "HluÅ¡iÄkova",
+    "address": "PlzeÅˆskÃ¡ 265, Å˜epy, Praha 5",
     "openingHours": [
       {
         "from": 0,
@@ -3334,8 +3334,8 @@
   {
     "id": "dp1407",
     "type": "ticketMachine",
-    "name": "Sídlištì Malešice",
-    "address": "Poèernická, Malešice, Praha 10",
+    "name": "SÃ­dliÅ¡tÄ› MaleÅ¡ice",
+    "address": "PoÄernickÃ¡, MaleÅ¡ice, Praha 10",
     "openingHours": [
       {
         "from": 0,
@@ -3351,8 +3351,8 @@
   {
     "id": "dp1408",
     "type": "ticketMachine",
-    "name": "Hlavní",
-    "address": "Hlavní, Spoøilov, Praha 4",
+    "name": "HlavnÃ­",
+    "address": "HlavnÃ­, SpoÅ™ilov, Praha 4",
     "openingHours": [
       {
         "from": 0,
@@ -3368,8 +3368,8 @@
   {
     "id": "dp1409",
     "type": "ticketMachine",
-    "name": "Obchodní námìstí",
-    "address": "Obchodní námìstí, Modøany, Praha 4",
+    "name": "ObchodnÃ­ nÃ¡mÄ›stÃ­",
+    "address": "ObchodnÃ­ nÃ¡mÄ›stÃ­, ModÅ™any, Praha 4",
     "openingHours": [
       {
         "from": 0,
@@ -3402,8 +3402,8 @@
   {
     "id": "dp1445",
     "type": "ticketMachine",
-    "name": "Halenkovská",
-    "address": "Hrozenkovská, Zlièín, Praha 5",
+    "name": "HalenkovskÃ¡",
+    "address": "HrozenkovskÃ¡, ZliÄÃ­n, Praha 5",
     "openingHours": [
       {
         "from": 0,
@@ -3419,8 +3419,8 @@
   {
     "id": "dp1453",
     "type": "ticketMachine",
-    "name": "Palackého námìstí",
-    "address": "Palackého námìstí, Nové Mìsto, Praha 2",
+    "name": "PalackÃ©ho nÃ¡mÄ›stÃ­",
+    "address": "PalackÃ©ho nÃ¡mÄ›stÃ­, NovÃ© MÄ›sto, Praha 2",
     "openingHours": [
       {
         "from": 0,
@@ -3436,8 +3436,8 @@
   {
     "id": "dp1464",
     "type": "ticketMachine",
-    "name": "Moráò",
-    "address": "Karlovo námìstí, Nové Mìsto, Praha 2",
+    "name": "MorÃ¡Åˆ",
+    "address": "Karlovo nÃ¡mÄ›stÃ­, NovÃ© MÄ›sto, Praha 2",
     "openingHours": [
       {
         "from": 0,
@@ -3453,8 +3453,8 @@
   {
     "id": "dp1504",
     "type": "ticketMachine",
-    "name": "Masarykovo nádraí",
-    "address": "Havlíèkova, Nové Mìsto, Praha 1",
+    "name": "Masarykovo nÃ¡draÅ¾Ã­",
+    "address": "HavlÃ­Äkova, NovÃ© MÄ›sto, Praha 1",
     "openingHours": [
       {
         "from": 0,
@@ -3470,8 +3470,8 @@
   {
     "id": "dp1839",
     "type": "ticketMachine",
-    "name": "Hlavní nádraí",
-    "address": "Bolzanova, Nové Mìsto, Praha 1",
+    "name": "HlavnÃ­ nÃ¡draÅ¾Ã­",
+    "address": "Bolzanova, NovÃ© MÄ›sto, Praha 1",
     "openingHours": [
       {
         "from": 0,
@@ -3487,8 +3487,8 @@
   {
     "id": "dp671",
     "type": "ticketMachine",
-    "name": "Malostranské nám.- Parlament ÈR",
-    "address": "Malostranské námìstí, Malá Strana, Praha 1",
+    "name": "MalostranskÃ© nÃ¡m.- Parlament ÄŒR",
+    "address": "MalostranskÃ© nÃ¡mÄ›stÃ­, MalÃ¡ Strana, Praha 1",
     "openingHours": [
       {
         "from": 0,
@@ -3505,7 +3505,7 @@
     "id": "dp672",
     "type": "ticketMachine",
     "name": "Hotel Krystal",
-    "address": "José Martího 2/407, Veleslavín, Praha 6",
+    "address": "JosÃ© MartÃ­ho 2/407, VeleslavÃ­n, Praha 6",
     "openingHours": [
       {
         "from": 0,
@@ -3522,7 +3522,7 @@
     "id": "dp674",
     "type": "ticketMachine",
     "name": "Hotel Golf",
-    "address": "Plzeòská 103/215A, Motol, Praha 5",
+    "address": "PlzeÅˆskÃ¡ 103/215A, Motol, Praha 5",
     "openingHours": [
       {
         "from": 0,
@@ -3539,7 +3539,7 @@
     "id": "dp676",
     "type": "ticketMachine",
     "name": "Hotel Step",
-    "address": "Malletova 1141, Vysoèany, Praha 9",
+    "address": "Malletova 1141, VysoÄany, Praha 9",
     "openingHours": [
       {
         "from": 0,
@@ -3556,7 +3556,7 @@
     "id": "dp663",
     "type": "ticketMachine",
     "name": "Koleje Volha",
-    "address": "K Verneráku 950, Kunratice, Praha 4",
+    "address": "K VernerÃ¡ku 950, Kunratice, Praha 4",
     "openingHours": [
       {
         "from": 0,
@@ -3573,7 +3573,7 @@
     "id": "dp664",
     "type": "ticketMachine",
     "name": "Kudrnova",
-    "address": "V Úvalu, Motol (vrátnice FNM), Praha 5",
+    "address": "V Ãšvalu, Motol (vrÃ¡tnice FNM), Praha 5",
     "openingHours": [
       {
         "from": 0,
@@ -3589,8 +3589,8 @@
   {
     "id": "dp653",
     "type": "ticketMachine",
-    "name": "Zelená",
-    "address": "Jugoslávskıch partyzánù, Dejvice, Praha 6",
+    "name": "ZelenÃ¡",
+    "address": "JugoslÃ¡vskÃ½ch partyzÃ¡nÅ¯, Dejvice, Praha 6",
     "openingHours": [
       {
         "from": 0,
@@ -3607,7 +3607,7 @@
     "id": "dp641",
     "type": "ticketMachine",
     "name": "Fakulta TVS",
-    "address": "José Martího 31, Veleslavín (recepce), Praha 6",
+    "address": "JosÃ© MartÃ­ho 31, VeleslavÃ­n (recepce), Praha 6",
     "openingHours": [
       {
         "from": 0,
@@ -3623,8 +3623,8 @@
   {
     "id": "dp644",
     "type": "ticketMachine",
-    "name": "Vysoèany ÈD",
-    "address": "Vysoèany (nádraí), Praha 9",
+    "name": "VysoÄany ÄŒD",
+    "address": "VysoÄany (nÃ¡draÅ¾Ã­), Praha 9",
     "openingHours": [
       {
         "from": 0,
@@ -3640,8 +3640,8 @@
   {
     "id": "dp645",
     "type": "ticketMachine",
-    "name": "Vozovna Strašnice",
-    "address": "Starostrašnická, Strašnice, Praha 10",
+    "name": "Vozovna StraÅ¡nice",
+    "address": "StarostraÅ¡nickÃ¡, StraÅ¡nice, Praha 10",
     "openingHours": [
       {
         "from": 0,
@@ -3674,7 +3674,7 @@
   {
     "id": "dp2661",
     "type": "ticketMachine",
-    "name": "Petøiny",
+    "name": "PetÅ™iny",
     "address": "Stanice metra, Praha 6",
     "openingHours": [
       {
@@ -3691,7 +3691,7 @@
   {
     "id": "dp2663",
     "type": "ticketMachine",
-    "name": "Petøiny",
+    "name": "PetÅ™iny",
     "address": "Stanice metra, Praha 6",
     "openingHours": [
       {
@@ -3708,7 +3708,7 @@
   {
     "id": "dp2651",
     "type": "ticketMachine",
-    "name": "Nádraí Veleslavín",
+    "name": "NÃ¡draÅ¾Ã­ VeleslavÃ­n",
     "address": "Stanice metra, Praha 6",
     "openingHours": [
       {
@@ -3725,7 +3725,7 @@
   {
     "id": "dp2641",
     "type": "ticketMachine",
-    "name": "Boøislavka",
+    "name": "BoÅ™islavka",
     "address": "Stanice metra, Praha 6",
     "openingHours": [
       {
@@ -3742,7 +3742,7 @@
   {
     "id": "dp2642",
     "type": "ticketMachine",
-    "name": "Boøislavka",
+    "name": "BoÅ™islavka",
     "address": "Stanice metra, Praha 6",
     "openingHours": [
       {
@@ -3759,8 +3759,8 @@
   {
     "id": "dp2111",
     "type": "ticketMachine",
-    "name": "Dejvická",
-    "address": "vestibul Evropská, Stanice metra, Praha 6",
+    "name": "DejvickÃ¡",
+    "address": "vestibul EvropskÃ¡, Stanice metra, Praha 6",
     "openingHours": [
       {
         "from": 0,
@@ -3776,8 +3776,8 @@
   {
     "id": "dp2121",
     "type": "ticketMachine",
-    "name": "Dejvická",
-    "address": "vestibul Vítìzné námìstí, Stanice metra, Praha 6",
+    "name": "DejvickÃ¡",
+    "address": "vestibul VÃ­tÄ›znÃ© nÃ¡mÄ›stÃ­, Stanice metra, Praha 6",
     "openingHours": [
       {
         "from": 0,
@@ -3793,7 +3793,7 @@
   {
     "id": "dp2131",
     "type": "ticketMachine",
-    "name": "Hradèanská",
+    "name": "HradÄanskÃ¡",
     "address": "Stanice metra, Praha 6",
     "openingHours": [
       {
@@ -3810,7 +3810,7 @@
   {
     "id": "dp2140",
     "type": "ticketMachine",
-    "name": "Malostranská",
+    "name": "MalostranskÃ¡",
     "address": "Stanice metra, Praha 1",
     "openingHours": [
       {
@@ -3827,7 +3827,7 @@
   {
     "id": "dp2151",
     "type": "ticketMachine",
-    "name": "Staromìstská",
+    "name": "StaromÄ›stskÃ¡",
     "address": "Stanice metra, Praha 1",
     "openingHours": [
       {
@@ -3844,8 +3844,8 @@
   {
     "id": "dp2161",
     "type": "ticketMachine",
-    "name": "Mùstek A (historickı)",
-    "address": "vestibul Mùstek, Stanice metra, Praha 1",
+    "name": "MÅ¯stek A (historickÃ½)",
+    "address": "vestibul MÅ¯stek, Stanice metra, Praha 1",
     "openingHours": [
       {
         "from": 0,
@@ -3861,8 +3861,8 @@
   {
     "id": "dp2163",
     "type": "ticketMachine",
-    "name": "Mùstek",
-    "address": "vestibul Mùstek, Stanice metra, Praha 1",
+    "name": "MÅ¯stek",
+    "address": "vestibul MÅ¯stek, Stanice metra, Praha 1",
     "openingHours": [
       {
         "from": 0,
@@ -3878,8 +3878,8 @@
   {
     "id": "dp2150",
     "type": "ticketMachine",
-    "name": "Mùstek",
-    "address": "vıtah, Stanice metra, Praha 1",
+    "name": "MÅ¯stek",
+    "address": "vÃ½tah, Stanice metra, Praha 1",
     "openingHours": [
       {
         "from": 0,
@@ -3895,8 +3895,8 @@
   {
     "id": "dp2171",
     "type": "ticketMachine",
-    "name": "Mùstek",
-    "address": "vestibul Václavské námìstí, Stanice metra, Praha 1",
+    "name": "MÅ¯stek",
+    "address": "vestibul VÃ¡clavskÃ© nÃ¡mÄ›stÃ­, Stanice metra, Praha 1",
     "openingHours": [
       {
         "from": 0,
@@ -3912,8 +3912,8 @@
   {
     "id": "dp2175",
     "type": "ticketMachine",
-    "name": "Václavské námìstí",
-    "address": "Vodièkova 41, Nové Mìsto, Praha 1",
+    "name": "VÃ¡clavskÃ© nÃ¡mÄ›stÃ­",
+    "address": "VodiÄkova 41, NovÃ© MÄ›sto, Praha 1",
     "openingHours": [
       {
         "from": 0,
@@ -3964,7 +3964,7 @@
     "id": "dp2187",
     "type": "ticketMachine",
     "name": "Muzeum",
-    "address": "nástupištì vıtah C, Stanice metra, Praha 1",
+    "address": "nÃ¡stupiÅ¡tÄ› vÃ½tah C, Stanice metra, Praha 1",
     "openingHours": [
       {
         "from": 0,
@@ -3981,7 +3981,7 @@
     "id": "dp160",
     "type": "ticketMachine",
     "name": "Muzeum",
-    "address": "nástupištì vıtah A, Stanice metra, Praha 1",
+    "address": "nÃ¡stupiÅ¡tÄ› vÃ½tah A, Stanice metra, Praha 1",
     "openingHours": [
       {
         "from": 0,
@@ -3997,7 +3997,7 @@
   {
     "id": "dp2191",
     "type": "ticketMachine",
-    "name": "Námìstí Míru",
+    "name": "NÃ¡mÄ›stÃ­ MÃ­ru",
     "address": "Stanice metra, Praha 2",
     "openingHours": [
       {
@@ -4014,7 +4014,7 @@
   {
     "id": "dp2201",
     "type": "ticketMachine",
-    "name": "Jiøího z Podìbrad",
+    "name": "JiÅ™Ã­ho z PodÄ›brad",
     "address": "Stanice metra, Praha 3",
     "openingHours": [
       {
@@ -4048,7 +4048,7 @@
   {
     "id": "dp2221",
     "type": "ticketMachine",
-    "name": "elivského",
+    "name": "Å½elivskÃ©ho",
     "address": "Stanice metra, Praha 3",
     "openingHours": [
       {
@@ -4065,7 +4065,7 @@
   {
     "id": "dp2231",
     "type": "ticketMachine",
-    "name": "Strašnická",
+    "name": "StraÅ¡nickÃ¡",
     "address": "Stanice metra, Praha 10",
     "openingHours": [
       {
@@ -4099,7 +4099,7 @@
   {
     "id": "dp2251",
     "type": "ticketMachine",
-    "name": "Depo Hostivaø",
+    "name": "Depo HostivaÅ™",
     "address": "Stanice metra, Praha 10",
     "openingHours": [
       {
@@ -4116,7 +4116,7 @@
   {
     "id": "dp2321",
     "type": "ticketMachine",
-    "name": "Zlièín",
+    "name": "ZliÄÃ­n",
     "address": "Stanice metra, Praha 5",
     "openingHours": [
       {
@@ -4133,7 +4133,7 @@
   {
     "id": "dp2331",
     "type": "ticketMachine",
-    "name": "Stodùlky vıchod",
+    "name": "StodÅ¯lky vÃ½chod",
     "address": "Stanice metra, Praha 5",
     "openingHours": [
       {
@@ -4150,7 +4150,7 @@
   {
     "id": "dp2325",
     "type": "ticketMachine",
-    "name": "Stodùlky západ",
+    "name": "StodÅ¯lky zÃ¡pad",
     "address": "Stanice metra, Praha 5",
     "openingHours": [
       {
@@ -4184,7 +4184,7 @@
   {
     "id": "dp2351",
     "type": "ticketMachine",
-    "name": "Luiny",
+    "name": "LuÅ¾iny",
     "address": "Stanice metra, Praha 5",
     "openingHours": [
       {
@@ -4201,7 +4201,7 @@
   {
     "id": "dp2361",
     "type": "ticketMachine",
-    "name": "Hùrka",
+    "name": "HÅ¯rka",
     "address": "Stanice metra, Praha 5",
     "openingHours": [
       {
@@ -4218,8 +4218,8 @@
   {
     "id": "dp2371",
     "type": "ticketMachine",
-    "name": "Nové Butovice",
-    "address": "západní vestibul, Stanice metra, Praha 5",
+    "name": "NovÃ© Butovice",
+    "address": "zÃ¡padnÃ­ vestibul, Stanice metra, Praha 5",
     "openingHours": [
       {
         "from": 0,
@@ -4235,8 +4235,8 @@
   {
     "id": "dp2381",
     "type": "ticketMachine",
-    "name": "Nové Butovice",
-    "address": "vıchodní vestibul, Stanice metra, Praha 5",
+    "name": "NovÃ© Butovice",
+    "address": "vÃ½chodnÃ­ vestibul, Stanice metra, Praha 5",
     "openingHours": [
       {
         "from": 0,
@@ -4269,7 +4269,7 @@
   {
     "id": "dp2401",
     "type": "ticketMachine",
-    "name": "Radlická",
+    "name": "RadlickÃ¡",
     "address": "Stanice metra, Praha 5",
     "openingHours": [
       {
@@ -4286,7 +4286,7 @@
   {
     "id": "dp2411",
     "type": "ticketMachine",
-    "name": "Smíchovské nádraí",
+    "name": "SmÃ­chovskÃ© nÃ¡draÅ¾Ã­",
     "address": "Stanice metra, Praha 5",
     "openingHours": [
       {
@@ -4303,7 +4303,7 @@
   {
     "id": "dp2421",
     "type": "ticketMachine",
-    "name": "Smíchovské nádraí",
+    "name": "SmÃ­chovskÃ© nÃ¡draÅ¾Ã­",
     "address": "Stanice metra, Praha 5",
     "openingHours": [
       {
@@ -4320,8 +4320,8 @@
   {
     "id": "dp2431",
     "type": "ticketMachine",
-    "name": "Andìl Na Kníecí",
-    "address": "vestibul Na Kníecí, Stanice metra, Praha 5",
+    "name": "AndÄ›l Na KnÃ­Å¾ecÃ­",
+    "address": "vestibul Na KnÃ­Å¾ecÃ­, Stanice metra, Praha 5",
     "openingHours": [
       {
         "from": 0,
@@ -4337,8 +4337,8 @@
   {
     "id": "dp2049",
     "type": "ticketMachine",
-    "name": "Andìl tramvaj",
-    "address": "Nádraní, Smíchov, Praha 5",
+    "name": "AndÄ›l tramvaj",
+    "address": "NÃ¡draÅ¾nÃ­, SmÃ­chov, Praha 5",
     "openingHours": [
       {
         "from": 0,
@@ -4354,8 +4354,8 @@
   {
     "id": "dp2448",
     "type": "ticketMachine",
-    "name": "Andìl",
-    "address": "vıtah, Stanice metra, Praha 5",
+    "name": "AndÄ›l",
+    "address": "vÃ½tah, Stanice metra, Praha 5",
     "openingHours": [
       {
         "from": 0,
@@ -4371,8 +4371,8 @@
   {
     "id": "dp2441",
     "type": "ticketMachine",
-    "name": "Andìl",
-    "address": "vestibul U Andìla, Stanice metra, Praha 5",
+    "name": "AndÄ›l",
+    "address": "vestibul U AndÄ›la, Stanice metra, Praha 5",
     "openingHours": [
       {
         "from": 0,
@@ -4388,8 +4388,8 @@
   {
     "id": "dp2451",
     "type": "ticketMachine",
-    "name": "Karlovo námìstí",
-    "address": "vestibul Palackého námìstí, Stanice metra, Praha 2",
+    "name": "Karlovo nÃ¡mÄ›stÃ­",
+    "address": "vestibul PalackÃ©ho nÃ¡mÄ›stÃ­, Stanice metra, Praha 2",
     "openingHours": [
       {
         "from": 0,
@@ -4405,8 +4405,8 @@
   {
     "id": "dp2453",
     "type": "ticketMachine",
-    "name": "Karlovo námìstí vıtah",
-    "address": "vıtah, Stanice metra, Praha 2",
+    "name": "Karlovo nÃ¡mÄ›stÃ­ vÃ½tah",
+    "address": "vÃ½tah, Stanice metra, Praha 2",
     "openingHours": [
       {
         "from": 0,
@@ -4422,8 +4422,8 @@
   {
     "id": "dp2461",
     "type": "ticketMachine",
-    "name": "Karlovo námìstí",
-    "address": "vestibul Karlovo námìstí, Stanice metra, Praha 2",
+    "name": "Karlovo nÃ¡mÄ›stÃ­",
+    "address": "vestibul Karlovo nÃ¡mÄ›stÃ­, Stanice metra, Praha 2",
     "openingHours": [
       {
         "from": 0,
@@ -4440,7 +4440,7 @@
     "id": "dp474",
     "type": "ticketMachine",
     "name": "U Nemocnice",
-    "address": "U Nemocnice, Nové Mìsto (recepce VFN), Praha 2",
+    "address": "U Nemocnice, NovÃ© MÄ›sto (recepce VFN), Praha 2",
     "openingHours": [
       {
         "from": 0,
@@ -4456,7 +4456,7 @@
   {
     "id": "dp2471",
     "type": "ticketMachine",
-    "name": "Národní tøída",
+    "name": "NÃ¡rodnÃ­ tÅ™Ã­da",
     "address": "stanice metra, Praha 1",
     "openingHours": [
       {
@@ -4473,7 +4473,7 @@
   {
     "id": "dp2481",
     "type": "ticketMachine",
-    "name": "Mùstek",
+    "name": "MÅ¯stek",
     "address": "Stanice metra, Praha 1",
     "openingHours": [
       {
@@ -4490,7 +4490,7 @@
   {
     "id": "dp2491",
     "type": "ticketMachine",
-    "name": "Námìstí Republiky",
+    "name": "NÃ¡mÄ›stÃ­ Republiky",
     "address": "Kotva, Stanice metra, Praha 1",
     "openingHours": [
       {
@@ -4507,8 +4507,8 @@
   {
     "id": "dp2501",
     "type": "ticketMachine",
-    "name": "Námìstí Republiky Støed",
-    "address": "Støed, Stanice metra, Praha 1",
+    "name": "NÃ¡mÄ›stÃ­ Republiky StÅ™ed",
+    "address": "StÅ™ed, Stanice metra, Praha 1",
     "openingHours": [
       {
         "from": 0,
@@ -4524,7 +4524,7 @@
   {
     "id": "dp2531",
     "type": "ticketMachine",
-    "name": "Køiíkova",
+    "name": "KÅ™iÅ¾Ã­kova",
     "address": "Stanice metra, Praha 8",
     "openingHours": [
       {
@@ -4576,7 +4576,7 @@
     "id": "dp2561",
     "type": "ticketMachine",
     "name": "Palmovka",
-    "address": "vestibul Na ertvách, Stanice metra, Praha 8",
+    "address": "vestibul Na Å½ertvÃ¡ch, Stanice metra, Praha 8",
     "openingHours": [
       {
         "from": 0,
@@ -4592,8 +4592,8 @@
   {
     "id": "dp2571",
     "type": "ticketMachine",
-    "name": "Èeskomoravská",
-    "address": "vestibul Aréna, Stanice metra, Praha 9",
+    "name": "ÄŒeskomoravskÃ¡",
+    "address": "vestibul ArÃ©na, Stanice metra, Praha 9",
     "openingHours": [
       {
         "from": 0,
@@ -4609,7 +4609,7 @@
   {
     "id": "dp2574",
     "type": "ticketMachine",
-    "name": "Èeskomoravská",
+    "name": "ÄŒeskomoravskÃ¡",
     "address": "vestibul Drahobejlova, Stanice metra, Praha 9",
     "openingHours": [
       {
@@ -4626,8 +4626,8 @@
   {
     "id": "dp2581",
     "type": "ticketMachine",
-    "name": "Vysoèanská",
-    "address": "vestibul Nádraí Vysoèany, Stanice metra, Praha 9",
+    "name": "VysoÄanskÃ¡",
+    "address": "vestibul NÃ¡draÅ¾Ã­ VysoÄany, Stanice metra, Praha 9",
     "openingHours": [
       {
         "from": 0,
@@ -4643,8 +4643,8 @@
   {
     "id": "dp2591",
     "type": "ticketMachine",
-    "name": "Vysoèanská",
-    "address": "vestibul Vysoèanská, Stanice metra, Praha 9",
+    "name": "VysoÄanskÃ¡",
+    "address": "vestibul VysoÄanskÃ¡, Stanice metra, Praha 9",
     "openingHours": [
       {
         "from": 0,
@@ -4677,7 +4677,7 @@
   {
     "id": "dp2611",
     "type": "ticketMachine",
-    "name": "Hloubìtín",
+    "name": "HloubÄ›tÃ­n",
     "address": "Stanice metra, Praha 9",
     "openingHours": [
       {
@@ -4694,7 +4694,7 @@
   {
     "id": "dp2621",
     "type": "ticketMachine",
-    "name": "Rajská zahrada",
+    "name": "RajskÃ¡ zahrada",
     "address": "Stanice metra, Praha 9",
     "openingHours": [
       {
@@ -4711,7 +4711,7 @@
   {
     "id": "dp2631",
     "type": "ticketMachine",
-    "name": "Èernı Most",
+    "name": "ÄŒernÃ½ Most",
     "address": "Stanice metra, Praha 9",
     "openingHours": [
       {
@@ -4728,7 +4728,7 @@
   {
     "id": "dp2633",
     "type": "ticketMachine",
-    "name": "Èernı Most",
+    "name": "ÄŒernÃ½ Most",
     "address": "Stanice metra, Praha 9",
     "openingHours": [
       {
@@ -4745,7 +4745,7 @@
   {
     "id": "dp2637",
     "type": "ticketMachine",
-    "name": "Èernı Most BUS",
+    "name": "ÄŒernÃ½ Most BUS",
     "address": "Stanice metra, Praha 9",
     "openingHours": [
       {
@@ -4762,8 +4762,8 @@
   {
     "id": "dp2712",
     "type": "ticketMachine",
-    "name": "Háje",
-    "address": "vıchodní vestibul, Stanice metra, Praha 4",
+    "name": "HÃ¡je",
+    "address": "vÃ½chodnÃ­ vestibul, Stanice metra, Praha 4",
     "openingHours": [
       {
         "from": 0,
@@ -4779,8 +4779,8 @@
   {
     "id": "dp2721",
     "type": "ticketMachine",
-    "name": "Háje",
-    "address": "západní vestibul, Stanice metra, Praha 4",
+    "name": "HÃ¡je",
+    "address": "zÃ¡padnÃ­ vestibul, Stanice metra, Praha 4",
     "openingHours": [
       {
         "from": 0,
@@ -4814,7 +4814,7 @@
     "id": "dp2733",
     "type": "ticketMachine",
     "name": "Opatov",
-    "address": "Chilská, Opatov, Praha 4",
+    "address": "ChilskÃ¡, Opatov, Praha 4",
     "openingHours": [
       {
         "from": 0,
@@ -4864,7 +4864,7 @@
   {
     "id": "dp2761",
     "type": "ticketMachine",
-    "name": "Kaèerov",
+    "name": "KaÄerov",
     "address": "Stanice metra, Praha 4",
     "openingHours": [
       {
@@ -4881,8 +4881,8 @@
   {
     "id": "dp2841",
     "type": "ticketMachine",
-    "name": "Budìjovická",
-    "address": "vestibul Antala Staška, Stanice metra, Praha 4",
+    "name": "BudÄ›jovickÃ¡",
+    "address": "vestibul Antala StaÅ¡ka, Stanice metra, Praha 4",
     "openingHours": [
       {
         "from": 0,
@@ -4898,7 +4898,7 @@
   {
     "id": "dp2781",
     "type": "ticketMachine",
-    "name": "Budìjovická",
+    "name": "BudÄ›jovickÃ¡",
     "address": "vestibul Olbrachtova, Stanice metra, Praha 4",
     "openingHours": [
       {
@@ -4915,7 +4915,7 @@
   {
     "id": "dp2791",
     "type": "ticketMachine",
-    "name": "Pankrác",
+    "name": "PankrÃ¡c",
     "address": "Stanice metra, Praha 4",
     "openingHours": [
       {
@@ -4932,7 +4932,7 @@
   {
     "id": "dp2801",
     "type": "ticketMachine",
-    "name": "Praského povstání",
+    "name": "PraÅ¾skÃ©ho povstÃ¡nÃ­",
     "address": "Stanice metra, Praha 4",
     "openingHours": [
       {
@@ -4949,7 +4949,7 @@
   {
     "id": "dp2811",
     "type": "ticketMachine",
-    "name": "Vyšehrad",
+    "name": "VyÅ¡ehrad",
     "address": "z centra, Stanice metra, Praha 4",
     "openingHours": [
       {
@@ -4966,7 +4966,7 @@
   {
     "id": "dp2813",
     "type": "ticketMachine",
-    "name": "Vyšehrad",
+    "name": "VyÅ¡ehrad",
     "address": "do centra, Stanice metra, Praha 4",
     "openingHours": [
       {
@@ -5001,7 +5001,7 @@
     "id": "dp2825",
     "type": "ticketMachine",
     "name": "I.P. Pavlova",
-    "address": "vıtah, Legerova, Stanice metra, Praha 2",
+    "address": "vÃ½tah, Legerova, Stanice metra, Praha 2",
     "openingHours": [
       {
         "from": 0,
@@ -5017,7 +5017,7 @@
   {
     "id": "dp2833",
     "type": "ticketMachine",
-    "name": "Hlavní nádraí",
+    "name": "HlavnÃ­ nÃ¡draÅ¾Ã­",
     "address": "Stanice metra, Praha 1",
     "openingHours": [
       {
@@ -5034,7 +5034,7 @@
   {
     "id": "dp2807",
     "type": "ticketMachine",
-    "name": "Hlavní nádraí",
+    "name": "HlavnÃ­ nÃ¡draÅ¾Ã­",
     "address": "Stanice metra, Praha 1",
     "openingHours": [
       {
@@ -5051,7 +5051,7 @@
   {
     "id": "dp2805",
     "type": "ticketMachine",
-    "name": "Hlavní nádraí",
+    "name": "HlavnÃ­ nÃ¡draÅ¾Ã­",
     "address": "Stanice metra, Praha 1",
     "openingHours": [
       {
@@ -5068,7 +5068,7 @@
   {
     "id": "dp2831",
     "type": "ticketMachine",
-    "name": "Hlavní nádraí",
+    "name": "HlavnÃ­ nÃ¡draÅ¾Ã­",
     "address": "Stanice metra, Praha 1",
     "openingHours": [
       {
@@ -5086,7 +5086,7 @@
     "id": "dp2846",
     "type": "ticketMachine",
     "name": "Florenc",
-    "address": "vestibul Sokolovská C, Stanice metra, Praha 8",
+    "address": "vestibul SokolovskÃ¡ C, Stanice metra, Praha 8",
     "openingHours": [
       {
         "from": 0,
@@ -5103,7 +5103,7 @@
     "id": "dp2848",
     "type": "ticketMachine",
     "name": "Florenc",
-    "address": "vestibul Sokolovská B, Stanice metra, Praha 8",
+    "address": "vestibul SokolovskÃ¡ B, Stanice metra, Praha 8",
     "openingHours": [
       {
         "from": 0,
@@ -5119,8 +5119,8 @@
   {
     "id": "dp2859",
     "type": "ticketMachine",
-    "name": "Florenc vıtah",
-    "address": "vıtah, Florenc B, Stanice metra, Praha 8",
+    "name": "Florenc vÃ½tah",
+    "address": "vÃ½tah, Florenc B, Stanice metra, Praha 8",
     "openingHours": [
       {
         "from": 0,
@@ -5136,7 +5136,7 @@
   {
     "id": "dp2851",
     "type": "ticketMachine",
-    "name": "Vltavská",
+    "name": "VltavskÃ¡",
     "address": "Stanice metra, Praha 7",
     "openingHours": [
       {
@@ -5153,8 +5153,8 @@
   {
     "id": "dp2861",
     "type": "ticketMachine",
-    "name": "Nádraí Holešovice",
-    "address": "jiní vestibul bus, Stanice metra, Praha 7",
+    "name": "NÃ¡draÅ¾Ã­ HoleÅ¡ovice",
+    "address": "jiÅ¾nÃ­ vestibul bus, Stanice metra, Praha 7",
     "openingHours": [
       {
         "from": 0,
@@ -5170,8 +5170,8 @@
   {
     "id": "dp2871",
     "type": "ticketMachine",
-    "name": "Nádraí Holešovice",
-    "address": "severní vestibul nádraí, Stanice metra, Praha 7",
+    "name": "NÃ¡draÅ¾Ã­ HoleÅ¡ovice",
+    "address": "severnÃ­ vestibul nÃ¡draÅ¾Ã­, Stanice metra, Praha 7",
     "openingHours": [
       {
         "from": 0,
@@ -5188,7 +5188,7 @@
     "id": "dp2881",
     "type": "ticketMachine",
     "name": "Kobylisy",
-    "address": "Kobyliské námìstí, Stanice metra, Praha 8",
+    "address": "KobyliskÃ© nÃ¡mÄ›stÃ­, Stanice metra, Praha 8",
     "openingHours": [
       {
         "from": 0,
@@ -5205,7 +5205,7 @@
     "id": "dp2884",
     "type": "ticketMachine",
     "name": "Kobylisy",
-    "address": "Katastrální úøad, Stanice metra, Praha 8",
+    "address": "KatastrÃ¡lnÃ­ ÃºÅ™ad, Stanice metra, Praha 8",
     "openingHours": [
       {
         "from": 0,
@@ -5222,7 +5222,7 @@
     "id": "dp2887",
     "type": "ticketMachine",
     "name": "Kobylisy",
-    "address": "vıtah, Stanice metra (vıtah), Praha 8",
+    "address": "vÃ½tah, Stanice metra (vÃ½tah), Praha 8",
     "openingHours": [
       {
         "from": 0,
@@ -5238,7 +5238,7 @@
   {
     "id": "dp2891",
     "type": "ticketMachine",
-    "name": "Ládví",
+    "name": "LÃ¡dvÃ­",
     "address": "Stanice metra, Praha 8",
     "openingHours": [
       {
@@ -5255,7 +5255,7 @@
   {
     "id": "dp2679",
     "type": "ticketMachine",
-    "name": "Støíkov",
+    "name": "StÅ™Ã­Å¾kov",
     "address": "Stanice metra, Praha 9",
     "openingHours": [
       {
@@ -5272,7 +5272,7 @@
   {
     "id": "dp2680",
     "type": "ticketMachine",
-    "name": "Støíkov",
+    "name": "StÅ™Ã­Å¾kov",
     "address": "Stanice metra, Praha 9",
     "openingHours": [
       {
@@ -5289,7 +5289,7 @@
   {
     "id": "dp2682",
     "type": "ticketMachine",
-    "name": "Støíkov",
+    "name": "StÅ™Ã­Å¾kov",
     "address": "Stanice metra, Praha 9",
     "openingHours": [
       {
@@ -5306,7 +5306,7 @@
   {
     "id": "dp2684",
     "type": "ticketMachine",
-    "name": "Støíkov",
+    "name": "StÅ™Ã­Å¾kov",
     "address": "Stanice metra, Praha 9",
     "openingHours": [
       {
@@ -5323,7 +5323,7 @@
   {
     "id": "dp2686",
     "type": "ticketMachine",
-    "name": "Støíkov",
+    "name": "StÅ™Ã­Å¾kov",
     "address": "Stanice metra, Praha 9",
     "openingHours": [
       {
@@ -5340,7 +5340,7 @@
   {
     "id": "dp2688",
     "type": "ticketMachine",
-    "name": "Støíkov",
+    "name": "StÅ™Ã­Å¾kov",
     "address": "Stanice metra, Praha 9",
     "openingHours": [
       {
@@ -5357,7 +5357,7 @@
   {
     "id": "dp2690",
     "type": "ticketMachine",
-    "name": "Støíkov",
+    "name": "StÅ™Ã­Å¾kov",
     "address": "Stanice metra, Praha 9",
     "openingHours": [
       {
@@ -5391,7 +5391,7 @@
   {
     "id": "dp2701",
     "type": "ticketMachine",
-    "name": "Letòany",
+    "name": "LetÅˆany",
     "address": "Stanice metra, Praha 9",
     "openingHours": [
       {
@@ -5408,8 +5408,8 @@
   {
     "id": "dp930",
     "type": "ticketMachine",
-    "name": "Ládví P+R",
-    "address": "Parkovištì P+R, Praha 8",
+    "name": "LÃ¡dvÃ­ P+R",
+    "address": "ParkoviÅ¡tÄ› P+R, Praha 8",
     "openingHours": [
       {
         "from": 0,
@@ -5426,7 +5426,7 @@
     "id": "dp931",
     "type": "ticketMachine",
     "name": "Chodov P+R",
-    "address": "Parkovištì P+R, Praha 4",
+    "address": "ParkoviÅ¡tÄ› P+R, Praha 4",
     "openingHours": [
       {
         "from": 0,
@@ -5442,8 +5442,8 @@
   {
     "id": "dp938",
     "type": "ticketMachine",
-    "name": "Letòany P+R",
-    "address": "Parkovištì P+R, Praha 9",
+    "name": "LetÅˆany P+R",
+    "address": "ParkoviÅ¡tÄ› P+R, Praha 9",
     "openingHours": [
       {
         "from": 0,
@@ -5459,7 +5459,7 @@
   {
     "id": "cd551069",
     "type": "trainStation",
-    "name": "Benešov u Prahy",
+    "name": "BeneÅ¡ov u Prahy",
     "address": "",
     "openingHours": [
       {
@@ -5500,7 +5500,7 @@
   {
     "id": "cd546465",
     "type": "trainStation",
-    "name": "Brandıs nad Labem",
+    "name": "BrandÃ½s nad Labem",
     "address": "",
     "openingHours": [
       {
@@ -5528,7 +5528,7 @@
   {
     "id": "cd769349",
     "type": "trainStation",
-    "name": "Bøeznice",
+    "name": "BÅ™eznice",
     "address": "",
     "openingHours": [
       {
@@ -5546,7 +5546,7 @@
   {
     "id": "cd540443",
     "type": "trainStation",
-    "name": "Èáslav",
+    "name": "ÄŒÃ¡slav",
     "address": "",
     "openingHours": [
       {
@@ -5574,7 +5574,7 @@
   {
     "id": "cd547760",
     "type": "trainStation",
-    "name": "Èelákovice",
+    "name": "ÄŒelÃ¡kovice",
     "address": "",
     "openingHours": [
       {
@@ -5597,7 +5597,7 @@
   {
     "id": "cd550467",
     "type": "trainStation",
-    "name": "Èerèany",
+    "name": "ÄŒerÄany",
     "address": "",
     "openingHours": [
       {
@@ -5620,7 +5620,7 @@
   {
     "id": "cd532663",
     "type": "trainStation",
-    "name": "Èernošice",
+    "name": "ÄŒernoÅ¡ice",
     "address": "",
     "openingHours": [
       {
@@ -5648,7 +5648,7 @@
   {
     "id": "cd532465",
     "type": "trainStation",
-    "name": "Èernošice-Mokropsy",
+    "name": "ÄŒernoÅ¡ice-Mokropsy",
     "address": "",
     "openingHours": [
       {
@@ -5666,7 +5666,7 @@
   {
     "id": "cd530667",
     "type": "trainStation",
-    "name": "Èeskı Brod",
+    "name": "ÄŒeskÃ½ Brod",
     "address": "",
     "openingHours": [
       {
@@ -5694,7 +5694,7 @@
   {
     "id": "cd532267",
     "type": "trainStation",
-    "name": "Dobøichovice",
+    "name": "DobÅ™ichovice",
     "address": "",
     "openingHours": [
       {
@@ -5722,7 +5722,7 @@
   {
     "id": "cd731349",
     "type": "trainStation",
-    "name": "Hoøovice",
+    "name": "HoÅ™ovice",
     "address": "",
     "openingHours": [
       {
@@ -5809,7 +5809,7 @@
   {
     "id": "cd531863",
     "type": "trainStation",
-    "name": "Karlštejn",
+    "name": "KarlÅ¡tejn",
     "address": "",
     "openingHours": [
       {
@@ -5855,7 +5855,7 @@
   {
     "id": "cd535567",
     "type": "trainStation",
-    "name": "Kladno mìsto",
+    "name": "Kladno mÄ›sto",
     "address": "",
     "openingHours": [
       {
@@ -5878,7 +5878,7 @@
   {
     "id": "cd534149",
     "type": "trainStation",
-    "name": "Kolín",
+    "name": "KolÃ­n",
     "address": "",
     "openingHours": [
       {
@@ -5906,7 +5906,7 @@
   {
     "id": "cd534248",
     "type": "trainStation",
-    "name": "Kolín zastávka",
+    "name": "KolÃ­n zastÃ¡vka",
     "address": "",
     "openingHours": [
       {
@@ -5975,7 +5975,7 @@
   {
     "id": "cd540146",
     "type": "trainStation",
-    "name": "Kutná Hora hlavní nádraí",
+    "name": "KutnÃ¡ Hora hlavnÃ­ nÃ¡draÅ¾Ã­",
     "address": "",
     "openingHours": [
       {
@@ -6003,7 +6003,7 @@
   {
     "id": "cd563460",
     "type": "trainStation",
-    "name": "Kutná Hora mìsto",
+    "name": "KutnÃ¡ Hora mÄ›sto",
     "address": "",
     "openingHours": [
       {
@@ -6031,7 +6031,7 @@
   {
     "id": "cd544361",
     "type": "trainStation",
-    "name": "Libèice nad Vltavou",
+    "name": "LibÄice nad Vltavou",
     "address": "",
     "openingHours": [
       {
@@ -6049,7 +6049,7 @@
   {
     "id": "cd531145",
     "type": "trainStation",
-    "name": "Lysá nad Labem",
+    "name": "LysÃ¡ nad Labem",
     "address": "",
     "openingHours": [
       {
@@ -6077,7 +6077,7 @@
   {
     "id": "cd530188",
     "type": "trainStation",
-    "name": "Mìlník",
+    "name": "MÄ›lnÃ­k",
     "address": "",
     "openingHours": [
       {
@@ -6133,7 +6133,7 @@
   {
     "id": "cd544510",
     "type": "trainStation",
-    "name": "Mladá Boleslav hlavní nádraí",
+    "name": "MladÃ¡ Boleslav hlavnÃ­ nÃ¡draÅ¾Ã­",
     "address": "",
     "openingHours": [
       {
@@ -6151,7 +6151,7 @@
   {
     "id": "cd559914",
     "type": "trainStation",
-    "name": "Mladá Boleslav mìsto",
+    "name": "MladÃ¡ Boleslav mÄ›sto",
     "address": "",
     "openingHours": [
       {
@@ -6207,7 +6207,7 @@
   {
     "id": "cd543512",
     "type": "trainStation",
-    "name": "Mnichovo Hradištì",
+    "name": "Mnichovo HradiÅ¡tÄ›",
     "address": "",
     "openingHours": [
       {
@@ -6258,7 +6258,7 @@
   {
     "id": "cd532143",
     "type": "trainStation",
-    "name": "Nymburk hlavní nádraí",
+    "name": "Nymburk hlavnÃ­ nÃ¡draÅ¾Ã­",
     "address": "",
     "openingHours": [
       {
@@ -6309,7 +6309,7 @@
   {
     "id": "cd531160",
     "type": "trainStation",
-    "name": "Peèky",
+    "name": "PeÄky",
     "address": "",
     "openingHours": [
       {
@@ -6337,7 +6337,7 @@
   {
     "id": "cd532341",
     "type": "trainStation",
-    "name": "Podìbrady",
+    "name": "PodÄ›brady",
     "address": "",
     "openingHours": [
       {
@@ -6365,7 +6365,7 @@
   {
     "id": "cd530964",
     "type": "trainStation",
-    "name": "Poøíèany",
+    "name": "PoÅ™Ã­Äany",
     "address": "",
     "openingHours": [
       {
@@ -6383,7 +6383,7 @@
   {
     "id": "cd570762",
     "type": "trainStation",
-    "name": "Praha hlavní nádraí",
+    "name": "Praha hlavnÃ­ nÃ¡draÅ¾Ã­",
     "address": "",
     "openingHours": [
       {
@@ -6406,7 +6406,7 @@
   {
     "id": "cd592063",
     "type": "trainStation",
-    "name": "Praha Letištì",
+    "name": "Praha LetiÅ¡tÄ›",
     "address": "",
     "openingHours": [
       {
@@ -6424,7 +6424,7 @@
   {
     "id": "cd572362",
     "type": "trainStation",
-    "name": "Praha Masarykovo nádraí",
+    "name": "Praha Masarykovo nÃ¡draÅ¾Ã­",
     "address": "",
     "openingHours": [
       {
@@ -6442,7 +6442,7 @@
   {
     "id": "cd570168",
     "type": "trainStation",
-    "name": "Praha-Braník",
+    "name": "Praha-BranÃ­k",
     "address": "",
     "openingHours": [
       {
@@ -6493,7 +6493,7 @@
   {
     "id": "cd572560",
     "type": "trainStation",
-    "name": "Praha-Holešovice",
+    "name": "Praha-HoleÅ¡ovice",
     "address": "",
     "openingHours": [
       {
@@ -6521,7 +6521,7 @@
   {
     "id": "cd548263",
     "type": "trainStation",
-    "name": "Praha-Horní Poèernice",
+    "name": "Praha-HornÃ­ PoÄernice",
     "address": "",
     "openingHours": [
       {
@@ -6539,7 +6539,7 @@
   {
     "id": "cd570960",
     "type": "trainStation",
-    "name": "Praha-Hostivaø",
+    "name": "Praha-HostivaÅ™",
     "address": "",
     "openingHours": [
       {
@@ -6562,7 +6562,7 @@
   {
     "id": "cd530568",
     "type": "trainStation",
-    "name": "Praha-Klánovice",
+    "name": "Praha-KlÃ¡novice",
     "address": "",
     "openingHours": [
       {
@@ -6590,7 +6590,7 @@
   {
     "id": "cd571760",
     "type": "trainStation",
-    "name": "Praha-Libeò",
+    "name": "Praha-LibeÅˆ",
     "address": "",
     "openingHours": [
       {
@@ -6608,7 +6608,7 @@
   {
     "id": "cd532564",
     "type": "trainStation",
-    "name": "Praha-Radotín",
+    "name": "Praha-RadotÃ­n",
     "address": "",
     "openingHours": [
       {
@@ -6636,7 +6636,7 @@
   {
     "id": "cd572263",
     "type": "trainStation",
-    "name": "Praha-Smíchov",
+    "name": "Praha-SmÃ­chov",
     "address": "",
     "openingHours": [
       {
@@ -6654,7 +6654,7 @@
   {
     "id": "cd549568",
     "type": "trainStation",
-    "name": "Praha-Uhøínìves",
+    "name": "Praha-UhÅ™Ã­nÄ›ves",
     "address": "",
     "openingHours": [
       {
@@ -6672,7 +6672,7 @@
   {
     "id": "cd572669",
     "type": "trainStation",
-    "name": "Praha-Veleslavín",
+    "name": "Praha-VeleslavÃ­n",
     "address": "",
     "openingHours": [
       {
@@ -6695,7 +6695,7 @@
   {
     "id": "cd572768",
     "type": "trainStation",
-    "name": "Praha-Vršovice",
+    "name": "Praha-VrÅ¡ovice",
     "address": "",
     "openingHours": [
       {
@@ -6713,7 +6713,7 @@
   {
     "id": "cd573162",
     "type": "trainStation",
-    "name": "Praha-Vysoèany",
+    "name": "Praha-VysoÄany",
     "address": "",
     "openingHours": [
       {
@@ -6731,7 +6731,7 @@
   {
     "id": "cd572792",
     "type": "trainStation",
-    "name": "Praha-Zahradní Mìsto",
+    "name": "Praha-ZahradnÃ­ MÄ›sto",
     "address": "",
     "openingHours": [
       {
@@ -6759,7 +6759,7 @@
   {
     "id": "cd769042",
     "type": "trainStation",
-    "name": "Pøíbram",
+    "name": "PÅ™Ã­bram",
     "address": "",
     "openingHours": [
       {
@@ -6782,7 +6782,7 @@
   {
     "id": "cd760942",
     "type": "trainStation",
-    "name": "Rakovník",
+    "name": "RakovnÃ­k",
     "address": "",
     "openingHours": [
       {
@@ -6818,7 +6818,7 @@
   {
     "id": "cd532168",
     "type": "trainStation",
-    "name": "Øevnice",
+    "name": "Å˜evnice",
     "address": "",
     "openingHours": [
       {
@@ -6846,7 +6846,7 @@
   {
     "id": "cd549865",
     "type": "trainStation",
-    "name": "Øíèany",
+    "name": "Å˜Ã­Äany",
     "address": "",
     "openingHours": [
       {
@@ -6874,7 +6874,7 @@
   {
     "id": "cd545145",
     "type": "trainStation",
-    "name": "Sadská",
+    "name": "SadskÃ¡",
     "address": "",
     "openingHours": [
       {
@@ -6892,7 +6892,7 @@
   {
     "id": "cd559666",
     "type": "trainStation",
-    "name": "Sázava",
+    "name": "SÃ¡zava",
     "address": "",
     "openingHours": [
       {
@@ -6920,7 +6920,7 @@
   {
     "id": "cd551762",
     "type": "trainStation",
-    "name": "Sedlèany",
+    "name": "SedlÄany",
     "address": "",
     "openingHours": [
       {
@@ -6971,7 +6971,7 @@
   {
     "id": "cd538066",
     "type": "trainStation",
-    "name": "Slanı",
+    "name": "SlanÃ½",
     "address": "",
     "openingHours": [
       {
@@ -6999,7 +6999,7 @@
   {
     "id": "cd550061",
     "type": "trainStation",
-    "name": "Stranèice",
+    "name": "StranÄice",
     "address": "",
     "openingHours": [
       {
@@ -7022,7 +7022,7 @@
   {
     "id": "cd534743",
     "type": "trainStation",
-    "name": "Tınec nad Labem",
+    "name": "TÃ½nec nad Labem",
     "address": "",
     "openingHours": [
       {
@@ -7040,7 +7040,7 @@
   {
     "id": "cd557868",
     "type": "trainStation",
-    "name": "Tınec nad Sázavou",
+    "name": "TÃ½nec nad SÃ¡zavou",
     "address": "",
     "openingHours": [
       {
@@ -7063,7 +7063,7 @@
   {
     "id": "cd530469",
     "type": "trainStation",
-    "name": "Úvaly",
+    "name": "Ãšvaly",
     "address": "",
     "openingHours": [
       {
@@ -7109,7 +7109,7 @@
   {
     "id": "cd533141",
     "type": "trainStation",
-    "name": "Velkı Osek",
+    "name": "VelkÃ½ Osek",
     "address": "",
     "openingHours": [
       {
@@ -7165,7 +7165,7 @@
   {
     "id": "cd553560",
     "type": "trainStation",
-    "name": "Vlašim",
+    "name": "VlaÅ¡im",
     "address": "",
     "openingHours": [
       {
@@ -7193,7 +7193,7 @@
   {
     "id": "cd555466",
     "type": "trainStation",
-    "name": "Vrané nad Vltavou",
+    "name": "VranÃ© nad Vltavou",
     "address": "",
     "openingHours": [
       {
@@ -7221,7 +7221,7 @@
   {
     "id": "cd530147",
     "type": "trainStation",
-    "name": "Všetaty",
+    "name": "VÅ¡etaty",
     "address": "",
     "openingHours": [
       {
@@ -7249,7 +7249,7 @@
   {
     "id": "cd532069",
     "type": "trainStation",
-    "name": "Zadní Tøebaò",
+    "name": "ZadnÃ­ TÅ™ebaÅˆ",
     "address": "",
     "openingHours": [
       {
@@ -7305,7 +7305,7 @@
   {
     "id": "cd561365",
     "type": "trainStation",
-    "name": "Zruè nad Sázavou",
+    "name": "ZruÄ nad SÃ¡zavou",
     "address": "",
     "openingHours": [
       {
@@ -7333,8 +7333,8 @@
   {
     "id": "ro1",
     "type": "informationCenter",
-    "name": "Andìl",
-    "address": "Vestibul stanice metra ve smìru ul. Plzeòská (severní vestibul)",
+    "name": "AndÄ›l",
+    "address": "Vestibul stanice metra ve smÄ›ru ul. PlzeÅˆskÃ¡ (severnÃ­ vestibul)",
     "openingHours": [
       {
         "from": 0,
@@ -7350,8 +7350,8 @@
   {
     "id": "ro2",
     "type": "informationCenter",
-    "name": "Hlavní nádraí 1",
-    "address": "Odbavovací hala nádraí u vstupu do metra (severní vstup)",
+    "name": "HlavnÃ­ nÃ¡draÅ¾Ã­ 1",
+    "address": "OdbavovacÃ­ hala nÃ¡draÅ¾Ã­ u vstupu do metra (severnÃ­ vstup)",
     "openingHours": [
       {
         "from": 0,
@@ -7372,8 +7372,8 @@
   {
     "id": "ro3",
     "type": "informationCenter",
-    "name": "Hlavní nádraí 2",
-    "address": "Odbavovací hala nádraí u vstupu do metra jiní vstup)",
+    "name": "HlavnÃ­ nÃ¡draÅ¾Ã­ 2",
+    "address": "OdbavovacÃ­ hala nÃ¡draÅ¾Ã­ u vstupu do metra jiÅ¾nÃ­ vstup)",
     "openingHours": [
       {
         "from": 0,
@@ -7394,7 +7394,7 @@
   {
     "id": "ro4",
     "type": "informationCenter",
-    "name": "Hradèanská",
+    "name": "HradÄanskÃ¡",
     "address": "Vestibul stanice metra",
     "openingHours": [
       {
@@ -7416,8 +7416,8 @@
   {
     "id": "ro5",
     "type": "informationCenter",
-    "name": "Letištì Václava Havla Praha, Terminál 1",
-    "address": "Pøíletová hala Terminálu 1 na letišti Václava Havla Praha",
+    "name": "LetiÅ¡tÄ› VÃ¡clava Havla Praha, TerminÃ¡l 1",
+    "address": "PÅ™Ã­letovÃ¡ hala TerminÃ¡lu 1 na letiÅ¡ti VÃ¡clava Havla Praha",
     "openingHours": [
       {
         "from": 0,
@@ -7433,8 +7433,8 @@
   {
     "id": "ro6",
     "type": "informationCenter",
-    "name": "Letištì Václava Havla Praha, Terminál 2",
-    "address": "Pøíletová hala Terminálu 2 na letišti Václava Havla Praha",
+    "name": "LetiÅ¡tÄ› VÃ¡clava Havla Praha, TerminÃ¡l 2",
+    "address": "PÅ™Ã­letovÃ¡ hala TerminÃ¡lu 2 na letiÅ¡ti VÃ¡clava Havla Praha",
     "openingHours": [
       {
         "from": 0,
@@ -7450,8 +7450,8 @@
   {
     "id": "ro7",
     "type": "informationCenter",
-    "name": "Magistrát hl. m. Prahy (DPP)",
-    "address": "Jungmannova 29, Praha 1, pøízemí budovy Magistrátu (Škodùv palác)",
+    "name": "MagistrÃ¡t hl. m. Prahy (DPP)",
+    "address": "Jungmannova 29, Praha 1, pÅ™Ã­zemÃ­ budovy MagistrÃ¡tu (Å kodÅ¯v palÃ¡c)",
     "openingHours": [
       {
         "from": 0,
@@ -7468,13 +7468,13 @@
     "lon": 14.4220858,
     "services": 1257730,
     "payMethods": 15,
-    "remarks": "Infocentrum je umístìno v pasái Škodova paláce."
+    "remarks": "Infocentrum je umÃ­stÄ›no v pasÃ¡Å¾i Å kodova palÃ¡ce."
   },
   {
     "id": "ro8",
     "type": "informationCenter",
-    "name": "Mùstek",
-    "address": "Vestibul stanice metra linky A ve smìru ul. 28. øíjna (severní vestibul)",
+    "name": "MÅ¯stek",
+    "address": "Vestibul stanice metra linky A ve smÄ›ru ul. 28. Å™Ã­jna (severnÃ­ vestibul)",
     "openingHours": [
       {
         "from": 0,
@@ -7490,7 +7490,7 @@
   {
     "id": "ro9",
     "type": "informationCenter",
-    "name": "Nádraí Veleslavín",
+    "name": "NÃ¡draÅ¾Ã­ VeleslavÃ­n",
     "address": "Vestibul stanice metra",
     "openingHours": [
       {
@@ -7512,8 +7512,8 @@
   {
     "id": "ro51",
     "type": "informationCenter",
-    "name": "Èernı Most (PID)",
-    "address": "V úrovni vıstupních kolejí metra (jiní nástupištì), ve vıchodní èásti stanice",
+    "name": "ÄŒernÃ½ Most (PID)",
+    "address": "V Ãºrovni vÃ½stupnÃ­ch kolejÃ­ metra (jiÅ¾nÃ­ nÃ¡stupiÅ¡tÄ›), ve vÃ½chodnÃ­ ÄÃ¡sti stanice",
     "openingHours": [
       {
         "from": 0,
@@ -7530,13 +7530,13 @@
     "lon": 14.5779,
     "services": 196864,
     "payMethods": 15,
-    "remarks": "Té prodej jízdenek AMS (dálková doprava)"
+    "remarks": "TÃ©Å¾ prodej jÃ­zdenek AMS (dÃ¡lkovÃ¡ doprava)"
   },
   {
     "id": "ro52",
     "type": "informationCenter",
-    "name": "Zlièín (PID)",
-    "address": "Ulièní úroveò u autobusového nádraí v obchodní vybavenosti",
+    "name": "ZliÄÃ­n (PID)",
+    "address": "UliÄnÃ­ ÃºroveÅˆ u autobusovÃ©ho nÃ¡draÅ¾Ã­ v obchodnÃ­ vybavenosti",
     "openingHours": [
       {
         "from": 0,
@@ -7553,13 +7553,13 @@
     "lon": 14.29123,
     "services": 196864,
     "payMethods": 15,
-    "remarks": "Té prodej jízdenek AMS (dálková doprava)"
+    "remarks": "TÃ©Å¾ prodej jÃ­zdenek AMS (dÃ¡lkovÃ¡ doprava)"
   },
   {
     "id": "ro99",
     "type": "informationCenter",
-    "name": "Magistrát hl. m. Prahy (OICT)",
-    "address": "Jungmannova 35/29, Praha 1, pøízemí budovy Magistrátu (Škodùv palác)",
+    "name": "MagistrÃ¡t hl. m. Prahy (OICT)",
+    "address": "Jungmannova 35/29, Praha 1, pÅ™Ã­zemÃ­ budovy MagistrÃ¡tu (Å kodÅ¯v palÃ¡c)",
     "openingHours": [
       {
         "from": 0,
@@ -7586,7 +7586,7 @@
     "lon": 14.42223,
     "services": 368,
     "payMethods": 15,
-    "remarks": "Pøepáky jsou umístìny na rohu Charvátovy a Jungmannovy ulice."
+    "remarks": "PÅ™epÃ¡Å¾ky jsou umÃ­stÄ›ny na rohu CharvÃ¡tovy a Jungmannovy ulice."
   },
   {
     "id": "ro101",
@@ -7608,7 +7608,7 @@
   {
     "id": "ro102",
     "type": "ticketOfficeMetro",
-    "name": "Boøislavka",
+    "name": "BoÅ™islavka",
     "address": "Vestibul stanice metra",
     "openingHours": [
       {
@@ -7625,8 +7625,8 @@
   {
     "id": "ro103",
     "type": "ticketOfficeMetro",
-    "name": "Dejvická",
-    "address": "Vestibul stanice metra (spojovací chodba nad nástupištìm)",
+    "name": "DejvickÃ¡",
+    "address": "Vestibul stanice metra (spojovacÃ­ chodba nad nÃ¡stupiÅ¡tÄ›m)",
     "openingHours": [
       {
         "from": 0,
@@ -7642,8 +7642,8 @@
   {
     "id": "ro104",
     "type": "ticketOfficeMetro",
-    "name": "Mùstek - A",
-    "address": "Vestibul stanice metra linky A ve smìru ul. 28. øíjna (severní vestibul)",
+    "name": "MÅ¯stek - A",
+    "address": "Vestibul stanice metra linky A ve smÄ›ru ul. 28. Å™Ã­jna (severnÃ­ vestibul)",
     "openingHours": [
       {
         "from": 0,
@@ -7659,7 +7659,7 @@
   {
     "id": "ro105",
     "type": "ticketOfficeMetro",
-    "name": "Námìstí Míru",
+    "name": "NÃ¡mÄ›stÃ­ MÃ­ru",
     "address": "Vestibul stanice metra",
     "openingHours": [
       {
@@ -7676,7 +7676,7 @@
   {
     "id": "ro106",
     "type": "ticketOfficeMetro",
-    "name": "elivského",
+    "name": "Å½elivskÃ©ho",
     "address": "Vestibul stanice metra",
     "openingHours": [
       {
@@ -7693,8 +7693,8 @@
   {
     "id": "ro107",
     "type": "ticketOfficeMetro",
-    "name": "Strašnická",
-    "address": "Ulièní úroveò ve smìru ul. Mrštíkova (severní strana)",
+    "name": "StraÅ¡nickÃ¡",
+    "address": "UliÄnÃ­ ÃºroveÅˆ ve smÄ›ru ul. MrÅ¡tÃ­kova (severnÃ­ strana)",
     "openingHours": [
       {
         "from": 0,
@@ -7711,7 +7711,7 @@
     "id": "ro108",
     "type": "ticketOfficeMetro",
     "name": "Skalka",
-    "address": "Ulièní úroveò u bus zastávek smìr Zahradní mìsto (západní strana ulice Na Padesátém)",
+    "address": "UliÄnÃ­ ÃºroveÅˆ u bus zastÃ¡vek smÄ›r ZahradnÃ­ mÄ›sto (zÃ¡padnÃ­ strana ulice Na PadesÃ¡tÃ©m)",
     "openingHours": [
       {
         "from": 0,
@@ -7727,8 +7727,8 @@
   {
     "id": "ro110",
     "type": "ticketOfficeMetro",
-    "name": "Zlièín",
-    "address": "Ulièní úroveò u autobusového nádraí (severní strana)",
+    "name": "ZliÄÃ­n",
+    "address": "UliÄnÃ­ ÃºroveÅˆ u autobusovÃ©ho nÃ¡draÅ¾Ã­ (severnÃ­ strana)",
     "openingHours": [
       {
         "from": 0,
@@ -7761,7 +7761,7 @@
   {
     "id": "ro112",
     "type": "ticketOfficeMetro",
-    "name": "Hùrka",
+    "name": "HÅ¯rka",
     "address": "Vestibul stanice metra",
     "openingHours": [
       {
@@ -7778,8 +7778,8 @@
   {
     "id": "ro113",
     "type": "ticketOfficeMetro",
-    "name": "Smíchovské nádraí",
-    "address": "Vestibul stanice metra ve smìru autobusové nádraí (jiní vestibul)",
+    "name": "SmÃ­chovskÃ© nÃ¡draÅ¾Ã­",
+    "address": "Vestibul stanice metra ve smÄ›ru autobusovÃ© nÃ¡draÅ¾Ã­ (jiÅ¾nÃ­ vestibul)",
     "openingHours": [
       {
         "from": 0,
@@ -7800,8 +7800,8 @@
   {
     "id": "ro115",
     "type": "ticketOfficeMetro",
-    "name": "Karlovo námìstí",
-    "address": "Vestibul stanice metra ve smìru Karlovo námìstí",
+    "name": "Karlovo nÃ¡mÄ›stÃ­",
+    "address": "Vestibul stanice metra ve smÄ›ru Karlovo nÃ¡mÄ›stÃ­",
     "openingHours": [
       {
         "from": 0,
@@ -7817,7 +7817,7 @@
   {
     "id": "ro116",
     "type": "ticketOfficeMetro",
-    "name": "Mùstek - B",
+    "name": "MÅ¯stek - B",
     "address": "Vestibul stanice metra linky B",
     "openingHours": [
       {
@@ -7835,7 +7835,7 @@
     "id": "ro118",
     "type": "ticketOfficeMetro",
     "name": "Palmovka",
-    "address": "Vestibul stanice mìtra ve smìru autobusové nádraí (vıchodní vestibul)",
+    "address": "Vestibul stanice mÄ›tra ve smÄ›ru autobusovÃ© nÃ¡draÅ¾Ã­ (vÃ½chodnÃ­ vestibul)",
     "openingHours": [
       {
         "from": 0,
@@ -7851,8 +7851,8 @@
   {
     "id": "ro119",
     "type": "ticketOfficeMetro",
-    "name": "Vysoèanská",
-    "address": "Vestibul stanice metra ve smìru ul. Freyova (vıchodní vestibul)",
+    "name": "VysoÄanskÃ¡",
+    "address": "Vestibul stanice metra ve smÄ›ru ul. Freyova (vÃ½chodnÃ­ vestibul)",
     "openingHours": [
       {
         "from": 0,
@@ -7868,20 +7868,20 @@
   {
     "id": "ro120",
     "type": "ticketOfficeMetro",
-    "name": "Rajská zahrada",
-    "address": "Nástupištì ve smìru centrum (horní nástupištì, západní vchod)",
+    "name": "RajskÃ¡ zahrada",
+    "address": "NÃ¡stupiÅ¡tÄ› ve smÄ›ru centrum (hornÃ­ nÃ¡stupiÅ¡tÄ›, zÃ¡padnÃ­ vchod)",
     "openingHours": [],
     "lat": 50.106678,
     "lon": 14.5598516,
     "services": 209154,
     "payMethods": 15,
-    "remarks": "Doèasnì zavøeno (cca do 12/2022)"
+    "remarks": "DoÄasnÄ› zavÅ™eno (cca do 12/2022)"
   },
   {
     "id": "ro121",
     "type": "ticketOfficeMetro",
-    "name": "Èernı Most",
-    "address": "Ulièní úroveò u nástupištì metra smìr centrum (severní nástupištì)",
+    "name": "ÄŒernÃ½ Most",
+    "address": "UliÄnÃ­ ÃºroveÅˆ u nÃ¡stupiÅ¡tÄ› metra smÄ›r centrum (severnÃ­ nÃ¡stupiÅ¡tÄ›)",
     "openingHours": [
       {
         "from": 0,
@@ -7902,8 +7902,8 @@
   {
     "id": "ro122",
     "type": "ticketOfficeMetro",
-    "name": "Háje",
-    "address": "Vestibul stanice mìtra ve smìru ul. Opatovská (vıchodní vestibul)",
+    "name": "HÃ¡je",
+    "address": "Vestibul stanice mÄ›tra ve smÄ›ru ul. OpatovskÃ¡ (vÃ½chodnÃ­ vestibul)",
     "openingHours": [
       {
         "from": 0,
@@ -7919,8 +7919,8 @@
   {
     "id": "ro128",
     "type": "ticketOfficeMetro",
-    "name": "Nádraí Holešovice",
-    "address": "Vestibul stanice metra ve smìru ul. Plynární (jiní vestibul)",
+    "name": "NÃ¡draÅ¾Ã­ HoleÅ¡ovice",
+    "address": "Vestibul stanice metra ve smÄ›ru ul. PlynÃ¡rnÃ­ (jiÅ¾nÃ­ vestibul)",
     "openingHours": [
       {
         "from": 0,
@@ -7936,8 +7936,8 @@
   {
     "id": "ro130",
     "type": "ticketOfficeMetro",
-    "name": "Ládví",
-    "address": "Vestibul stanice mìtra ve smìru ul. Opálkova (západní vıstup)",
+    "name": "LÃ¡dvÃ­",
+    "address": "Vestibul stanice mÄ›tra ve smÄ›ru ul. OpÃ¡lkova (zÃ¡padnÃ­ vÃ½stup)",
     "openingHours": [
       {
         "from": 0,
@@ -7953,8 +7953,8 @@
   {
     "id": "ro140",
     "type": "ticketOfficeMetro",
-    "name": "Centrální dispeèink DPP",
-    "address": "Na Bojišti 5, Praha 2",
+    "name": "CentrÃ¡lnÃ­ dispeÄink DPP",
+    "address": "Na BojiÅ¡ti 5, Praha 2",
     "openingHours": [
       {
         "from": 0,
@@ -7971,7 +7971,7 @@
     "id": "ro151",
     "type": "ticketOfficeMetro",
     "name": "Kobylisy",
-    "address": "Vestibul stanice metra ve smìru Kobyliské námìstí (západní vestibul)",
+    "address": "Vestibul stanice metra ve smÄ›ru KobyliskÃ© nÃ¡mÄ›stÃ­ (zÃ¡padnÃ­ vestibul)",
     "openingHours": [
       {
         "from": 0,
@@ -7987,7 +7987,7 @@
   {
     "id": "ro152",
     "type": "ticketOfficeMetro",
-    "name": "Kaèerov",
+    "name": "KaÄerov",
     "address": "Vestibul stanice metra",
     "openingHours": [
       {
@@ -8009,7 +8009,7 @@
   {
     "id": "ro153",
     "type": "ticketOfficeMetro",
-    "name": "Andìl (Na Kníecí)",
+    "name": "AndÄ›l (Na KnÃ­Å¾ecÃ­)",
     "address": "Vestibul stanice metra",
     "openingHours": [
       {
@@ -8027,7 +8027,7 @@
     "id": "ro154",
     "type": "ticketOfficeMetro",
     "name": "Florenc",
-    "address": "Ulièní úroveò u vchodu do stanice metro linky B (západní strana)",
+    "address": "UliÄnÃ­ ÃºroveÅˆ u vchodu do stanice metro linky B (zÃ¡padnÃ­ strana)",
     "openingHours": [
       {
         "from": 0,
@@ -8070,8 +8070,8 @@
   {
     "id": "ro156",
     "type": "ticketOfficeMetro",
-    "name": "Letòany",
-    "address": "Vestibul stanice metra ve smìru autobusové nádraí (vıchodní vestibul)",
+    "name": "LetÅˆany",
+    "address": "Vestibul stanice metra ve smÄ›ru autobusovÃ© nÃ¡draÅ¾Ã­ (vÃ½chodnÃ­ vestibul)",
     "openingHours": [
       {
         "from": 0,
@@ -8093,7 +8093,7 @@
     "id": "ro157",
     "type": "ticketOfficeMetro",
     "name": "Roztyly",
-    "address": "Ulièní úroveò u autobusového nádraí (severní strana)",
+    "address": "UliÄnÃ­ ÃºroveÅˆ u autobusovÃ©ho nÃ¡draÅ¾Ã­ (severnÃ­ strana)",
     "openingHours": [
       {
         "from": 0,
@@ -8114,8 +8114,8 @@
   {
     "id": "ro200",
     "type": "carrierOffice",
-    "name": "Brandıs nad Labem-Stará Boleslav",
-    "address": "Informaèní kanceláø dopravce ÈSAD Støední Èechy",
+    "name": "BrandÃ½s nad Labem-StarÃ¡ Boleslav",
+    "address": "InformaÄnÃ­ kancelÃ¡Å™ dopravce ÄŒSAD StÅ™ednÃ­ ÄŒechy",
     "openingHours": [
       {
         "from": 0,
@@ -8131,8 +8131,8 @@
   {
     "id": "ro203",
     "type": "carrierOffice",
-    "name": "Mìlník",
-    "address": "Informaèní kanceláø dopravce ÈSAD Støední Èechy",
+    "name": "MÄ›lnÃ­k",
+    "address": "InformaÄnÃ­ kancelÃ¡Å™ dopravce ÄŒSAD StÅ™ednÃ­ ÄŒechy",
     "openingHours": [
       {
         "from": 0,
@@ -8153,8 +8153,8 @@
   {
     "id": "ro204",
     "type": "carrierOffice",
-    "name": "Kladno - autobusové nádraí",
-    "address": "Informaèní kanceláø ÈSAD Kladno na autobusovém nádraí",
+    "name": "Kladno - autobusovÃ© nÃ¡draÅ¾Ã­",
+    "address": "InformaÄnÃ­ kancelÃ¡Å™ ÄŒSAD Kladno na autobusovÃ©m nÃ¡draÅ¾Ã­",
     "openingHours": [
       {
         "from": 0,
@@ -8175,8 +8175,8 @@
   {
     "id": "ro205",
     "type": "carrierOffice",
-    "name": "Kladno - námìstí Svobody",
-    "address": "Informaèní kanceláø ÈSAD Kladno na námìstí Svobody",
+    "name": "Kladno - nÃ¡mÄ›stÃ­ Svobody",
+    "address": "InformaÄnÃ­ kancelÃ¡Å™ ÄŒSAD Kladno na nÃ¡mÄ›stÃ­ Svobody",
     "openingHours": [
       {
         "from": 0,
@@ -8198,7 +8198,7 @@
     "id": "ro206",
     "type": "carrierOffice",
     "name": "Nymburk",
-    "address": "Informaèní kanceláø OAD Kolín",
+    "address": "InformaÄnÃ­ kancelÃ¡Å™ OAD KolÃ­n",
     "openingHours": [
       {
         "from": 0,
@@ -8229,8 +8229,8 @@
   {
     "id": "ro207",
     "type": "carrierOffice",
-    "name": "Kolín",
-    "address": "Informaèní kanceláø OAD Kolín",
+    "name": "KolÃ­n",
+    "address": "InformaÄnÃ­ kancelÃ¡Å™ OAD KolÃ­n",
     "openingHours": [
       {
         "from": 0,
@@ -8271,8 +8271,8 @@
   {
     "id": "ro209",
     "type": "carrierOffice",
-    "name": "Pøíbram",
-    "address": "Informaèní kanceláø Arriva Støední Èechy na autobusovém nádraí",
+    "name": "PÅ™Ã­bram",
+    "address": "InformaÄnÃ­ kancelÃ¡Å™ Arriva StÅ™ednÃ­ ÄŒechy na autobusovÃ©m nÃ¡draÅ¾Ã­",
     "openingHours": [
       {
         "from": 0,
@@ -8298,8 +8298,8 @@
   {
     "id": "ro211",
     "type": "carrierOffice",
-    "name": "Rakovník",
-    "address": "Informaèní kanceláø Transdev Støední Èechy na autobusovém stanovišti",
+    "name": "RakovnÃ­k",
+    "address": "InformaÄnÃ­ kancelÃ¡Å™ Transdev StÅ™ednÃ­ ÄŒechy na autobusovÃ©m stanoviÅ¡ti",
     "openingHours": [
       {
         "from": 0,
@@ -8315,8 +8315,8 @@
   {
     "id": "ro213",
     "type": "carrierOffice",
-    "name": "Hoøovice",
-    "address": "Informaèní kanceláø Arriva Støední Èechy na autobusovém nádraí (námìstí Boeny Nìmcové)",
+    "name": "HoÅ™ovice",
+    "address": "InformaÄnÃ­ kancelÃ¡Å™ Arriva StÅ™ednÃ­ ÄŒechy na autobusovÃ©m nÃ¡draÅ¾Ã­ (nÃ¡mÄ›stÃ­ BoÅ¾eny NÄ›mcovÃ©)",
     "openingHours": [
       {
         "from": 0,

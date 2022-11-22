@@ -74,22 +74,23 @@ namespace PIDtickets
         public MainPage()
         {
             InitializeComponent();
-            string jsonFileName = "Places.json";
+            string jsonFileName = "pointsOfSale.json";
             var assembly = typeof(MainPage).GetTypeInfo().Assembly;
             Stream stream = assembly.GetManifestResourceStream($"{assembly.GetName().Name}.{jsonFileName}");
-            using (var reader = new System.IO.StreamReader(stream))
+            using (var reader = new StreamReader(stream))
             {
                 string jsonString = reader.ReadToEnd();
-                List<Places> places = JsonConvert.DeserializeObject<List<Places>>(jsonString);
+                places = JsonConvert.DeserializeObject<List<Places>>(jsonString);
             }
         }
         private void Button_Clicked(object sender, EventArgs e)
         {
             CurrentPlace currentPlace = ComunicationWithAPI(input.Text).Result;
             Places[] nearestPlaces = Compare(currentPlace);
+            Out.Text = "";
             foreach (var item in nearestPlaces)
             {
-                Out.Text += item.Name + ", " + item.Address;
+                Out.Text += item.Name + ", " + item.Address + "\r \n \r \n";
             }
         }
 
@@ -99,7 +100,7 @@ namespace PIDtickets
             var htc = new HttpClient();
             htc.DefaultRequestHeaders.Add("User-Agent", "WHATEVER VALUE");
             string uri = "https://nominatim.openstreetmap.org/search?q=" + s + "&format=geojson";
-            var response = await htc.PutAsync(uri, content);
+            var response = await htc.PutAsync(uri, content).ConfigureAwait(false);
             string result = await response.Content.ReadAsStringAsync();
             CurrentPlace currentPlace = JsonConvert.DeserializeObject<CurrentPlace>(result);
             return currentPlace;
