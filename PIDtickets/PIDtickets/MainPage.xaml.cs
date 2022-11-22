@@ -87,11 +87,9 @@ namespace PIDtickets
         {
             CurrentPlace currentPlace = ComunicationWithAPI(input.Text).Result;
             Places[] nearestPlaces = Compare(currentPlace);
-            Out.Text = "";
-            foreach (var item in nearestPlaces)
-            {
-                Out.Text += item.Name + ", " + item.Address + "\r \n \r \n";
-            }
+            OutOne.Text = nearestPlaces[0].Name + "\r \nAdresa: " + nearestPlaces[0].Address + "\r \nTyp: " + nearestPlaces[0].Type;
+            OutTwo.Text = nearestPlaces[1].Name + "\r \nAdresa: " + nearestPlaces[1].Address + "\r \nTyp: " + nearestPlaces[1].Type;
+            OutThree.Text = nearestPlaces[2].Name + "\r \nAdresa: " + nearestPlaces[2].Address + "\r \nTyp: " + nearestPlaces[2].Type;
         }
 
         private static async Task<CurrentPlace> ComunicationWithAPI(string s)

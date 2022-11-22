@@ -7,7 +7,7 @@
         <Frame BackgroundColor="Red" Padding="20" CornerRadius="0">
             <Label Text="Prodejny společnosti PID" HorizontalTextAlignment="Center" TextColor="Black" FontSize="30" FontFamily=""/>
         </Frame>
-        <Grid Margin="20,20,20,20">
+        <Grid Margin="20,20,20,15">
             <Grid.ColumnDefinitions>
                 <ColumnDefinition Width="*"/>
                 <ColumnDefinition Width="100"/>
@@ -15,7 +15,22 @@
             <Entry x:Name="input" Placeholder="Adresa" Grid.Column="0" PlaceholderColor="Gray" ClearButtonVisibility="WhileEditing"/>
             <Button Grid.Column="1" Text="Hledej" BackgroundColor="Red" CornerRadius="10" Clicked="Button_Clicked"/>
         </Grid>
-        <Label x:Name="Out" Text="Výsledek hledání" Margin="25"/>
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height = "100"/>
+                <RowDefinition Height = "100"/>
+                <RowDefinition Height = "100"/>
+            </Grid.RowDefinitions>
+            <Frame BackgroundColor="Gray" Grid.Row="0" Margin ="0,5">
+                <Label x:Name="OutOne" Text="Výsledek hledání 1" />
+            </Frame>
+            <Frame BackgroundColor="Gray" Grid.Row="1" Margin ="0,5">
+                <Label x:Name="OutTwo" Text="Výsledek hledání 2" />
+            </Frame>
+            <Frame BackgroundColor="Gray" Grid.Row="2" Margin ="0,5">
+                <Label x:Name="OutThree" Text="Výsledek hledání 3" />
+            </Frame>
+        </Grid>
     </StackLayout>
 
 </ContentPage>
