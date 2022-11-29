@@ -6404,24 +6404,6 @@
     "link": "https://www.cd.cz/stanice/5457076"
   },
   {
-    "id": "cd592063",
-    "type": "trainStation",
-    "name": "Praha Letiště",
-    "address": "",
-    "openingHours": [
-      {
-        "from": 0,
-        "to": 6,
-        "hours": "08:00-20:00"
-      }
-    ],
-    "lat": 50.0759964,
-    "lon": 14.4050827,
-    "services": 1253376,
-    "payMethods": 15,
-    "link": "https://www.cd.cz/stanice/5459206"
-  },
-  {
     "id": "cd572362",
     "type": "trainStation",
     "name": "Praha Masarykovo nádraží",
